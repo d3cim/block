@@ -4,4 +4,4 @@ The domains in this list are wildcards and can be used in various blockers but n
 
 I use this collection when I generate the `blacklist.txt` file, usually used in [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy).
 
-For this reason the entries in `domains-blacklist-local-additions.txt` file could result optimized on the  based on the `example-blacklist.txt` file
+For this reason the entries in `domains-blacklist-local-additions.txt` file could result in optimization based on the `example-blacklist.txt` file
