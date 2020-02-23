@@ -1,4 +1,16 @@
-# Local set of patterns to block
+
+############################################################
+#  domains-blacklist-local-additions.txt | dnscrypt-proxy  #
+#                                                          #
+#  https://git.nixnet.xyz/quindecim/block                  #
+############################################################
+
+## Author    : quindecim    : https://git.nixnet.xyz/quindecim
+##                            https://git.lushka.al/quindecim   | MIRROR
+##                            https://git.lelux.fi/quindecim    | MIRROR
+
+## License   : https://git.nixnet.xyz/quindecim/block/src/branch/master/LICENSE.txt
+
 
 *.2o7.*
 *.ad.*
@@ -416,7 +428,6 @@ statistics.*
 statistik.*
 stats.*
 stats1.*
-stats2.*
 stats2.*
 stats3.*
 stats4.*
