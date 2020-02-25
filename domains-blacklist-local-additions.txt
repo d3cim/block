@@ -14,11 +14,16 @@
 
 *.2o7.*
 *.ad.*
+*.addthis.*
+*.addthisedge.*
 *.adk2.*
 *.admob.*
 *.admonkey.*
 *.ads.*
 *.adsrvr.*
+*.adswizz.*
+*.adtiming.*
+*.adtriba.*
 *.advertisers.*
 *.affex.*
 *.analytics-site.*
@@ -33,7 +38,6 @@
 *.co.jp
 *.collect.*
 *.commandersact.*
-*.connectivitycheck.*
 *.criteo.*
 *.criteoemail.*
 *.criteois.*
@@ -56,7 +60,7 @@
 *.froogle.*
 *.glassdoor.*
 *.google-analytics.*
-*.googletagmanager.*
+*.googlesyndication.*
 *.googletagservices.*
 *.intentmedia.*
 *.keyade.*
@@ -75,9 +79,11 @@
 *.omtrdc.*
 *.online-metrix.*
 *.oui.sncf
+*.phorm.com
 *.pixeltracking.*
 *.qq.com
 *.safebrowsing.*
+*.securetags.*
 *.speedera.net
 *.ssl-omtrdc.*
 *.stats.*
@@ -89,6 +95,7 @@
 *.test-web.*
 *.threatmetrix.*
 *.transparencyreport.*
+*.webanalytics.*
 *.webtrack.*
 *.webtrekk-system.*
 *.webtrekk-tech.*
@@ -137,6 +144,7 @@ ad8.*
 ad9.*
 adanalytics.*
 adbmetrics.*
+adc.*
 adclear.*
 adclick.*
 adeb.*
@@ -192,6 +200,7 @@ banners.*
 beacon.*
 beacons.*
 bismetrics.*
+bzclk.*
 click.*
 clicks.*
 clk.*
@@ -202,6 +211,7 @@ cnameebis.*
 collect.*
 collecte.*
 collecting.*
+collection.*
 collector-analytics.*
 collector.*
 collector1.*
@@ -216,7 +226,6 @@ collector9.*
 commandersact.*
 compare-im.*
 compare.*
-connectivitycheck.*
 content22.*
 count.*
 count1.*
@@ -277,6 +286,7 @@ ebis-tracking.*
 ebis.*
 ebis2.*
 ebiscname.*
+eclick.*
 emetrics.*
 eth0.me
 eulerian.*
@@ -302,12 +312,13 @@ geolocation.*
 geoservice.*
 geosvc.*
 google-analytics.*
-googletagmanager.*
+googlesyndication.*
 googletagservices.*
 htps.*
 httpswww.*
 hubmetrics.*
 ibpxl.com
+infos.*
 insights-collector.*
 intentmedia.*
 internetbrands.com
@@ -339,7 +350,9 @@ logs.*
 mailtracking.*
 market-keyade.*
 marketing.*
+mastertag.*
 mdws.*
+measure.*
 meds.*
 metric.*
 metrics-api.*
@@ -349,6 +362,7 @@ metrics2.*
 metricssecure.*
 metricssl.*
 metrix.*
+minerva.*
 mobileanalytics.*
 mobilecrashreporting.*
 motd.ubuntu.com
@@ -411,6 +425,7 @@ secureclicks.*
 securedata.*
 securemetrics.*
 securestats.*
+securetags.*
 securetracking.*
 sfeedback.*
 shopcname.*
@@ -426,6 +441,7 @@ smetrics1.*
 smetrics2.*
 smetricsadobe.*
 smetrix.*
+sminerva.*
 smtrcs.*
 smtx.*
 som.*
@@ -479,6 +495,7 @@ statse-omtrdc.*
 statss.*
 statstracker.*
 stc.*
+stcollection.*
 storetail.*
 str.*
 strack.*
@@ -491,6 +508,7 @@ sw88.*
 swa.*
 swebanalytics.*
 swebmetrics.*
+swebreports.*
 swebstats.*
 syndication.*
 t-s.*
@@ -538,6 +556,15 @@ trackerapi.*
 trackers.*
 tracking-secure.*
 tracking.*
+tracking1.*
+tracking2.*
+tracking3.*
+tracking4.*
+tracking5.*
+tracking6.*
+tracking7.*
+tracking8.*
+tracking9.*
 trackingapi.*
 trackingssl.*
 tracks.*
@@ -550,10 +577,13 @@ trcka8net.*
 trk.*
 ucmetrics.*
 ulogs.*
+vstats.*
 wbtrkk.*
 web-analytics-collector.*
+webanalytics.*
 webanalyzer.*
 webmetrics.*
+webreports.*
 webstat.*
 webstats.*
 webtrekk-tech.*
