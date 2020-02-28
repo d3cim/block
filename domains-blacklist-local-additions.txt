@@ -13,7 +13,10 @@
 
 
 *.000webhostapp.*
+*.24mx.*
 *.2o7.*
+*.ab-in-den-urlaub.*
+*.ad
 *.ad.*
 *.adbrite.*
 *.addthis.*
@@ -25,7 +28,6 @@
 *.ads.*
 *.adsafeprotected.*
 *.adsrvr.*
-*.adswizz.*
 *.adswizz.*
 *.adtiming.*
 *.adtriba.*
@@ -44,7 +46,10 @@
 *.atinternet-solutions.*
 *.atinternet.*
 *.axf8.*
+*.bauhaus.*
 *.bid
+*.bitiba.*
+*.bonprix.*
 *.businessrulesanalysis.*
 *.ca-eulerian.net
 *.co.jp
@@ -78,7 +83,6 @@
 *.free-counters.*
 *.froogle.*
 *.fwmrm.*
-*.fwmrm.*
 *.gdn
 *.gemius.*
 *.glamxpress.*
@@ -89,7 +93,6 @@
 *.hittail.*
 *.hol.*
 *.htmlpasta.*
-*.intellitxt.*
 *.intellitxt.*
 *.intentmedia.*
 *.iwanttodeliver.*
@@ -109,6 +112,7 @@
 *.men
 *.metric.*
 *.metrics
+*.metrics.*
 *.miui.com
 *.mobclix.*
 *.mobi
@@ -116,19 +120,24 @@
 *.mperf.*
 *.mystat-in.*
 *.netsolhost.*
+*.nitrosniffer.*
 *.nuggad.*
 *.oghub.*
+*.omni.*
 *.omtrdc.*
 *.online-metrix.*
 *.oui.sncf
 *.phorm.com
 *.pixeltracking.*
+*.pixmania.*
 *.primosearch.*
 *.qq.com
 *.red
+*.red-by-sfr.*
 *.review
 *.safebrowsing.*
 *.securetags.*
+*.sfr.*
 *.sicherheitssystem-sicherheitshilfe.*
 *.skimlinks.*
 *.speedera.net
@@ -148,6 +157,7 @@
 *.trade
 *.transparencyreport.*
 *.viomil.*
+*.web-marketing.*
 *.webanalytics.*
 *.webtrack.*
 *.webtrekk-system.*
@@ -161,6 +171,10 @@
 *.xiti.*
 *.xoxknct.*
 *.zedo.*
+*.zoobee.*
+*.zoochic-eu.*
+*.zoohit.*
+*.zooplus.*
 2o7.*
 a8.*
 a802.*
@@ -170,6 +184,7 @@ a8click.*
 a8clk.*
 a8cv.*
 a8cv2.*
+a8net.*
 a8tra.*
 a8track.*
 a8trck.*
@@ -203,6 +218,7 @@ adclear.*
 adclick.*
 adeb.*
 adebis-cname.*
+adebis-measure.*
 adebis.*
 adebis01.*
 adebiscname.*
@@ -245,6 +261,7 @@ analytics-api-samples.*
 analytics-ssl.*
 analytics-tracker.*
 analytics.*
+analyticsssl.*
 app-measurement.*
 at-o.*
 atinternet-solutions.*
@@ -335,6 +352,7 @@ data-collector.*
 demdex.*
 device-analytics.*
 devicereport.*
+dii2.*
 doubleclick.*
 ebis-tracking.*
 ebis.*
@@ -356,6 +374,7 @@ feedproxy.*
 firebase.*
 firebaseio.*
 froogle.*
+ganalytics.*
 geo.*
 geobeacon.*
 geoip-lookup.*
@@ -368,6 +387,7 @@ geosvc.*
 google-analytics.*
 googlesyndication.*
 googletagservices.*
+hbbtv-track.*
 htps.*
 httpswww.*
 hubmetrics.*
@@ -420,6 +440,7 @@ minerva.*
 mobileanalytics.*
 mobilecrashreporting.*
 motd.ubuntu.com
+mtc.*
 mtrcs.*
 mtrs.*
 nmetrics.*
@@ -439,6 +460,8 @@ omniture-smetrics.*
 omniture-ssl.*
 omniture.*
 omns.*
+oms.*
+omt.*
 omtr1.*
 omtr2.*
 omtrdc.*
@@ -461,8 +484,10 @@ profiling4.*
 regain-cname.*
 repdata.*
 s-adobe.*
+s-adobeanalytics.*
 sadbmetrics.*
 sadobe.*
+sadobeanalytics.*
 sadobemarketing.*
 safebrowsing.*
 sanalytics.*
@@ -474,6 +499,7 @@ scsmetrics.*
 sdata.*
 secmetrics.*
 secure-metrics.*
+secure-stats.*
 secureanalytics.*
 secureclicks.*
 securedata.*
@@ -496,8 +522,11 @@ smetrics2.*
 smetricsadobe.*
 smetrix.*
 sminerva.*
+smr.*
+smtc.*
 smtrcs.*
 smtx.*
+sniffer.*
 som.*
 sometrics.*
 somn.*
@@ -505,7 +534,9 @@ somni.*
 somnistats.*
 somnit.*
 somniture.*
+soms.*
 somstats.*
+somt.*
 somtrdc.*
 somtrkpix.*
 soosssl.*
@@ -515,6 +546,8 @@ ssc.*
 sslanalytics.*
 sslmetrics.*
 sslstats.*
+ssmr.*
+ssmr2.*
 sstat.*
 sstatistikk.*
 sstats.*
@@ -560,10 +593,12 @@ stt.*
 sucmetrics.*
 sw88.*
 swa.*
+swasc.*
 swebanalytics.*
 swebmetrics.*
 swebreports.*
 swebstats.*
+swebtraffic.*
 syndication.*
 t-s.*
 tag.*
@@ -571,6 +606,8 @@ tagcommander.*
 tagmanager.*
 tags.*
 tck.*
+tdapi.*
+tdep.*
 tdf1.*
 te.*
 telemetry.*
@@ -581,6 +618,8 @@ tk.*
 tm.*
 tmetrix.*
 tmx-profiling.*
+tmx.*
+tmxapi.*
 tr.*
 tr1.*
 tr2.*
@@ -625,6 +664,7 @@ tracks.*
 tracksrv.*
 transparencyreport.*
 trc.*
+trck-a8.*
 trck.*
 trcka8.*
 trcka8net.*
@@ -632,14 +672,17 @@ trk.*
 ucmetrics.*
 ulogs.*
 vstats.*
+wasc.*
 wbtrkk.*
 web-analytics-collector.*
 webanalytics.*
+webanalyticsssl.*
 webanalyzer.*
 webmetrics.*
 webreports.*
 webstat.*
 webstats.*
+webtraffic.*
 webtrekk-tech.*
 webtrekk.*
 webtrekkdata.*
