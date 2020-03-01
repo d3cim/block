@@ -34,6 +34,8 @@
 *.advertisers.*
 *.affex.*
 *.ahdaaf.*
+*.amp.*
+*.ampproject.*
 *.ampxchange.*
 *.analytics-site.*
 *.analytics.*
@@ -96,6 +98,7 @@
 *.intellitxt.*
 *.intentmedia.*
 *.iwanttodeliver.*
+*.janrain.*
 *.keyade.*
 *.lan
 *.littlematchagirl.*
@@ -253,6 +256,9 @@ adwords.*
 affex.*
 affiliate.*
 affiliates.*
+amp-assets.*
+amp.*
+ampproject.*
 analysis.*
 analytic-google.*
 analytic.*
