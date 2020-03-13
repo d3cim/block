@@ -16,6 +16,7 @@
 *.24mx.*
 *.2o7.*
 *.ab-in-den-urlaub.*
+*.activity.windows.*
 *.ad
 *.ad.*
 *.adbrite.*
@@ -55,6 +56,7 @@
 *.axf8.*
 *.bauhaus.*
 *.bid
+*.bing.*
 *.bitiba.*
 *.bonprix.*
 *.businessrulesanalysis.*
@@ -62,6 +64,7 @@
 *.co.jp
 *.collect.*
 *.commandersact.*
+*.conviva.*
 *.cqcounter.*
 *.criteo.*
 *.criteoemail.*
@@ -86,6 +89,7 @@
 *.feedproxy.*
 *.firebase.*
 *.firebaseio.*
+*.footprintdns.*
 *.free-counter.
 *.free-counters.*
 *.froogle.*
@@ -116,9 +120,11 @@
 *.market-keyade.*
 *.mateti.*
 *.mbservicesyorkshire.*
+*.measure.*
 *.medialytics.*
 *.mediatraffic.*
 *.men
+*.metaservices.*
 *.metric.*
 *.metrics
 *.metrics.*
@@ -127,6 +133,7 @@
 *.mobclix.*
 *.mobi
 *.mobify.*
+*.mobileads.*
 *.mobileapptracking.*
 *.mopub.*
 *.mperf.*
@@ -172,7 +179,9 @@
 *.threatmetrix.*
 *.toboads.*
 *.top
+*.tr.*
 *.trade
+*.trafficmanager.*
 *.transparencyreport.*
 *.viomil.*
 *.web-marketing.*
@@ -294,6 +303,7 @@ analytics-api-samples.*
 analytics-ssl.*
 analytics-tracker.*
 analytics.*
+analyticspixel.*
 analyticsssl.*
 analyze.*
 app-measurement.*
@@ -306,6 +316,7 @@ banner.*
 banners.*
 beacon.*
 beacons.*
+bing.*
 bismetrics.*
 bzclk.*
 click.*
@@ -392,6 +403,7 @@ datcol.*
 demdex.*
 device-analytics.*
 devicereport.*
+diagnostics.*
 dii2.*
 doubleclick.*
 dtags.*
@@ -694,7 +706,6 @@ tr6.*
 tr7.*
 tr8.*
 tr9.*
-trac.*
 tracelog.*
 track.*
 track1.*
