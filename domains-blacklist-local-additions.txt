@@ -43,7 +43,6 @@
 *.adreach*
 *.adroll.*
 *.ads*
-*.ads.*
 *.ads1*
 *.ads2*
 *.ads3*
