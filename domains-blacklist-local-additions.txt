@@ -26,6 +26,7 @@
 *.24mx.*
 *.2o7.*
 *.ab-in-den-urlaub.*
+*.accountant*
 *.activity.windows.*
 *.ad
 *.ad-*
@@ -39,22 +40,27 @@
 *.admob.*
 *.admonkey.*
 *.adprotect.*
+*.adreach*
 *.adroll.*
 *.ads*
 *.adtiming.*
 *.adtriba.*
+*.agency*
 *.amp.*
 *.ampproject.*
 *.ampxchange.*
 *.anchors.atlas.ripe.*
+*.app
 *.appboy.*
 *.applause.com
 *.appsee.*
 *.axf8.*
 *.bauhaus.*
+*.best
 *.bid
 *.bing.*
 *.bitiba.*
+*.biz
 *.bonprix.*
 *.co.jp
 *.commandersact.*
@@ -73,6 +79,7 @@
 *.edge.*
 *.esy.*
 *.etr.im
+*.faith
 *.feedburner.*
 *.feedproxy.*
 *.footprintdns.*
@@ -86,6 +93,7 @@
 *.hittail.*
 *.hol.*
 *.htmlpasta.*
+*.icu
 *.intellitxt.*
 *.intentmedia.*
 *.iwanttodeliver.*
@@ -101,7 +109,6 @@
 *.mailperformance.*
 *.mateti.*
 *.mbservicesyorkshire.*
-*.mediatraffic.*
 *.men
 *.metaservices.*
 *.miui.com
@@ -110,6 +117,7 @@
 *.mobify.*
 *.mp.*
 *.mperf.*
+*.neliver.*
 *.netsolhost.*
 *.nuggad.*
 *.oix.*
@@ -119,6 +127,7 @@
 *.pixels.*
 *.pixmania.*
 *.primosearch.*
+*.qby*
 *.qq.com
 *.red
 *.red-by-sfr.*
@@ -134,11 +143,15 @@
 *.tags.*
 *.tck*
 *.test-web.*
+*.tmns*
 *.top
 *.tr.*
 *.trade
+*.traffic*
 *.trc.*
+*.turn*
 *.viomil.*
+*.win
 *.workgroup
 *.wt-eu02.*
 *.zedo.*
@@ -153,6 +166,7 @@
 *a8net.*
 *a8tra.*
 *acclog*
+*ad-server*
 *ad01.*
 *ad02.*
 *ad03.*
@@ -171,6 +185,7 @@
 *ad7.*
 *ad8.*
 *ad9.*
+*adchoice*
 *adclick*
 *addthis*
 *adeb.*
@@ -215,6 +230,7 @@
 *atinternet*
 *banner*
 *beacon*
+*bigpond*
 *click.*
 *clicks.*
 *clk*
@@ -261,6 +277,7 @@
 *insights-*
 *intentmedia*
 *internetbrands*
+*ivyleague*
 *keyade*
 *log-*
 *log.*
@@ -288,6 +305,7 @@
 *logs-*
 *logs.*
 *madnet*
+*maherstcottage*
 *marketing*
 *mastertag*
 *mdws*
@@ -347,10 +365,9 @@
 *tmx-*
 *tmx.*
 *track*
-*trafficmanager*
+*traffic.*
 *trck*
 *trk*
-*visualizetraffic*
 *wapstart*
 *webstat*
 *webtraffi*
@@ -359,10 +376,13 @@
 *xiti*
 *xoxknct*
 *xsph*
+*zap-webspace*
 2o7.*
 a8.*
 acv.*
+ad.*
 adc.*
+adv.*
 atax.*
 bing.*
 compare.*
