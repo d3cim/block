@@ -122,6 +122,7 @@
 *.men
 *.metaservices.*
 *.miui.com
+*.mixpanel.*
 *.mobclix.*
 *.mobi
 *.mobify.*
