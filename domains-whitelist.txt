@@ -1,0 +1,3 @@
+s.youtube.com         # youtube history
+edgekey.net           # alias for [store.playstation.com]
+kissmanga.com         # read manga online
