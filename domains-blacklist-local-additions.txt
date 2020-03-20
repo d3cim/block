@@ -20,6 +20,7 @@
 *-insights*
 *-log*
 *-pixel*
+*-report*
 *-stat.*
 *-tmx*
 *-traceur*
@@ -140,6 +141,7 @@
 *.qq.com
 *.red
 *.red-by-sfr.*
+*.report*
 *.review
 *.sfr.*
 *.sicherheitssystem-sicherheitshilfe.*
@@ -334,7 +336,7 @@
 *pixel.*
 *profiling*
 *repdata*
-*report*
+*report-*
 *s-adobe*
 *sadobe*
 *safebrowsing*
@@ -368,6 +370,7 @@
 *trck*
 *trk*
 *wapstart*
+*webreport*
 *webstat*
 *webtraffi*
 *webtrekk*
