@@ -80,7 +80,6 @@
 *.click
 *.club
 *.cnzz.*
-*.co.jp
 *.comm
 *.commandersact.*
 *.community
