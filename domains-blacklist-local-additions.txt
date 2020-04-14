@@ -15,7 +15,6 @@
 *---*
 *-ad-*
 *-ad.*
-*-adobe*
 *-ads*
 *-c0de*
 *-cash*
@@ -65,7 +64,6 @@
 *.adk2.*
 *.adlightning.*
 *.admaster.*
-*.adobe.*
 *.ads*
 *.adtiming.*
 *.adtriba.*
@@ -74,7 +72,6 @@
 *.ahacdn.*
 *.ali213.*
 *.amp.*
-*.ampproject.*
 *.ampxchange.*
 *.anchors.atlas.ripe.*
 *.appboy.*
@@ -113,8 +110,7 @@
 *.chat.ru
 *.chello.*
 *.cibntv.*
-*.click
-*.click.*
+*.click*
 *.clixplanet.*
 *.cloudapp.*
 *.cloudvent.*
@@ -155,7 +151,6 @@
 *.de-infon*
 *.dedeferer*
 *.deltadna.*
-*.demdex.*
 *.destinia.*
 *.dion.*
 *.dnr.*
@@ -339,7 +334,6 @@
 *.ommf.*
 *.omni.*
 *.onion.*
-*.onion.*
 *.online
 *.online-app*
 *.online-cleaner*
@@ -418,9 +412,14 @@
 *.sicherheitssystem-sicherheitshilfe.*
 *.sina.*
 *.site
-*.site[0-99]*
+*.site2*
+*.site4*
+*.site50.*
+*.site88.*
+*.site90.*
 *.sitefor*
 *.sitelockcdn.*
+*.sites.*
 *.siteto*
 *.smartovik.*
 *.smrtp.*
@@ -480,6 +479,7 @@
 *.ucraft.*
 *.ukit.*
 *.umbler.*
+*.uol.*
 *.urest.*
 *.userreplay.*
 *.valueserver.*
@@ -588,13 +588,7 @@
 *admob.*
 *admonkey*
 *admost*
-*adobe-*
-*adobe.*
-*adobec*
-*adobef*
-*adobep*
-*adobes*
-*adobeu*
+*adobe*
 *adocean*
 *adplace*
 *adplan*
@@ -629,8 +623,8 @@
 *aliyuncs*
 *amaz0n*
 *amp-assets.*
-*amp.*
-*ampproject.*
+*amp4mail*
+*ampproject*
 *analysis*
 *analyze*
 *antivirussupport*
@@ -968,7 +962,6 @@
 *rozan4clerk.*
 *russgo.*
 *rxportalhosting.*
-*sadobe*
 *safebrowsing*
 *safestchina.*
 *sagawa-*
@@ -1039,7 +1032,6 @@
 *twitpost*
 *u-telcom*
 *ucoz.*
-*updateadobe*
 *vcmedia.*
 *vdsina.*
 *vhvpybze*
@@ -1100,7 +1092,6 @@ a8.*
 acv.*
 ad.*
 adc.*
-adobe.*
 ads.*
 ads1.*
 ads10.*
