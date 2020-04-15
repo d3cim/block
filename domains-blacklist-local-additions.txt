@@ -216,7 +216,6 @@
 *.hospedagemdesites.*
 *.hoster-test.*
 *.htmlpasta.*
-*.hwcdn.*
 *.iandunford.*
 *.ic.*
 *.icu
@@ -383,6 +382,7 @@
 *.rays*
 *.rdt*
 *.readycarsvans*
+*.reamp.*
 *.red
 *.red-by-sfr.*
 *.redirectvolu*
@@ -483,6 +483,7 @@
 *.urest.*
 *.userreplay.*
 *.valueserver.*
+*.video-ak.*
 *.vidible.*
 *.vietad.*
 *.viewdns.*
@@ -588,6 +589,7 @@
 *admob.*
 *admonkey*
 *admost*
+*adnxs*
 *adobe*
 *adocean*
 *adplace*
@@ -1050,6 +1052,7 @@
 *weiterleitung*
 *wellsfarg0*
 *wizaly*
+*www-*
 *wwwbet*
 *wwwhg*
 *x10host*
