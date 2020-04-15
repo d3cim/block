@@ -316,6 +316,7 @@
 *.net46.*
 *.net76.*
 *.net84.*
+*.netaffs.*
 *.netai.*
 *.netau.*
 *.netii.*
@@ -360,6 +361,7 @@
 *.pixels.*
 *.pixmania.*
 *.plp7.*
+*.polarmobile.*
 *.prepaiddomain.*
 *.press
 *.primosearch.*
@@ -368,6 +370,7 @@
 *.pstatp.*
 *.psweb*
 *.pub.*
+*.publy.*
 *.pun.*
 *.pusher.*
 *.puzl.*
@@ -470,7 +473,9 @@
 *.tor2web.*
 *.tr.*
 *.trade
+*.traffichunt.*
 *.trc.*
+*.truecaller.*
 *.tt*
 *.turn*
 *.twik.*
@@ -492,6 +497,7 @@
 *.wangwangwang.*
 *.wasu.*
 *.waw.*
+*.webclicks24.*
 *.webeden.*
 *.webflow.*
 *.webhostbox.*
@@ -509,6 +515,7 @@
 *.www*
 *.wxv.*
 *.wz.*
+*.xiaomi.*
 *.ximalaya.*
 *.xorg.*
 *.xsf.*
@@ -1027,6 +1034,7 @@
 *track*
 *traffic-*
 *traffic.*
+*trafficjunky*
 *traffics*
 *traffik*
 *trck*
