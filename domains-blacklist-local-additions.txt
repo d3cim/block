@@ -58,7 +58,6 @@
 *.ad-*
 *.ad.*
 *.adc.*
-*adclear*
 *.adf.*
 *.adgger.*
 *.adk2.*
@@ -164,6 +163,7 @@
 *.dynect.*
 *.dynu.*
 *.dynv6.*
+*.ebayrtm.*
 *.ebis.*
 *.eclick.*
 *.ed10.*
@@ -577,6 +577,7 @@
 *adbrix*
 *adcenter*
 *adchoice*
+*adclear*
 *adclick*
 *addapptr*
 *addthis*
@@ -1250,5 +1251,4 @@ wetr.*
 wt-eu02.*
 wttd.*
 xtag.*
-*.ebayrtm.*
 
