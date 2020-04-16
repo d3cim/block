@@ -58,7 +58,7 @@
 *.ad-*
 *.ad.*
 *.adc.*
-*.adclear*
+*adclear*
 *.adf.*
 *.adgger.*
 *.adk2.*
@@ -1160,6 +1160,7 @@ feeds8.*
 feeds9.*
 geo.*
 icscards.*
+id.google.*
 infos.*
 insights.*
 log.*
@@ -1249,4 +1250,5 @@ wetr.*
 wt-eu02.*
 wttd.*
 xtag.*
+*.ebayrtm.*
 
