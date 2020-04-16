@@ -74,6 +74,7 @@
 *.amp.*
 *.ampxchange.*
 *.anchors.atlas.ripe.*
+*.angelcities.*
 *.appboy.*
 *.applause.com
 *.appsee.*
@@ -341,7 +342,6 @@
 *.online-security*
 *.online-software*
 *.ooo
-*.or.*
 *.oucreate*
 *.oupeng*
 *.ourdvs*
@@ -730,10 +730,13 @@
 *dtopalert*
 *duckdns*
 *ebis2.*
+*erotic*
+*erotik*
 *error-*
 *estranky.*
 *eulerian*
 *eventlog*
+*exacttarget*
 *faucethub*
 *feed-*
 *feedback*
