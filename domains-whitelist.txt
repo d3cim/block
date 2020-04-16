@@ -1,0 +1,18 @@
+
+############################################
+#  domains-whitelist.txt | dnscrypt-proxy  #
+#                                          #
+#  https://git.nixnet.xyz/quindecim/block  #
+############################################
+
+## Author    : quindecim    : https://git.nixnet.xyz/quindecim
+##                            https://git.lushka.al/quindecim   | MIRROR
+##                            https://git.lelux.fi/quindecim    | MIRROR
+
+## License   : https://git.nixnet.xyz/quindecim/block/src/branch/master/LICENSE.txt
+
+
+cloudfront.net               # alias of legit domains
+edgekey.net                  # alias of legit domains
+marfeelcdn.com               # alias of legit domains
+
