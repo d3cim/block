@@ -12,15 +12,14 @@
 ## License   : https://git.nixnet.xyz/quindecim/block/src/branch/master/LICENSE.txt
 
 
-cloudfront.net                # alias of legit domains
-edgekey.net                   # alias of legit domains
+cloudfront.net                # alias for many legit domains
+edgekey.net                   # alias for many legit domains
 gateway.messenger.live.com    # Skype incoming calls
 gstatic.com                   # static content from Google
 kissmanga.com                 # read manga online
-marfeelcdn.com                # alias of legit domains
+marfeelcdn.com                # alias for many legit domains
 netlify.app                   # netlify.com mirror
 nudatasecurity.com            # a Mastercard company
 s.youtube.com                 # YouTube history
-star.c10r.facebook.com        # alias of [mobile.facebook.com], minimum requirement for using Frost F-Droid (a web wrapper for Facebook)
 worldometers.info             # real time world statistics
 
