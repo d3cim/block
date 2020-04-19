@@ -81,7 +81,6 @@
 *.auction.*
 *.awardspace.*
 *.axf8.*
-*.b-cdn.*
 *.baixar.*
 *.band
 *.bar
@@ -168,6 +167,7 @@
 *.eclick.*
 *.ed10.*
 *.ed4.*
+*.elbavietnam.*
 *.englishwoodlands.*
 *.esy.*
 *.etr.im
@@ -242,7 +242,7 @@
 *.kolst.*
 *.krxd.*
 *.kugou.*
-*.kxcdn.*
+*.kylelierman.*
 *.lair.*
 *.lan
 *.land
@@ -523,6 +523,7 @@
 *.xt.*
 *.xxx-wa.*
 *.xywy.*
+*.xyz
 *.xzk*
 *.xzstatic.*
 *.youappi.*
@@ -738,6 +739,7 @@
 *eulerian*
 *eventlog*
 *exacttarget*
+*faktypolska*
 *faucethub*
 *feed-*
 *feedback*
@@ -1189,8 +1191,8 @@ ot.*
 pix.*
 pixels.*
 regstat.*
-safety.apple.com.
-safety.microsoft.com.
+safety.apple.com.*
+safety.microsoft.com.*
 sc.*
 sdata.*
 securedata.*
@@ -1204,7 +1206,6 @@ somn.*
 somni.*
 soms.*
 somt.*
-sp.*
 ssc.*
 ssmr.*
 ssmr2.*
