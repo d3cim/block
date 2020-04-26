@@ -45,6 +45,7 @@
 *.0pendns.*
 *.1039.*
 *.127.*
+*.163.*
 *.207.*
 *.24mx.*
 *.2o7.*
@@ -54,6 +55,7 @@
 *.ab-in-den-urlaub.*
 *.accountant*
 *.activity.windows.*
+*.actonsoftware.*
 *.ad
 *.ad-*
 *.ad.*
@@ -111,7 +113,6 @@
 *.cibntv.*
 *.click*
 *.clixplanet.*
-*.cloudapp.*
 *.cloudvent.*
 *.club
 *.cmcitymedia.*
@@ -147,6 +148,7 @@
 *.date
 *.daum.*
 *.ddns.*
+*.ddnsking.*
 *.de-infon*
 *.dedeferer*
 *.deltadna.*
@@ -587,6 +589,7 @@
 *adfeed*
 *adform*
 *adhoc*
+*adimg*
 *adinsight*
 *adjust-*
 *adklick*
@@ -760,8 +763,7 @@
 *geotrust*
 *greystripe*
 *htps*
-*https*
-*httpswww*
+*http*
 *ibpxl*
 *inmobi*
 *insights-*
@@ -1232,7 +1234,6 @@ tdf1.*
 te.*
 test-web.*
 tk.*
-tm.*
 tmxapi.*
 tmxmo.*
 tr-ssl.*
@@ -1252,4 +1253,3 @@ wetr.*
 wt-eu02.*
 wttd.*
 xtag.*
-
