@@ -12,14 +12,13 @@
 ## License   : https://git.nixnet.xyz/quindecim/block/src/branch/master/LICENSE.txt
 
 
-cloudfront.net                # alias for many legit domains
-edgekey.net                   # alias for many legit domains
-gateway.messenger.live.com    # Skype incoming calls
-gstatic.com                   # static content from Google
-kissmanga.com                 # read manga online
-marfeelcdn.com                # alias for many legit domains
-netlify.app                   # netlify.com mirror
-nudatasecurity.com            # a Mastercard company
-s.youtube.com                 # YouTube history
-worldometers.info             # real time world statistics
-
+cloudfront.net               # alias for many legit domains
+edgekey.net                  # alias for many legit domains
+gateway.messenger.live.com   # Skype incoming calls
+gstatic.com                  # static content from Google
+kissmanga.com                # read manga online
+marfeelcdn.com               # alias for many legit domains
+nudatasecurity.com           # a Mastercard company
+s.youtube.com                # YouTube history
+www.worldometers.info        # real time world statistics
+zdnet.com                    # a business technology news website
