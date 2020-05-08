@@ -16,6 +16,7 @@
 *-ad-*
 *-ad.*
 *-ads*
+*-adv.*
 *-c0de*
 *-cash*
 *-click*
@@ -46,6 +47,7 @@
 *.1039.*
 *.127.*
 *.163.*
+*.16mb.*
 *.207.*
 *.24mx.*
 *.2o7.*
@@ -309,7 +311,6 @@
 *.naghashim.*
 *.name
 *.nanopool.*
-*.narod*
 *.nccprojects.*
 *.ne.*
 *.neliver.*
@@ -624,6 +625,7 @@
 *adsyndication*
 *adsystem*
 *adtiger*
+*adv-*
 *adver*
 *adview*
 *advision-*
@@ -1140,6 +1142,7 @@ datas.*
 dii2.*
 ebis.*
 eclick.*
+erne.*
 eth0.me
 event.*
 events.*
@@ -1253,3 +1256,6 @@ wetr.*
 wt-eu02.*
 wttd.*
 xtag.*
+*.prodns.*
+*.designmysite.*
+
