@@ -50,6 +50,7 @@
 *.16mb.*
 *.207.*
 *.24mx.*
+*.2cnt.*
 *.2o7.*
 *.2u.*
 *.500mb.*
@@ -92,6 +93,7 @@
 *.bayramoglugrup.*
 *.beepworld.*
 *.best
+*.bestdeals.*
 *.bestelinks.*
 *.bget.*
 *.bid
@@ -122,6 +124,8 @@
 *.coincave.*
 *.coka.*
 *.com1.*
+*.comcontent.*
+*.cometsystems.*
 *.comimportant
 *.comm
 *.commandersact.*
@@ -154,7 +158,9 @@
 *.de-infon*
 *.dedeferer*
 *.deltadna.*
+*.designmysite.*
 *.destinia.*
+*.digidip.*
 *.dion.*
 *.dnr.*
 *.dns-cloud.*
@@ -196,6 +202,7 @@
 *.froogle.*
 *.fwmrm.*
 *.gamingweb.*
+*.gcion.*
 *.gdn
 *.gemius.*
 *.geo.*
@@ -220,8 +227,10 @@
 *.hopto.*
 *.hospedagemdesites.*
 *.hoster-test.*
+*.hpg.*
 *.htmlpasta.*
 *.iandunford.*
+*.ic-live.*
 *.ic.*
 *.icu
 *.ifdef.*
@@ -311,6 +320,7 @@
 *.naghashim.*
 *.name
 *.nanopool.*
+*.narod*
 *.nccprojects.*
 *.ne.*
 *.neliver.*
@@ -350,12 +360,14 @@
 *.ourdvs*
 *.ovh
 *.p2a.*
+*.p2l.*
 *.party
 *.pc6.*
 *.pdns.*
 *.pen.*
 *.pendo.*
 *.perfectupdate*
+*.petrovka.*
 *.phorm.*
 *.php5.*
 *.phpbbx.*
@@ -368,11 +380,13 @@
 *.prepaiddomain.*
 *.press
 *.primosearch.*
+*.prodns.*
 *.promo
 *.prv.*
 *.pstatp.*
 *.psweb*
 *.pub.*
+*.publicus.*
 *.publy.*
 *.pun.*
 *.pusher.*
@@ -397,6 +411,7 @@
 *.report*
 *.republika.*
 *.review
+*.revolvermaps.*
 *.rhost*
 *.rocks
 *.rom1*
@@ -433,6 +448,7 @@
 *.speedera.*
 *.ssc.*
 *.sslblindado.*
+*.sslsecure*
 *.star-server.*
 *.stat.*
 *.statistic.*
@@ -442,6 +458,7 @@
 *.studio
 *.superweb.*
 *.supply
+*.surf-town.*
 *.swtest.*
 *.sygfysp.*
 *.systemkeeper*
@@ -467,6 +484,7 @@
 *.theset*
 *.three*
 *.tianya*
+*.timesink.*
 *.tinkoff.*
 *.tmns*
 *.tmweb.*
@@ -491,12 +509,14 @@
 *.urest.*
 *.userreplay.*
 *.valueserver.*
+*.vgwort.*
 *.video-ak.*
 *.vidible.*
 *.vietad.*
 *.viewdns.*
 *.viomil.*
 *.vip
+*.vmsn.*
 *.wangwangwang.*
 *.wasu.*
 *.waw.*
@@ -697,6 +717,7 @@
 *clickfun*
 *clicks.*
 *clicktale.*
+*clickz*
 *clk*
 *clkfeed*
 *cluodlfare*
@@ -1256,6 +1277,4 @@ wetr.*
 wt-eu02.*
 wttd.*
 xtag.*
-*.prodns.*
-*.designmysite.*
 
