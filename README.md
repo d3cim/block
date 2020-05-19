@@ -8,8 +8,7 @@ A collection of domains, wildcards and substrings designed for [`dnscrypt-proxy`
 
 ### Sources
 
-Updated sources from the following locations are always merged and included. 
-`Note.` Active Source means the hosts file we use after whitelisting legit domains and removing duplicates domains.
+Updated sources from the following locations are always merged and included.
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
