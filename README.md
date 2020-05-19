@@ -1,7 +1,30 @@
 # block
 
-The domains in this list are wildcards and can be used in various blockers but not by all, for example, [AdAway](https://f-droid.org/en/packages/org.adaway/) or the [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) file itself doesn't offer this possibility.
+A collection of domains, wildcards and substrings designed for [`dnscrypt-proxy`](https://github.com/DNSCrypt/dnscrypt-proxy) filter method.
 
-I use this collection when I generate the [`blacklist.txt`](https://git.nixnet.xyz/quindecim/dnscrypt-proxy-android/src/branch/master/config/blacklist.txt) file, usually used in [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy).
+- __domains-blacklist-local-additions:__ is used during the generation process to remove duplicates from sources and filter the web content once the [`blacklist`](https://git.nixnet.xyz/quindecim/dnscrypt-proxy-android/src/branch/master/config/blacklist.txt) file is applied.
+- __domains-whitelist:__ is used during the generation process to remove legit domains from the final [`blacklist`](https://git.nixnet.xyz/quindecim/dnscrypt-proxy-android/src/branch/master/config/blacklist.txt).
+- __example-blacklist:__ contains valid name patterns for this purpose.
 
-For this reason the entries in `domains-blacklist-local-additions.txt` file could result in optimization based on the `example-blacklist.txt` file
+### Sources
+
+Updated sources from the following locations are always merged and included. 
+`Note.` Active Source means the hosts file we use after whitelisting legit domains and removing duplicates domains.
+
+| Source | Maintainer(s) | Description | Home Page | RAW Source | License |
+|--------|:-------------:|-------------|:---------:|:----------:|:-------:|
+Frogeye | Geoffrey Frogeye | Blocklist of 1st-party trackers | [LINK](https://hostfiles.frogeye.fr/) | [RAW](https://hostfiles.frogeye.fr/firstparty-trackers.txt) | All Rights Reserved |
+NextDNS | NextDNS | Filter for 1st-party trackers | [LINK](https://nextdns.io/) | [RAW](https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains) | MIT |
+Energized Ultimate | Energized Team | A merged domains file from a variety of other lists  | [LINK](https://app.energized.pro/) | [RAW](https://block.energized.pro/ultimate/formats/domains.txt) | MIT |
+Energized Regional | Energized Team | A merged domains file from a variety of other lists  | [LINK](https://app.energized.pro/) | [RAW](https://block.energized.pro/extensions/regional/formats/domains.txt) | MIT |
+Energized Xtreme | Energized Team | Blocklist of ads and tracking servers  | [LINK](https://app.energized.pro/) | [RAW](https://block.energized.pro/extensions/xtreme/formats/domains.txt) | MIT |
+
+### Notice
+
+<table>
+<tr>
+<td>
+When it has reached a stable level the blacklist will be shared here as release.
+</td>
+</tr>
+</table>
