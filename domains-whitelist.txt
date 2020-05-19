@@ -18,9 +18,7 @@ gateway.messenger.live.com   # Skype incoming calls
 gstatic.com                  # static content from Google
 kissmanga.com                # read manga online
 marfeelcdn.com               # alias for many legit domains
-nudatasecurity.com           # a Mastercard company
 rsc.cdn77.org                # alias for many legit domains
 s.youtube.com                # YouTube history
-www.worldometers.info        # real time world statistics
 zdnet.com                    # a business technology news website
 
