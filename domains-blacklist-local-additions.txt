@@ -79,6 +79,7 @@
 *.ampxchange.*
 *.anchors.atlas.ripe.*
 *.angelcities.*
+*.appads.*
 *.appboy.*
 *.applause.com
 *.appsee.*
@@ -246,6 +247,7 @@
 *.janrain.*
 *.joinbbs.*
 *.jouwpagina.*
+*.jumptap.*
 *.jun.*
 *.karneval.*
 *.kilu.*
@@ -339,6 +341,7 @@
 *.ngrok.*
 *.nichost.*
 *.nightbird.*
+*.nsone.*
 *.nuggad.*
 *.nxcli.*
 *.o1.*
@@ -368,6 +371,7 @@
 *.pendo.*
 *.perfectupdate*
 *.petrovka.*
+*.pflexads.*
 *.phorm.*
 *.php5.*
 *.phpbbx.*
@@ -393,6 +397,7 @@
 *.puzl.*
 *.qby*
 *.qiyi*
+*.qlik.*
 *.qq*
 *.quicknet.*
 *.racing
@@ -433,15 +438,8 @@
 *.sicherheitssystem-sicherheitshilfe.*
 *.sina.*
 *.site
-*.site2*
-*.site4*
-*.site50.*
-*.site88.*
-*.site90.*
-*.sitefor*
-*.sitelockcdn.*
-*.sites.*
-*.siteto*
+*.site*
+*.smaato.*
 *.smartovik.*
 *.smrtp.*
 *.soup.*
@@ -725,6 +723,7 @@
 *collect*
 *commandersact.*
 *compare-*
+*comscore*
 *consensu.*
 *contentfeed*
 *contentsfeed*
@@ -856,6 +855,7 @@
 *meegmfio*
 *mehmetkucukgoz*
 *metric*
+*metrika*
 *metrix*
 *micpn*
 *micr0s*
@@ -885,6 +885,8 @@
 *moonfruit*
 *mopub*
 *mparticle.*
+*mr2cnjuh34jb*
+*mrjb7hvcks*
 *mtrcs*
 *mtrs*
 *multiscreensite*
@@ -1040,6 +1042,7 @@
 *statistik*
 *stats*
 *statt-*
+*steadfast*
 *storetail.*
 *supp0rt*
 *survey*
