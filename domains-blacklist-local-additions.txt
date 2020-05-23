@@ -274,7 +274,6 @@
 *.linkhotel.*
 *.littlematchagirl.*
 *.livefilestore*
-*.llnw*
 *.loan
 *.local
 *.localdomain
@@ -429,6 +428,7 @@
 *.sentry.*
 *.serve*
 *.services
+*.services.mozilla.*
 *.settingsppup*
 *.sfr.*
 *.sh-master*
@@ -561,6 +561,7 @@
 *.zeptolab.*
 *.zhujianqiang.*
 *.zoo*
+*.zupload.*
 *.zx*
 *.zz*
 *000webhostapp*
@@ -724,6 +725,8 @@
 *commandersact.*
 *compare-*
 *comscore*
+*connectivity-check*
+*connectivitycheck*
 *consensu.*
 *contentfeed*
 *contentsfeed*
@@ -1129,7 +1132,6 @@
 *zoho.*
 *zohosites.*
 *zonelabs.*
-*zupload.*
 *zwdu.*
 *zybang.*
 2o7.*
