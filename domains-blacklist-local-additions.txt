@@ -48,9 +48,11 @@
 *.127.*
 *.163.*
 *.16mb.*
+*.1e100.*
 *.207.*
 *.24mx.*
 *.2cnt.*
+*.2mdn.*
 *.2o7.*
 *.2u.*
 *.500mb.*
@@ -130,7 +132,6 @@
 *.comimportant
 *.comm
 *.commandersact.*
-*.community
 *.company
 *.compare.*
 *.computerbild.*
@@ -186,6 +187,7 @@
 *.evesham*
 *.ez-sites.*
 *.faith
+*.fastclick.*
 *.fastestsite*
 *.fastsize.*
 *.feed*
@@ -216,6 +218,7 @@
 *.gmarket.*
 *.goodandcleanflash*
 *.gotdns*
+*.graft.*
 *.greatupdate*
 *.greenhouse.io
 *.guidegoods.*
@@ -244,6 +247,7 @@
 *.ioam.*
 *.iol.*
 *.iwanttodeliver.*
+*.izatcloud.*
 *.janrain.*
 *.joinbbs.*
 *.jouwpagina.*
@@ -391,6 +395,7 @@
 *.pub.*
 *.publicus.*
 *.publy.*
+*.pubmatic.*
 *.pun.*
 *.pusher.*
 *.puzl.*
@@ -635,6 +640,7 @@
 *adsense*
 *adserv*
 *adsfeed*
+*adsgtm*
 *adsrv*
 *adssettings*
 *adstat*
@@ -740,6 +746,7 @@
 *count8.*
 *count9.*
 *counter*
+*crashdump*
 *crashlog*
 *creatives-*
 *creatives.*
@@ -751,6 +758,7 @@
 *dating*
 *decibelinsight.*
 *demdex*
+*detectportal.firefox*
 *df-srv.*
 *diagnosti*
 *dishedends.*
@@ -887,6 +895,7 @@
 *modernsailor*
 *moonfruit*
 *mopub*
+*mozilla.cloudflare*
 *mparticle.*
 *mr2cnjuh34jb*
 *mrjb7hvcks*
@@ -1139,6 +1148,7 @@ a8.*
 acv.*
 ad.*
 adc.*
+adjust.*
 ads.*
 ads1.*
 ads10.*
@@ -1193,6 +1203,7 @@ feeds7.*
 feeds8.*
 feeds9.*
 geo.*
+graft.*
 icscards.*
 id.google.*
 infos.*
@@ -1221,6 +1232,7 @@ oscs.*
 ot.*
 pix.*
 pixels.*
+promo.*
 regstat.*
 safety.apple.com.*
 safety.microsoft.com.*
