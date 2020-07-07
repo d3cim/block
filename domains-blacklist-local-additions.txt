@@ -67,7 +67,6 @@
 *.adc.*
 *.adf.*
 *.adgger.*
-*.adk2.*
 *.adlightning.*
 *.admaster.*
 *.ads*
@@ -171,14 +170,17 @@
 *.download
 *.drv.*
 *.dskfv.*
+*.dynamicnetworkservices.*
 *.dynect.*
 *.dynu.*
 *.dynv6.*
+*.e5.sk
 *.ebayrtm.*
 *.ebis.*
 *.eclick.*
 *.ed10.*
 *.ed4.*
+*.editmysite.*
 *.elbavietnam.*
 *.englishwoodlands.*
 *.esy.*
@@ -208,6 +210,7 @@
 *.gcion.*
 *.gdn
 *.gemius.*
+*.geni.*
 *.geo.*
 *.getenjoyment.*
 *.gigazu.*
@@ -222,6 +225,7 @@
 *.greatupdate*
 *.greenhouse.io
 *.guidegoods.*
+*.hentaiwonderland.*
 *.hhos.*
 *.hispeed*
 *.hittail.*
@@ -244,6 +248,7 @@
 *.intellitxt.*
 *.intentmedia.*
 *.intercom.io
+*.intercomcdn.*
 *.ioam.*
 *.iol.*
 *.iwanttodeliver.*
@@ -253,6 +258,7 @@
 *.jouwpagina.*
 *.jumptap.*
 *.jun.*
+*.jwpcdn.*
 *.karneval.*
 *.kilu.*
 *.kinghost.*
@@ -268,6 +274,7 @@
 *.lat
 *.laurita*
 *.law
+*.leanlab.*
 *.leclerc
 *.legal
 *.letv*
@@ -288,6 +295,7 @@
 *.ltd
 *.ltdomains*
 *.luytr*
+*.m247.*
 *.mackeeper*
 *.maclenet*
 *.madpendesign.*
@@ -395,7 +403,6 @@
 *.pub.*
 *.publicus.*
 *.publy.*
-*.pubmatic.*
 *.pun.*
 *.pusher.*
 *.puzl.*
@@ -441,6 +448,7 @@
 *.shnpoc.*
 *.shop
 *.sicherheitssystem-sicherheitshilfe.*
+*.silkbeachtowels.*
 *.sina.*
 *.site
 *.site*
@@ -449,6 +457,7 @@
 *.smrtp.*
 *.soup.*
 *.speedera.*
+*.spo.*
 *.ssc.*
 *.sslblindado.*
 *.sslsecure*
@@ -501,6 +510,7 @@
 *.trc.*
 *.truecaller.*
 *.tt*
+*.tune.*
 *.turn*
 *.twik.*
 *.uberspace.*
@@ -513,13 +523,13 @@
 *.userreplay.*
 *.valueserver.*
 *.vgwort.*
-*.video-ak.*
 *.vidible.*
 *.vietad.*
 *.viewdns.*
 *.viomil.*
 *.vip
 *.vmsn.*
+*.wac.*
 *.wangwangwang.*
 *.wasu.*
 *.waw.*
@@ -527,6 +537,7 @@
 *.webeden.*
 *.webflow.*
 *.webhostbox.*
+*.webnode.*
 *.webservis.*
 *.website.*
 *.website2.*
@@ -536,6 +547,7 @@
 *.wkcengland.*
 *.wo.*
 *.workgroup
+*.wpc.*
 *.wps*
 *.wt-eu02.*
 *.www*
@@ -617,6 +629,7 @@
 *adimg*
 *adinsight*
 *adjust-*
+*adk2*
 *adklick*
 *adlog*
 *admanager*
@@ -893,6 +906,7 @@
 *mobfox*
 *mobileoffer*
 *modernsailor*
+*mookie1*
 *moonfruit*
 *mopub*
 *mozilla.cloudflare*
@@ -993,6 +1007,7 @@
 *promote*
 *promotion*
 *promotions*
+*pubmatic*
 *pushwoosh.*
 *pussl*
 *putlocker*
@@ -1030,6 +1045,7 @@
 *seitensprung*
 *servconfig*
 *service-call*
+*serving-sys*
 *sex*
 *shetirek.*
 *showinform.*
@@ -1106,7 +1122,7 @@
 *weiterleitung*
 *wellsfarg0*
 *wizaly*
-*www-*
+*www--*
 *wwwbet*
 *wwwhg*
 *x10host*
@@ -1170,6 +1186,7 @@ adx.*
 atax.*
 bing.*
 click.*
+clients3.google.*
 compare.*
 content22.*
 conviva.*
@@ -1289,9 +1306,13 @@ tr7.*
 tr8.*
 tr9.*
 trc.*
+wac.*
 wasc.*
 wetr.*
+wpc.*
 wt-eu02.*
 wttd.*
 xtag.*
+
+*video-ak*
 
