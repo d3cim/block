@@ -1,6 +1,6 @@
 
 ############################################
-#  domains-whitelist.txt | dnscrypt-proxy  #
+#  domains-allowlist.txt | dnscrypt-proxy  #
 #                                          #
 #  https://git.nixnet.xyz/quindecim/block  #
 ############################################
