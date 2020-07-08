@@ -1,6 +1,6 @@
 
 ############################################################
-#  domains-blacklist-local-additions.txt | dnscrypt-proxy  #
+#  domains-blocklist-local-additions.txt | dnscrypt-proxy  #
 #                                                          #
 #  https://git.nixnet.xyz/quindecim/block                  #
 ############################################################
@@ -1315,4 +1315,3 @@ wttd.*
 xtag.*
 
 *video-ak*
-
