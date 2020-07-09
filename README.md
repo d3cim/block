@@ -2,8 +2,8 @@
 
 A collection of domains, wildcards and substrings designed for [`dnscrypt-proxy`](https://github.com/DNSCrypt/dnscrypt-proxy) filter method.
 
-- __domains-blocklist-local-additions:__ is used during the generation process to remove duplicates from sources and filter the web content once the [`blocklist`](https://git.nixnet.xyz/quindecim/dnscrypt-proxy-android/src/branch/master/config/blocked-names.txt) file is applied.
-- __domains-allowlist:__ is used during the generation process to remove legit domains from the final [`blocklist`](https://git.nixnet.xyz/quindecim/dnscrypt-proxy-android/src/branch/master/config/blocked-names.txt).
+- __domains-blocklist-local-additions:__ is used during the generation process to remove duplicates from the sources and add your own additions.
+- __domains-allowlist:__ is used during the generation process to remove legit domains.
 - __example-blocklist:__ contains valid name patterns for this purpose.
 
 ### Sources
