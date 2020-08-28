@@ -13,12 +13,5 @@
 
 
 cloudfront.net               # alias for many legit domains
-edgekey.net                  # alias for many legit domains
-gateway.messenger.live.com   # Skype incoming calls
-gstatic.com                  # static content from Google
-kissmanga.com                # read manga online
-marfeelcdn.com               # alias for many legit domains
-rsc.cdn77.org                # alias for many legit domains
 s.youtube.com                # YouTube history
 zdnet.com                    # a business technology news website
-
