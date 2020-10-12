@@ -31,6 +31,7 @@
 *-log*
 *-meter*
 *-netflix*
+*-pa.*
 *-pixel*
 *-postbank*
 *-promo*
@@ -167,7 +168,6 @@
 *.dns-cloud.*
 *.doorblog.*
 *.dothome.*
-*.download
 *.drv.*
 *.dskfv.*
 *.dynamicnetworkservices.*
@@ -175,6 +175,7 @@
 *.dynu.*
 *.dynv6.*
 *.e5.sk
+*.easyx.*
 *.ebayrtm.*
 *.ebis.*
 *.eclick.*
@@ -213,15 +214,23 @@
 *.geni.*
 *.geo.*
 *.getenjoyment.*
+*.getresponse.*
 *.gigazu.*
+*.gigya.*
+*.giize.*
+*.gikorip.*
 *.glamxpress.*
 *.glassdoor.*
+*.glasslightbulbs.*
 *.gleam.*
 *.glitch.*
 *.gmarket.*
+*.gmz.*
+*.godaddysites.*
 *.goodandcleanflash*
 *.gotdns*
 *.graft.*
+*.gravityrd-services.*
 *.greatupdate*
 *.greenhouse.io
 *.guidegoods.*
@@ -251,6 +260,7 @@
 *.intercomcdn.*
 *.ioam.*
 *.iol.*
+*.is-*
 *.iwanttodeliver.*
 *.izatcloud.*
 *.janrain.*
@@ -258,6 +268,7 @@
 *.jouwpagina.*
 *.jumptap.*
 *.jun.*
+*.justinstalledpanel.*
 *.jwpcdn.*
 *.karneval.*
 *.kilu.*
@@ -322,7 +333,7 @@
 *.mperf.*
 *.msecnd.*
 *.msn.*
-*.mx
+*.my.id
 *.my1.*
 *.mybb.*
 *.myddns.*
@@ -330,10 +341,12 @@
 *.myftp.*
 *.myfw.*
 *.myraidbox.*
+*.myshn.*
 *.naghashim.*
 *.name
 *.nanopool.*
 *.narod*
+*.nazwa.*
 *.nccprojects.*
 *.ne.*
 *.neliver.*
@@ -411,6 +424,7 @@
 *.qlik.*
 *.qq*
 *.quicknet.*
+*.r.appspot.com
 *.racing
 *.radikal.*
 *.radities.*
@@ -424,6 +438,7 @@
 *.redirectvolu*
 *.regruhosting.*
 *.renren*
+*.repl.*
 *.report*
 *.republika.*
 *.review
@@ -522,6 +537,7 @@
 *.urest.*
 *.userreplay.*
 *.valueserver.*
+*.versanet.*
 *.vgwort.*
 *.vidible.*
 *.vietad.*
@@ -550,7 +566,6 @@
 *.wpc.*
 *.wps*
 *.wt-eu02.*
-*.www*
 *.wxv.*
 *.wz.*
 *.xiaomi.*
@@ -577,7 +592,7 @@
 *.zedo.*
 *.zeptolab.*
 *.zhujianqiang.*
-*.zoo*
+*.zoo
 *.zupload.*
 *.zx*
 *.zz*
@@ -646,6 +661,7 @@
 *adplan*
 *adprotect*
 *adreach.*
+*adresult*
 *adrise.*
 *adroll.*
 *ads-*
@@ -688,7 +704,6 @@
 *appnext*
 *appnexus*
 *appsflyer*
-*appspot*
 *apptentive*
 *apptimize*
 *aquadivingaccessories*
@@ -724,6 +739,7 @@
 *byethost*
 *bytepub*
 *c9users*
+*campaign*
 *cash-*
 *centde*
 *center2getbest*
@@ -1107,6 +1123,7 @@
 *vcmedia.*
 *vdsina.*
 *vhvpybze*
+*video-ak*
 *viralgalleries*
 *virusfoundcall*
 *wapstart*
@@ -1314,4 +1331,3 @@ wt-eu02.*
 wttd.*
 xtag.*
 
-*video-ak*
