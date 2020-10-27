@@ -30,6 +30,7 @@
 *-log*
 *-meter*
 *-netflix*
+*-oferta*
 *-pa.*
 *-pixel*
 *-postbank*
@@ -79,6 +80,7 @@
 *.appboy.*
 *.applause.com
 *.appsee.*
+*.astyf.*
 *.at-o.*
 *.atspace.*
 *.auction.*
@@ -87,7 +89,6 @@
 *.band
 *.bar
 *.bauhaus.*
-*.bayramoglugrup.*
 *.beepworld.*
 *.best
 *.bestdeals.*
@@ -207,7 +208,10 @@
 *.hop.*
 *.hopto.*
 *.hospedagemdesites.*
+*.host
 *.hoster-test*
+*.hosting
+*.house
 *.hpg.*
 *.ic-live.*
 *.ic.*
@@ -429,6 +433,7 @@
 *.vietad.*
 *.viomil.*
 *.vip
+*.vk.com
 *.vmsn.*
 *.wac.*
 *.wasu.*
@@ -477,6 +482,7 @@
 *0xhost*
 *100webspace*
 *2x2*
+*5566xd*
 *a802.*
 *a803.*
 *a8aspconv*
@@ -599,6 +605,7 @@
 *baidu*
 *banner*
 *barclay*
+*bayramoglugrup*
 *bbmedia.*
 *beacon*
 *beeplog*
@@ -635,6 +642,7 @@
 *clk*
 *cluod*
 *cname*
+*codesandbox*
 *collect*
 *cometsystems*
 *commandersact.*
@@ -691,6 +699,7 @@
 *estranky.*
 *eulerian*
 *eventlog*
+*evv-auditing*
 *exacttarget*
 *faktypolska*
 *fastclick*
@@ -747,6 +756,7 @@
 *greatupdate*
 *greystripe*
 *guidegoods*
+*halifax*
 *hentaiwonderland*
 *hispeed*
 *hittail*
@@ -765,6 +775,7 @@
 *justinstalledpanel*
 *justns*
 *jwpcdn*
+*kayaclinic*
 *keyade*
 *kinghost*
 *kingsoft*
@@ -926,6 +937,7 @@
 *oasc0*
 *oasc1*
 *oascentral*
+*oferta-*
 *oghub*
 *okcftyze*
 *omnistat*
@@ -1060,6 +1072,7 @@
 *speedera*
 *sponsor*
 *sslblindado*
+*stackblitz*
 *starget.*
 *startapp*
 *stat-*

@@ -12,6 +12,6 @@
 ## License   : https://git.nixnet.xyz/quindecim/block/src/branch/master/LICENSE.txt
 
 
-cloudfront.net               # alias for many legit domains
 s.youtube.com                # YouTube history
 zdnet.com                    # a business technology news website
+
