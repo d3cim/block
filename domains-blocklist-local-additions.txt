@@ -22,7 +22,6 @@
 *-error*
 *-feed*
 *-free*
-*-insights*
 *-ipconnect*
 *-lady*
 *-log*
@@ -323,7 +322,6 @@
 *adgger*
 *adhoc*
 *adimg*
-*adinsight*
 *adk2*
 *adlightning*
 *adlog*
@@ -522,7 +520,6 @@
 *icscard*
 *inmobi*
 *insight*
-*insights-*
 *intentmedia*
 *internetbrands*
 *iqiyi*
