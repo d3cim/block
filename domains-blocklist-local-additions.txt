@@ -131,7 +131,6 @@
 *.gdn
 *.gemius.*
 *.geni.*
-*.geo.*
 *.glassdoor.*
 *.glitch.*
 *.gmz.*
@@ -174,7 +173,6 @@
 *.loan
 *.local
 *.localdomain
-*.log.*
 *.logs*
 *.lol
 *.ltd
@@ -182,7 +180,6 @@
 *.market
 *.mateti.*
 *.men
-*.miui.com
 *.mixh.*
 *.mobi
 *.mobify.*
@@ -190,7 +187,6 @@
 *.monster
 *.mperf.*
 *.msecnd.*
-*.my.id
 *.my1.*
 *.mybb.*
 *.myftp.*
@@ -199,7 +195,6 @@
 *.name
 *.narod*
 *.nazwa.*
-*.ne.jp
 *.neocities.*
 *.net16.*
 *.net23.*
@@ -210,7 +205,6 @@
 *.no-ip.*
 *.ojrq.*
 *.ommf.*
-*.omni.*
 *.onion.*
 *.online
 *.ooo
@@ -223,6 +217,7 @@
 *.pendo.*
 *.pila.*
 *.press
+*.pro
 *.promo
 *.prv.*
 *.pub.*
@@ -238,7 +233,6 @@
 *.revenue.*
 *.review
 *.rocks
-*.rr.nu
 *.run.app
 *.sandai.*
 *.sapo.*
@@ -277,8 +271,6 @@
 *.vgwort.*
 *.vidible.*
 *.vip
-*.vk.com
-*.web.app
 *.webnode.*
 *.website.*
 *.win
@@ -287,9 +279,7 @@
 *.workgroup
 *.wxv.pl
 *.wz.*
-*.xiaomi.*
 *.xorg.*
-*.xt.pl
 *.xywy.*
 *.xyz
 *.yx*
@@ -514,6 +504,7 @@
 *hispeed*
 *hittail*
 *hospedagemdesites*
+*htmlcomponentservice*
 *htmlpasta*
 *htps*
 *https*
@@ -798,6 +789,7 @@
 *zybang*
 2o7.*
 a8.*
+ac.id
 acv.*
 ad.*
 ad01.*
@@ -849,6 +841,7 @@ ebis.*
 eth0.me
 event.*
 events.*
+go.ro
 goruli.com
 id.google.*
 infos.*
@@ -856,9 +849,13 @@ log.*
 logs.*
 logstat.*
 meds.*
+miui.*
 motd.ubuntu.com
 msn.*
 mtc.*
+my.id
+ne.jp
+notifysrv.*
 oas.*
 omn.*
 omni.*
@@ -873,6 +870,7 @@ pix.*
 pixels.*
 promo.*
 regstat.*
+rr.nu
 safety.apple.com.*
 safety.microsoft.com.*
 sc.*
@@ -914,3 +912,7 @@ tr7.*
 tr8.*
 tr9.*
 trc.*
+vk.com
+web.app
+xiaomi.*
+xt.pl
