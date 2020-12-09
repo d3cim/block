@@ -52,6 +52,7 @@
 *.actonsoftware.*
 *.ad
 *.ad-*
+*.ad.*
 *.adc.*
 *.adf.*
 *.admaster.*
@@ -60,6 +61,7 @@
 *.agency
 *.ahacdn.*
 *.amp.*
+*.aos*
 *.appboy.*
 *.applause.com
 *.apps.lair.io
@@ -74,6 +76,7 @@
 *.bestelinks.*
 *.bget.*
 *.bid
+*.bing.*
 *.bitiba.*
 *.biz
 *.bonprix.*
@@ -116,6 +119,7 @@
 *.dynv6.*
 *.easyx*
 *.ebayrtm.*
+*.ebis.*
 *.esy.*
 *.etr.im
 *.euweb.*
@@ -173,6 +177,7 @@
 *.loan
 *.local
 *.localdomain
+*.log.*
 *.logs*
 *.lol
 *.ltd
@@ -187,6 +192,7 @@
 *.monster
 *.mperf.*
 *.msecnd.*
+*.msn.*
 *.my1.*
 *.mybb.*
 *.myftp.*
@@ -201,6 +207,7 @@
 *.net46.*
 *.net76.*
 *.net84.*
+*.network
 *.ngrok.*
 *.no-ip.*
 *.ojrq.*
@@ -219,6 +226,7 @@
 *.press
 *.pro
 *.promo
+*.promo.*
 *.prv.*
 *.pub.*
 *.pun.*
@@ -236,6 +244,7 @@
 *.run.app
 *.sandai.*
 *.sapo.*
+*.sc.*
 *.sentry.*
 *.serve*
 *.services
@@ -383,6 +392,7 @@
 *avantgardeservices*
 *avast*
 *awardspace*
+*b2b-*
 *baidu*
 *bankofam*
 *banner*
@@ -458,6 +468,7 @@
 *dynamailbox*
 *ebis2*
 *editmysite*
+*ee-*
 *eloqua*
 *englishwoodlands*
 *erotic*
@@ -548,6 +559,7 @@
 *logs-*
 *lookseekpages*
 *looler*
+*loseyourip*
 *lytic*
 *mackeeper*
 *maclenet*
@@ -573,6 +585,7 @@
 *minergate*
 *minerva.*
 *miningpool*
+*miui*
 *mkt0*
 *mkt1*
 *mkt2*
@@ -618,6 +631,7 @@
 *nocdirect*
 *nod32*
 *notifychheck*
+*notifysrv*
 *nuggad*
 *nxcli*
 *nxtck*
@@ -766,6 +780,7 @@
 *wwwbet*
 *wwwhg*
 *x10host*
+*xiaomi*
 *xiazai*
 *ximalaya*
 *xiti*
@@ -775,6 +790,7 @@
 *xxxhost*
 *xxxx*
 *yahoo*
+*yandex*
 *yaneoffnorhere*
 *yolasite*
 *youbora*
@@ -832,6 +848,7 @@ adx.*
 atax.*
 binance.com
 bing.*
+btc.com
 click.*
 compare.*
 content22.*
@@ -849,13 +866,11 @@ log.*
 logs.*
 logstat.*
 meds.*
-miui.*
 motd.ubuntu.com
 msn.*
 mtc.*
 my.id
 ne.jp
-notifysrv.*
 oas.*
 omn.*
 omni.*
@@ -899,6 +914,7 @@ tck.*
 tdep.*
 tdf1.*
 te.*
+tistory.com
 tk.*
 tr-ssl.*
 tr.*
@@ -914,5 +930,4 @@ tr9.*
 trc.*
 vk.com
 web.app
-xiaomi.*
 xt.pl
