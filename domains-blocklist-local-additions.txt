@@ -127,8 +127,7 @@
 *.feed*
 *.fora.*
 *.forumup.*
-*.free.*
-*.freeasphost.*
+*.free*
 *.fwmrm.*
 *.gamingweb.*
 *.gcion.*
@@ -613,7 +612,6 @@
 *multiscreensite*
 *musclejapancars*
 *myddns*
-*myqcloud*
 *mystat*
 *myutilitydomain*
 *najwahaifamelema*
