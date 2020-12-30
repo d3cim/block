@@ -19,7 +19,7 @@ Energized Regional | Energized Team | A merged domains file from a variety of ot
 Energized Xtreme | Energized Team | Blocklist of ads and tracker domains  | [LINK](https://app.energized.pro/) | [RAW](https://block.energized.pro/extensions/xtreme/formats/domains.txt) | MIT |
 Frogeye 1st-party Trackers | Geoffrey Frogeye | Blocklist of 1st-party trackers | [LINK](https://hostfiles.frogeye.fr/) | [RAW](https://hostfiles.frogeye.fr/firstparty-trackers.txt) | All Rights Reserved |
 NextDNS 1st-party Trackers | NextDNS | Blocklist of 1st-party trackers | [LINK](https://nextdns.io/) | [RAW](https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains) | MIT |
-The Quantum Ad-List | The_Quantum_Alpha and Pinkisjustnumbers | Blocklist of ads and tracker domains (made by an AI) | [LINK](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list) | [RAW](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/For%20hosts%20file/The_Quantum_Ad-List.txt) | Unlicensed |
+The Quantum Ad-List | The Quantum Alpha and Pinkisjustnumbers | Blocklist of ads and tracker domains (made by an AI) | [LINK](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list) | [RAW](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/For%20hosts%20file/The_Quantum_Ad-List.txt) | Unlicensed |
 
 ### Build
 
