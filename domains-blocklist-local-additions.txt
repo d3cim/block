@@ -76,7 +76,6 @@
 *.bestelinks.*
 *.bget.*
 *.bid
-*.bing.*
 *.bitiba.*
 *.biz
 *.bonprix.*
@@ -291,13 +290,9 @@
 *.xorg.*
 *.xywy.*
 *.xyz
-*.yx*
-*.yy*
 *.z8.*
 *.zedo.*
 *.zoo
-*.zx*
-*.zz*
 *000webhostapp*
 *2x2*
 *a8cl*
@@ -585,7 +580,6 @@
 *minergate*
 *minerva.*
 *miningpool*
-*miui*
 *mkt0*
 *mkt1*
 *mkt2*
@@ -779,7 +773,6 @@
 *wwwbet*
 *wwwhg*
 *x10host*
-*xiaomi*
 *xiazai*
 *ximalaya*
 *xiti*
@@ -788,7 +781,6 @@
 *xsph*
 *xxxhost*
 *xxxx*
-*yahoo*
 *yandex*
 *yaneoffnorhere*
 *yolasite*
@@ -846,7 +838,6 @@ ads9.*
 adx.*
 atax.*
 binance.com
-bing.*
 btc.com
 click.*
 compare.*
