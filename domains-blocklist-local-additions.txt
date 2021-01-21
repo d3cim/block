@@ -27,7 +27,6 @@
 *-log*
 *-meter*
 *-netflix*
-*-pa.*
 *-pixel*
 *-promo*
 *-report*
@@ -127,7 +126,7 @@
 *.feed*
 *.fora.*
 *.forumup.*
-*.free*
+*.free
 *.fwmrm.*
 *.gamingweb.*
 *.gcion.*
@@ -176,6 +175,7 @@
 *.loan
 *.local
 *.localdomain
+*.log-*
 *.log.*
 *.logs*
 *.lol
@@ -535,7 +535,7 @@
 *levitra*
 *list-manage*
 *livejournal*
-*log-*
+*lnstagram*
 *log0*
 *log1*
 *log2*
@@ -843,6 +843,7 @@ click.*
 compare.*
 content22.*
 count.*
+cz.cc
 dii2.*
 ebis.*
 eth0.me
@@ -861,6 +862,7 @@ msn.*
 mtc.*
 my.id
 ne.jp
+neliver.com
 oas.*
 omn.*
 omni.*
