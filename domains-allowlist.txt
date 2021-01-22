@@ -12,6 +12,4 @@
 ## License   : https://git.nixnet.xyz/quindecim/block/src/branch/master/LICENSE.txt
 
 
-s.youtube.com                # YouTube history
-zdnet.com                    # a business technology news website
-
+s.youtube.com                # YouTube user history
