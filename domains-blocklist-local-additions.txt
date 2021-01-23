@@ -1,15 +1,15 @@
 
-############################################################
-#  domains-blocklist-local-additions.txt | dnscrypt-proxy  #
-#                                                          #
-#  https://git.nixnet.xyz/quindecim/block                  #
-############################################################
+#################################################
+#     domains-blocklist-local-additions.txt     #
+#                                               #
+#  https://git.nixnet.services/quindecim/block  #
+#################################################
 
-## Author    : quindecim    : https://git.nixnet.xyz/quindecim
-##                            https://git.lushka.al/quindecim   | MIRROR
-##                            https://git.lelux.fi/quindecim    | MIRROR
-
-## License   : https://git.nixnet.xyz/quindecim/block/src/branch/master/LICENSE.txt
+## Author    : quindecim   : https://git.nixnet.services/quindecim   | MAINSTREAM
+##                           https://git.lushka.al/quindecim         | MIRROR
+##                           https://git.lelux.fi/quindecim          | MIRROR
+##
+## License   : GPLv3       : https://git.nixnet.services/quindecim/block/src/branch/master/LICENSE.md
 
 
 *----*
@@ -361,7 +361,13 @@
 *affiliate*
 *aliyuncs*
 *amaz0n*
+*amazan*
+*amazcn*
+*amczan*
+*amczon*
+*amezon*
 *amozan*
+*amozon*
 *amp-assets*
 *amp4mail*
 *ampproject*
@@ -387,6 +393,7 @@
 *avantgardeservices*
 *avast*
 *awardspace*
+*awaykart*
 *b2b-*
 *baidu*
 *bankofam*
@@ -453,6 +460,7 @@
 *demdex*
 *designmysite*
 *detectportal.firefox*
+*detoxcenter*
 *df-srv.*
 *diagnosti*
 *dishedends.*
@@ -496,6 +504,7 @@
 *forumotion*
 *free-*
 *froogle*
+*gameplansession*
 *getenjoyment*
 *getresponse*
 *gigazu*
@@ -839,6 +848,7 @@ adx.*
 atax.*
 binance.com
 btc.com
+centde.com
 click.*
 compare.*
 content22.*
@@ -921,5 +931,8 @@ tr8.*
 tr9.*
 trc.*
 vk.com
+vvvvvv.*
 web.app
+wvvw.*
 xt.pl
+ydns.eu
