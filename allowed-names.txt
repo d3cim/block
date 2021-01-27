@@ -1,0 +1,200 @@
+
+###########################
+#        Allowlist        #
+###########################
+
+## Author      : quindecim   : https://git.nixnet.services/quindecim   | MAINSTREAM
+##                             https://git.lushka.al/quindecim         | MIRROR
+##                             https://git.lelux.fi/quindecim          | MIRROR
+##
+## Based on    : XIU2        : https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt
+##               quindecim   : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/raw/branch/master/config/allowed-names.txt
+##
+## License     : GPLv3       : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
+##
+##
+## Generated   : 2021-01-26
+
+
+########## Torrent trackers ##########
+
+=2.tracker.eu.org
+=3.tracker.eu.org
+=bt.xxx-tracker.com
+=ipv4.tracker.harry.lu
+=ipv6.tracker.harry.lu
+=ipv6.tracker.zerobytes.xyz
+=mgtracker.org
+=nyaa.tracker.wf
+=open.acgnxtracker.com
+=open.acgtracker.com
+=open.miotracker.com
+=open.tracker.thepiratebay.org
+=opentracker.i2p.rocks
+=public.popcorn-tracker.org
+=retracker.akado-ural.ru
+=retracker.baikal-telecom.net
+=retracker.hotplug.ru
+=retracker.lanta-net.ru
+=retracker.netbynet.ru
+=retracker.nts.su
+=retracker.sevstar.net
+=retracker.spark-rostov.ru
+=rutracker.cr
+=rutracker.net
+=rutracker.nl
+=rutracker.org
+=thetracker.org
+=tracker-udp.gbitt.info
+=tracker.0o.is
+=tracker.acgnx.se
+=tracker.aletorrenty.pl
+=tracker.army
+=tracker.beeimg.com
+=tracker.birkenwald.de
+=tracker.bittor.pw
+=tracker.bt-hash.com
+=tracker.bt4g.com
+=tracker.bz
+=tracker.ccc.de
+=tracker.coppersurfer.tk
+=tracker.corpscorp.online
+=tracker.cyberia.is
+=tracker.dler.org
+=tracker.ds.is
+=tracker.dutchtracking.nl
+=tracker.e-utp.net
+=tracker.eddie4.nl
+=tracker.ex.ua
+=tracker.filemail.com
+=tracker.filepit.to
+=tracker.files.fm
+=tracker.flashtorrents.org
+=tracker.fortu.io
+=tracker.gbitt.info
+=tracker.gcvchp.com
+=tracker.grepler.com
+=tracker.halfchub.club
+=tracker.iamhansen.xyz
+=tracker.internetwarriors.net
+=tracker.ipv6tracker.ru
+=tracker.justseed.it
+=tracker.kamigami.org
+=tracker.kuroy.me
+=tracker.leechers-paradise.org
+=tracker.lelux.fi
+=tracker.mg64.net
+=tracker.moeking.me
+=tracker.msm8916.com
+=tracker.nanoha.org
+=tracker.nitrix.me
+=tracker.nyap2p.com
+=tracker.open-internet.nl
+=tracker.openbittorrent.com
+=tracker.opentrackr.org
+=tracker.parrotlinux.org
+=tracker.parrotsec.org
+=tracker.pirateparty.gr
+=tracker.piratepublic.com
+=tracker.port443.xyz
+=tracker.publicbt.com
+=tracker.sbsub.com
+=tracker.skyts.net
+=tracker.sloppyta.co
+=tracker.swateam.org.uk
+=tracker.tamersunion.org
+=tracker.teambelgium.net
+=tracker.tfile.co
+=tracker.tiny-vps.com
+=tracker.tntvillage.scambioetico.org
+=tracker.torrent.eu.org
+=tracker.torrentbay.to
+=tracker.trackerfix.com
+=tracker.tvunderground.org.ru
+=tracker.uw0.xyz
+=tracker.vectahosting.eu
+=tracker.ygsub.com
+=tracker.yoshi210.com
+=tracker.zer0day.to
+=tracker.zum.bi
+=tracker1.itzmx.com
+=tracker2.christianbro.pw
+=tracker2.dler.org
+=tracker2.indowebster.com
+=tracker2.itzmx.com
+=tracker3.itzmx.com
+=tracker4.itzmx.com
+
+
+########## *.biz domains ##########
+
+cyberciti.biz       # Linux tips, hacks, tutorials, etc.
+gamesindustry.biz   # resource for people who produce and sell games
+lbry.biz            # open-community digital marketplace
+streamplay.biz      # video hosting
+
+
+########## *.link domains ##########
+
+=get-to.link   # link "protector" service
+
+
+########## *.narod* domains ##########
+
+=linuxfonts.narod.ru   # info and rant about modern operating systems
+
+
+########## *.online domains ##########
+
+open.online   # an online journal
+
+
+########## *.pro domains ##########
+
+energized.pro   # Energized Protection's blocklists
+
+
+########## *.services domains ##########
+
+nixnet.services   # a variety of self-hosted solutions
+
+
+########## *.today domains ##########
+
+=www.orwell1984.today   # subset of trackers lists grouped by single tracker
+
+
+########## *.top domains ##########
+
+unblockit.top   # a proxy website
+
+
+########## *.xyz domains ##########
+
+clearurls.xyz        # an add-on that removes tracking elements from URLs
+lbryplayer.xyz       # a LBRY instance for video network
+learn-anything.xyz   # platform for knowledge discovery
+matt.traudt.xyz      # Matt Traudt website (researcher and developer on Tor)
+psarips.xyz          # psarips.com mirror (torrent)
+swzz.xyz             # file hosting service
+
+
+########## *erotic* / *erotik* domains ##########
+
+literotica.com   # erotic stories
+
+
+########## *feedback* domains ##########
+
+feedback.ebay.*   # eBay customers reviews
+
+
+########## *https* domains ##########
+
+=www.https-rulesets.org   # HTTPS Everywhere ruleset database
+
+
+########## (others) domains ##########
+
+ilcorsaronero.*   # an Italian torrent website
+searx.*           # a privacy-respecting metasearch engine
