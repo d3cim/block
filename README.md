@@ -2,6 +2,7 @@
 
 A collection of domains, wildcards and substrings designed for [`dnscrypt-proxy`](https://github.com/DNSCrypt/dnscrypt-proxy) filter method.
 
+- __allowed-names.txt:__ it's the file used to unblock a specific domain blocked by some substring/wildcard contained in the blocklists.
 - __domains-blocklist.conf:__ it's used to configure the sources to merge during the process.
 - __domains-blocklist-local-additions.txt:__ it's used during the generation process to add your own additions and remove duplicates from the sources.
 - __domains-allowlist.txt:__ it's used during the generation process to remove legit domains.
