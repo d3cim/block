@@ -143,7 +143,6 @@
 *.hop.*
 *.hopto.*
 *.host
-*.hosting
 *.house
 *.hpg.*
 *.icu
@@ -326,7 +325,6 @@
 *admob.*
 *admost*
 *adnxs*
-*adobe*
 *adocean*
 *adplan*
 *adprotect*
@@ -436,7 +434,6 @@
 *clickz*
 *clk*
 *cluod*
-*cname*
 *codesandbox*
 *collect*
 *comhost.*
@@ -701,6 +698,7 @@
 *returnpath*
 *russgo*
 *rxportalhosting*
+*sadobe*
 *safebrowsing*
 *salemove*
 *samsungcloud*
@@ -846,6 +844,7 @@ ads8.*
 ads9.*
 adx.*
 atax.*
+b-graph.*
 binance.com
 btc.com
 centde.com
@@ -861,6 +860,7 @@ event.*
 events.*
 go.ro
 goruli.com
+graph.*
 id.google.*
 infos.*
 log.*
