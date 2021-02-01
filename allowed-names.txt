@@ -13,7 +13,7 @@
 ## License     : GPLv3       : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-01-26
+## Generated   : 2021-02-01
 
 
 ########## Torrent trackers ##########
@@ -47,14 +47,17 @@
 =thetracker.org
 =tracker-udp.gbitt.info
 =tracker.0o.is
+=tracker.1337x.org
 =tracker.acgnx.se
 =tracker.aletorrenty.pl
 =tracker.army
 =tracker.beeimg.com
 =tracker.birkenwald.de
 =tracker.bittor.pw
+=tracker.blazing.de
 =tracker.bt-hash.com
 =tracker.bt4g.com
+=tracker.btorrent.xyz
 =tracker.bz
 =tracker.ccc.de
 =tracker.coppersurfer.tk
@@ -65,7 +68,9 @@
 =tracker.dutchtracking.nl
 =tracker.e-utp.net
 =tracker.eddie4.nl
+=tracker.empire-js.us
 =tracker.ex.ua
+=tracker.fastcast.nz
 =tracker.filemail.com
 =tracker.filepit.to
 =tracker.files.fm
@@ -92,11 +97,13 @@
 =tracker.open-internet.nl
 =tracker.openbittorrent.com
 =tracker.opentrackr.org
+=tracker.openwebtorrent.com
 =tracker.parrotlinux.org
 =tracker.parrotsec.org
 =tracker.pirateparty.gr
 =tracker.piratepublic.com
 =tracker.port443.xyz
+=tracker.prq.to
 =tracker.publicbt.com
 =tracker.sbsub.com
 =tracker.skyts.net
@@ -108,12 +115,14 @@
 =tracker.tiny-vps.com
 =tracker.tntvillage.scambioetico.org
 =tracker.torrent.eu.org
+=tracker.torrent.to
 =tracker.torrentbay.to
 =tracker.trackerfix.com
 =tracker.tvunderground.org.ru
 =tracker.uw0.xyz
 =tracker.vectahosting.eu
 =tracker.ygsub.com
+=tracker.yify-torrents.com
 =tracker.yoshi210.com
 =tracker.zer0day.to
 =tracker.zum.bi
@@ -124,6 +133,7 @@
 =tracker2.itzmx.com
 =tracker3.itzmx.com
 =tracker4.itzmx.com
+=tracker4.piratux.com
 
 
 ########## *.biz domains ##########
