@@ -13,7 +13,7 @@
 ## License     : GPLv3       : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-02-01
+## Generated   : 2021-02-02
 
 
 ########## Torrent trackers ##########
@@ -207,4 +207,5 @@ feedback.ebay.*   # eBay customers reviews
 ########## (others) domains ##########
 
 ilcorsaronero.*   # an Italian torrent website
+invidious.*       # an alternative front-end to YouTube
 searx.*           # a privacy-respecting metasearch engine
