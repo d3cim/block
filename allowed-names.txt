@@ -13,7 +13,7 @@
 ## License     : GPLv3       : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-02-02
+## Generated   : 2021-02-05
 
 
 ########## Torrent trackers ##########
@@ -31,6 +31,7 @@
 =open.miotracker.com
 =open.tracker.thepiratebay.org
 =opentracker.i2p.rocks
+=opentrackr.org
 =public.popcorn-tracker.org
 =retracker.akado-ural.ru
 =retracker.baikal-telecom.net
@@ -83,6 +84,7 @@
 =tracker.iamhansen.xyz
 =tracker.internetwarriors.net
 =tracker.ipv6tracker.ru
+=tracker.istole.it
 =tracker.justseed.it
 =tracker.kamigami.org
 =tracker.kuroy.me
@@ -206,6 +208,9 @@ feedback.ebay.*   # eBay customers reviews
 
 ########## (others) domains ##########
 
+bibliogram.*      # an alternative front-end for Instagram
 ilcorsaronero.*   # an Italian torrent website
 invidious.*       # an alternative front-end to YouTube
+libreddit.*       # an alternative front-end for Reddit
 searx.*           # a privacy-respecting metasearch engine
+teddit.*          # an alternative front-end for Reddit
