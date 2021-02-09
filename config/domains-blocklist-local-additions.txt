@@ -65,6 +65,7 @@
 *.applause.com
 *.apps.lair.io
 *.appsee.*
+*.army
 *.astyf.*
 *.atspace.*
 *.axf8.*
@@ -935,4 +936,3 @@ web.app
 wvvw.*
 xt.pl
 ydns.eu
-*.army
