@@ -235,7 +235,6 @@
 *.reamp.*
 *.red
 *.renren.*
-*.repl.*
 *.revenue.*
 *.review
 *.rocks
@@ -936,3 +935,4 @@ web.app
 wvvw.*
 xt.pl
 ydns.eu
+*.army
