@@ -149,6 +149,7 @@ streamplay.biz      # video hosting
 ########## *.link domains ##########
 
 =get-to.link   # link "protector" service
+pcloud.link    # a cloud storage service from EU
 
 
 ########## *.narod* domains ##########
@@ -210,7 +211,7 @@ feedback.ebay.*   # eBay customers reviews
 
 bibliogram.*      # an alternative front-end for Instagram
 ilcorsaronero.*   # an Italian torrent website
-invidious.*       # an alternative front-end to YouTube
+invidious.*       # an alternative front-end for YouTube
 libreddit.*       # an alternative front-end for Reddit
 searx.*           # a privacy-respecting metasearch engine
 teddit.*          # an alternative front-end for Reddit
