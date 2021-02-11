@@ -177,7 +177,7 @@
 *.localdomain
 *.log-*
 *.log.*
-*.logs*
+*.logs.*
 *.lol
 *.ltd
 *.management
@@ -435,7 +435,8 @@
 *clk*
 *cluod*
 *codesandbox*
-*collect*
+*collect.*
+*collecto*
 *comhost.*
 *compare-*
 *comscore*
