@@ -137,6 +137,10 @@
 =tracker4.itzmx.com
 =tracker4.piratux.com
 
+########## *.lgbt domains ##########
+
+vid.mint.lgbt       # invidious instance
+
 
 ########## *.biz domains ##########
 
