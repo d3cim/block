@@ -13,7 +13,7 @@
 ## License     : GPLv3       : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-02-05
+## Generated   : 2021-02-09
 
 
 ########## Torrent trackers ##########
@@ -137,10 +137,6 @@
 =tracker4.itzmx.com
 =tracker4.piratux.com
 
-########## *.lgbt domains ##########
-
-vid.mint.lgbt       # invidious instance
-
 
 ########## *.biz domains ##########
 
@@ -148,6 +144,11 @@ cyberciti.biz       # Linux tips, hacks, tutorials, etc.
 gamesindustry.biz   # resource for people who produce and sell games
 lbry.biz            # open-community digital marketplace
 streamplay.biz      # video hosting
+
+
+########## *.lgbt domains ##########
+
+vid.mint.lgbt   # an Invidious instance
 
 
 ########## *.link domains ##########
@@ -159,6 +160,11 @@ pcloud.link    # a cloud storage service from EU
 ########## *.narod* domains ##########
 
 =linuxfonts.narod.ru   # info and rant about modern operating systems
+
+
+########## *.red domains ##########
+
+vaa.red   # Open sourced tools
 
 
 ########## *.online domains ##########
