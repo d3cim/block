@@ -17,7 +17,7 @@ Updated sources from the following locations are always merged and included.
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
-OISD | sjhgvr | A merged domain list from a variety of other lists  | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/) | None? |
+OISD | sjhgvr | A merged domain list from a variety of other lists  | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/) | All Rights Reserved |
 The Quantum Ad-List | The_Quantum_Alpha & Co. | Blocklist of ads and tracker domains (made by an AI) | [LINK](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list) | [RAW](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/For%20hosts%20file/The_Quantum_Ad-List.txt) | The Unlicense |
  domains-blocklist-local-additions.txt | quindecim | Domains, wildcards and substrings collection | [LINK](https://git.nixnet.services/quindecim/block) | [RAW](https://git.nixnet.services/quindecim/block/raw/branch/master/domains-blocklist-local-additions.txt) | GPLv3 |
  domains-allowlist.txt | quindecim | Legit domains collection | [LINK](https://git.nixnet.services/quindecim/block) | [RAW](https://git.nixnet.services/quindecim/block/raw/branch/master/domains-allowlist.txt) | GPLv3 |
