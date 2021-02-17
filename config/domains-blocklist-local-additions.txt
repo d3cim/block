@@ -5,9 +5,7 @@
 #  https://git.nixnet.services/quindecim/block  #
 #################################################
 
-## Author    : quindecim   : https://git.nixnet.services/quindecim   | MAINSTREAM
-##                           https://git.lushka.al/quindecim         | MIRROR
-##                           https://git.lelux.fi/quindecim          | MIRROR
+## Author    : quindecim   : https://git.nixnet.services/quindecim
 ##
 ## License   : GPLv3       : https://git.nixnet.services/quindecim/block/src/branch/master/LICENSE.md
 
@@ -753,7 +751,7 @@
 *track*
 *trade*
 *trading*
-*traffic-*
+*traffic-c*
 *traffic.*
 *trafficj*
 *traffics*
