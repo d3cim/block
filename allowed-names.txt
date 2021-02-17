@@ -3,9 +3,7 @@
 #        Allowlist        #
 ###########################
 
-## Author      : quindecim   : https://git.nixnet.services/quindecim   | MAINSTREAM
-##                             https://git.lushka.al/quindecim         | MIRROR
-##                             https://git.lelux.fi/quindecim          | MIRROR
+## Author      : quindecim   : https://git.nixnet.services/quindecim
 ##
 ## Based on    : XIU2        : https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt
 ##               quindecim   : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/raw/branch/master/config/allowed-names.txt
@@ -13,7 +11,7 @@
 ## License     : GPLv3       : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-02-16
+## Generated   : 2021-02-17
 
 
 ########## Torrent trackers ##########
@@ -165,6 +163,11 @@ pcloud.link    # a cloud storage service from EU
 ########## *.red domains ##########
 
 vaa.red   # Open sourced tools
+
+
+########## *.rocks domains ##########
+
+kavin.rocks   # an alternative front-end for YouTube
 
 
 ########## *.online domains ##########
