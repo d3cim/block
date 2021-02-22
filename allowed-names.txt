@@ -11,7 +11,7 @@
 ## License     : GPLv3       : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-02-17
+## Generated   : 2021-02-22
 
 
 ########## Torrent trackers ##########
@@ -144,9 +144,15 @@ lbry.biz            # open-community digital marketplace
 streamplay.biz      # video hosting
 
 
+########## *.cool domains ##########
+
+search.lgbtq.cool   # a searx instance
+
+
 ########## *.lgbt domains ##########
 
-vid.mint.lgbt   # an Invidious instance
+engo.mint.lgbt   # a searx instance
+vid.mint.lgbt    # an Invidious instance
 
 
 ########## *.link domains ##########
@@ -218,6 +224,11 @@ feedback.ebay.*   # eBay customers reviews
 ########## *https* domains ##########
 
 =www.https-rulesets.org   # HTTPS Everywhere ruleset database
+
+
+########## *sponsor* domains ##########
+
+sponsor.ajay.app   # a browser extension for skipping sponsor on YouTube
 
 
 ########## (others) domains ##########
