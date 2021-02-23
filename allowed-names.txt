@@ -11,7 +11,7 @@
 ## License     : GPLv3       : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-02-22
+## Generated   : 2021-02-23
 
 
 ########## Torrent trackers ##########
@@ -141,12 +141,6 @@
 cyberciti.biz       # Linux tips, hacks, tutorials, etc.
 gamesindustry.biz   # resource for people who produce and sell games
 lbry.biz            # open-community digital marketplace
-streamplay.biz      # video hosting
-
-
-########## *.cool domains ##########
-
-search.lgbtq.cool   # a searx instance
 
 
 ########## *.lgbt domains ##########
@@ -158,7 +152,6 @@ vid.mint.lgbt    # an Invidious instance
 ########## *.link domains ##########
 
 =get-to.link   # link "protector" service
-pcloud.link    # a cloud storage service from EU
 
 
 ########## *.narod* domains ##########
@@ -207,7 +200,6 @@ clearurls.xyz        # an add-on that removes tracking elements from URLs
 lbryplayer.xyz       # a LBRY instance for video network
 learn-anything.xyz   # platform for knowledge discovery
 matt.traudt.xyz      # Matt Traudt website (researcher and developer on Tor)
-psarips.xyz          # psarips.com mirror (torrent)
 swzz.xyz             # file hosting service
 
 
