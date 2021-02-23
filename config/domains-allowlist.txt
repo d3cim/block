@@ -8,6 +8,3 @@
 ## Author    : quindecim   : https://git.nixnet.services/quindecim
 ##
 ## License   : GPLv3       : https://git.nixnet.services/quindecim/block/src/branch/master/LICENSE.md
-
-
-s.youtube.com   # YouTube user history
