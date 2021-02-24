@@ -25,8 +25,7 @@ OISD | sjhgvr | A merged domain list from a variety of other lists  | [LINK](htt
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
-DNSCrypt: Rebind Protection | jedisct1 | DNS rebinding protection | [LINK](https://en.wikipedia.org/wiki/DNS_rebinding) | [RAW](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Filters#dns-rebind-protection) | ISC |
-Energized: IP Extension | Energized Team | Malicious IP protection | [LINK](https://energized.pro/) | [RAW](https://block.energized.pro/extensions/ips/formats/list.txt) | MIT |
+DNSCrypt: Rebind Protection | jedisct1 | DNS rebinding protection | [LINK](https://en.wikipedia.org/wiki/DNS_rebinding) | [RAW](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Filters#dns-rebinding-protection) | ISC |
 
 ## Build
 
