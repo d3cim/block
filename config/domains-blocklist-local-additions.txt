@@ -22,7 +22,7 @@
 *-free*
 *-ipconnect*
 *-lady*
-*-log*
+*-log.*
 *-meter*
 *-netflix*
 *-pixel*
@@ -122,6 +122,7 @@
 *.euweb.*
 *.ez-sites.*
 *.feed*
+*.focus-outdoors.*
 *.fora.*
 *.forumup.*
 *.free
@@ -476,6 +477,7 @@
 *eventlog*
 *evv-auditing*
 *exacttarget*
+*faceb00k*
 *facebooo*
 *faktypolska*
 *fastclick*
@@ -799,7 +801,7 @@
 *zeroredirect*
 *zpool*
 *zybang*
-2o7.*
+2o7.net
 a8.*
 ac.id
 acv.*
@@ -823,6 +825,7 @@ ad7.*
 ad8.*
 ad9.*
 adc.*
+adj.st
 adjust.*
 ads.*
 ads1.*
@@ -853,6 +856,7 @@ count.*
 cz.cc
 dii2.*
 ebis.*
+ejtm.com
 eth0.me
 event.*
 events.*
@@ -916,6 +920,7 @@ tdf1.*
 te.*
 tistory.com
 tk.*
+tlnk.io
 tr-ssl.*
 tr.*
 tr1.*
@@ -931,6 +936,8 @@ trc.*
 vk.com
 vvvvvv.*
 web.app
+wixsite.com
 wvvw.*
 xt.pl
 ydns.eu
+yi.org
