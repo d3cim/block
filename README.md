@@ -33,13 +33,3 @@ To generate your own list you can clone this repo, edit files according to your 
 ```
 python3 generate-domains-blocklist.py > list.txt.tmp && mv -f list.txt.tmp list
 ```
-
-## Notice
-
-<table>
-<tr>
-<td>
-When it has reached a stable level the blocklist will be shared here as release.
-</td>
-</tr>
-</table>
