@@ -29,7 +29,7 @@ DNSCrypt: Rebind Protection | jedisct1 | DNS rebinding protection | [LINK](https
 
 ## Build
 
-To generate your own list you can clone this repo, edit files according to your needs and run this command:
+To generate your own list you can clone this repo, move into the `config` folder, edit files according to your needs and run this command:
 ```
 python3 generate-domains-blocklist.py > list.txt.tmp && mv -f list.txt.tmp list
 ```
