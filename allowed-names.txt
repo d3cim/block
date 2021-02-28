@@ -11,7 +11,7 @@
 ## License     : GPLv3       : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-02-25
+## Generated   : 2021-02-28
 
 
 ########## Torrent trackers ##########
@@ -227,6 +227,11 @@ sponsor.ajay.app   # a browser extension for skipping sponsor on YouTube
 ########## *track* domains ##########
 
 coveryourtracks.eff.org   # an Electronic Frontier Foundation tool
+
+
+########## graph.* domains ##########
+
+graph.rockstargames.com   # required for browse rockstargames.com
 
 
 ########## (others) domains ##########
