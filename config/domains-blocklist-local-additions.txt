@@ -10,7 +10,7 @@
 ## License   : GPLv3       : https://git.nixnet.services/quindecim/block/src/branch/master/LICENSE.md
 
 
-########## Keywords ##########
+########## Domains, substrings, wildcards ##########
 
 *----*
 *-ad-*
@@ -868,7 +868,7 @@ ydns.eu
 yi.org
 
 
-########## TLD extensions ##########
+########## TLD (Top-Level Domains) ##########
 
 *.ad
 *.agency
