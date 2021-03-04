@@ -3,12 +3,13 @@
 #        Allowlist        #
 ###########################
 
-## Author      : quindecim   : https://git.nixnet.services/quindecim
+## Author    : quindecim   : https://codeberg.org/quindecim
+##                           https://codeberg.org/quindecim
 ##
 ## Based on    : XIU2        : https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt
-##               quindecim   : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/raw/branch/master/config/allowed-names.txt
+##               quindecim   : https://codeberg.org/quindecim/dnscrypt-proxy-android/raw/branch/master/config/allowed-names.txt
 ##
-## License     : GPLv3       : https://git.nixnet.services/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
+## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
 ## Generated   : 2021-02-28
