@@ -1,4 +1,4 @@
-# block
+# block - 0xacab.org
 
 A collection of domains, wildcards and substrings designed for [`dnscrypt-proxy`](https://github.com/DNSCrypt/dnscrypt-proxy) filter method.
 
