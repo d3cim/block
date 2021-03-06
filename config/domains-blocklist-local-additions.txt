@@ -111,7 +111,6 @@
 *.glassdoor.*
 *.glitch.*
 *.gmz.*
-*.godaddy*
 *.gotdns.*
 *.hol.*
 *.home.*
@@ -436,6 +435,7 @@
 *gikorip*
 *glamxpress*
 *glasslightbulbs*
+*godaddy*
 *gravityrd*
 *guidegoods*
 *halifax*
@@ -727,6 +727,7 @@
 *zeroredirect*
 *zpool*
 *zybang*
+22web.org
 2o7.net
 a8.*
 ac.id
@@ -787,6 +788,7 @@ eth0.me
 event.*
 events.*
 go.ro
+go2cloud.org
 goruli.com
 graph.*
 id.google.*
@@ -825,6 +827,7 @@ simg.*
 smetc.*
 smr.*
 smtc.*
+smtcdns.net
 som.*
 somn.*
 somni.*
@@ -937,6 +940,7 @@ yi.org
 *.rocks
 *.services
 *.shop
+*.space
 *.stream
 *.studio
 *.supply
