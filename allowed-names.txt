@@ -3,8 +3,8 @@
 #        Allowlist        #
 ###########################
 
-## Author    : quindecim   : https://codeberg.org/quindecim
-##                           https://git.nixnet.services/quindecim
+## Author      : quindecim   : https://codeberg.org/quindecim
+##                             https://git.nixnet.services/quindecim
 ##
 ## Based on    : XIU2        : https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt
 ##               quindecim   : https://codeberg.org/quindecim/dnscrypt-proxy-android/raw/branch/master/config/allowed-names.txt
