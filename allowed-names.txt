@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-02-28
+## Generated   : 2021-03-28
 
 
 ########## Torrent trackers ##########
@@ -257,6 +257,11 @@ lbryplayer.xyz       # a LBRY instance for video network
 learn-anything.xyz   # platform for knowledge discovery
 matt.traudt.xyz      # Matt Traudt website (researcher and developer on Tor)
 swzz.xyz             # file hosting service
+
+
+########## *connectivitycheck* domains ##########
+
+=connectivitycheck.android.com   # required for Aurora Store v4
 
 
 ########## *erotic* / *erotik* domains ##########
