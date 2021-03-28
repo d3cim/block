@@ -25,7 +25,7 @@ OISD: Domains (full) | sjhgvr | A merged domain list from a variety of other lis
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
-DNSCrypt: Rebind Protection | jedisct1 | DNS rebinding protection | [LINK](https://en.wikipedia.org/wiki/DNS_rebinding) | [RAW](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Filters#dns-rebinding-protection) | ISC |
+DNSCrypt: Rebind Protection | jedisct1 | DNS rebinding protection | [LINK](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Filters#dns-rebinding-protection) | - | ISC |
 
 ## Build
 
