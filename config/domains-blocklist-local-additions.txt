@@ -840,6 +840,7 @@ sstatz.*
 stat.*
 stc.*
 stt.*
+supl.*
 sw88.*
 swa.*
 t-s.*
