@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-03-28
+## Generated   : 2021-04-09
 
 
 ########## Torrent trackers ##########
@@ -189,74 +189,6 @@
 =tracker4.piratux.com
 =udp-tracker.shittyurl.org
 =us-tracker.publictracker.xyz
-
-
-########## *.biz domains ##########
-
-cyberciti.biz       # Linux tips, hacks, tutorials, etc.
-gamesindustry.biz   # resource for people who produce and sell games
-lbry.biz            # open-community digital marketplace
-
-
-########## *.lgbt domains ##########
-
-engo.mint.lgbt   # a searx instance
-vid.mint.lgbt    # an Invidious instance
-
-
-########## *.link domains ##########
-
-=get-to.link   # link "protector" service
-pcloud.link    # a cloud storage service from EU
-
-
-########## *.narod* domains ##########
-
-=linuxfonts.narod.ru   # info and rant about modern operating systems
-
-
-########## *.red domains ##########
-
-vaa.red   # Open sourced tools
-
-
-########## *.rocks domains ##########
-
-kavin.rocks   # an alternative front-end for YouTube
-
-
-########## *.online domains ##########
-
-open.online   # an online journal
-
-
-########## *.pro domains ##########
-
-energized.pro   # Energized Protection's blocklists
-
-
-########## *.services domains ##########
-
-nixnet.services   # a variety of self-hosted solutions
-
-
-########## *.today domains ##########
-
-=www.orwell1984.today   # subset of trackers lists grouped by single tracker
-
-
-########## *.top domains ##########
-
-unblockit.top   # a proxy website
-
-
-########## *.xyz domains ##########
-
-clearurls.xyz        # an add-on that removes tracking elements from URLs
-lbryplayer.xyz       # a LBRY instance for video network
-learn-anything.xyz   # platform for knowledge discovery
-matt.traudt.xyz      # Matt Traudt website (researcher and developer on Tor)
-swzz.xyz             # file hosting service
 
 
 ########## *connectivitycheck* domains ##########
