@@ -135,7 +135,6 @@
 *.myftp.*
 *.myfw.*
 *.myshn.*
-*.narod*
 *.nazwa.*
 *.neocities.*
 *.net16.*
