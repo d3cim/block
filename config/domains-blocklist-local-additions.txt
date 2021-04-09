@@ -867,6 +867,7 @@ yi.org
 *.lan
 *.local
 *.localdomain
+*.network
 *.workgroup
 
 
