@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-04-09
+## Generated   : 2021-04-12
 
 
 ########## Torrent trackers ##########
@@ -21,9 +21,13 @@
 =3.tracker.eu.org
 =atrack.pow7.com
 =big-boss-tracker.net
+=big-boss-tracker.net.php
 =bt-tracker.gamexp.ru
 =bt.xxx-tracker.com
 =bttracker.debian.org
+=fasttracker.foreverpirates.co
+=filetracker.xyz
+=fr33domtracker.h33t.com
 =free-tracker.zooki.xyz
 =free.publictracker.xyz
 =ipv4.tracker.harry.lu
@@ -35,9 +39,11 @@
 =open.acgnxtracker.com
 =open.acgtracker.com
 =open.miotracker.com
+=open.publictracker.xyz
 =open.tracker.thepiratebay.org
 =opentracker.acgnx.se
 =opentracker.i2p.rocks
+=opentracker.xyz
 =opentrackr.org
 =public-tracker.zooki.xyz
 =public.popcorn-tracker.org
@@ -51,6 +57,7 @@
 =retracker.nts.su
 =retracker.sevstar.net
 =retracker.spark-rostov.ru
+=retracker.spb.ru
 =rutracker.cr
 =rutracker.net
 =rutracker.nl
@@ -63,15 +70,19 @@
 =tracker.0o.is
 =tracker.0x.tf
 =tracker.1337x.org
+=tracker.acg.gg
 =tracker.acgnx.se
 =tracker.aletorrenty.pl
+=tracker.ali213.net
 =tracker.ali213.net80
 =tracker.altrosky.nl
 =tracker.anirena.com
+=tracker.anonwebz.xyz
 =tracker.army
 =tracker.beeimg.com
 =tracker.birkenwald.de
 =tracker.bittor.pw
+=tracker.blacksparrowmedia.net
 =tracker.blazing.de
 =tracker.bt-hash.com
 =tracker.bt4g.com
@@ -84,6 +95,7 @@
 =tracker.coppersurfer.tk
 =tracker.corpscorp.online
 =tracker.cyberia.is
+=tracker.cypherpunks.ru
 =tracker.dler.org
 =tracker.ds.is
 =tracker.dutchtracking.nl
@@ -101,6 +113,8 @@
 =tracker.foreverpirates.co
 =tracker.fortu.io
 =tracker.frozen-layer.net
+=tracker.frozen-layer.net.php
+=tracker.gazellegames.net
 =tracker.gbitt.info
 =tracker.gcvchp.com
 =tracker.gigatorrents.ws
@@ -123,13 +137,19 @@
 =tracker.lilithraws.cf
 =tracker.loadbt.com
 =tracker.mg64.net
+=tracker.mgtracker.org
+=tracker.minglong.org
 =tracker.minglong.org80
 =tracker.moeking.me
+=tracker.monitorit4.me
 =tracker.msm8916.com
 =tracker.nanoha.org
+=tracker.nighthawk.pw
 =tracker.nitrix.me
 =tracker.noobsubs.net
+=tracker.nrx.me
 =tracker.nyap2p.com
+=tracker.ololosh.space
 =tracker.open-internet.nl
 =tracker.openbittorrent.com
 =tracker.opentrackr.org
@@ -138,10 +158,14 @@
 =tracker.parrotsec.org
 =tracker.pirateparty.gr
 =tracker.piratepublic.com
+=tracker.pomf.se
 =tracker.port443.xyz
 =tracker.pow7.com
 =tracker.prq.to
 =tracker.publicbt.com
+=tracker.publichd.eu
+=tracker.pussytorrents.org
+=tracker.qt.is
 =tracker.renfei.net
 =tracker.sbsub.com
 =tracker.shittyurl.org
@@ -151,6 +175,7 @@
 =tracker.skyts.net
 =tracker.sloppyta.co
 =tracker.swateam.org.uk
+=tracker.tambovnet.org.php
 =tracker.tamersunion.org
 =tracker.tasvideos.org
 =tracker.teambelgium.net
@@ -162,11 +187,14 @@
 =tracker.torrent.to
 =tracker.torrentbay.to
 =tracker.trackerfix.com
+=tracker.tricitytorrents.com
 =tracker.tvunderground.org.ru
 =tracker.uw0.xyz
 =tracker.v6speed.org
+=tracker.vanitycore.co
 =tracker.vectahosting.eu
 =tracker.vraphim.com
+=tracker.x4w.co
 =tracker.xdvdz.com
 =tracker.ygsub.com
 =tracker.yify-torrents.com
@@ -183,10 +211,12 @@
 =tracker2.dler.org
 =tracker2.indowebster.com
 =tracker2.itzmx.com
+=tracker2.wasabii.com.tw
 =tracker3.dler.org
 =tracker3.itzmx.com
 =tracker4.itzmx.com
 =tracker4.piratux.com
+=trk.publictracker.xyz
 =udp-tracker.shittyurl.org
 =us-tracker.publictracker.xyz
 
