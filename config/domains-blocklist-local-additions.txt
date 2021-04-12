@@ -859,7 +859,6 @@ wvvw.*
 xt.pl
 ydns.eu
 yi.org
-*.ddns.*
 
 
 ########## TLD (Top-Level Domains) ##########
@@ -875,4 +874,6 @@ yi.org
 
 *.ads*
 *.aos*
+*.ddns*
 *.click*
+*.serve*
