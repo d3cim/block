@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-04-12
+## Generated   : 2021-04-13
 
 
 ########## Torrent trackers ##########
@@ -53,6 +53,7 @@
 =retracker.baikal-telecom.net
 =retracker.hotplug.ru
 =retracker.lanta-net.ru
+=retracker.local
 =retracker.netbynet.ru
 =retracker.nts.su
 =retracker.sevstar.net
@@ -254,13 +255,3 @@ coveryourtracks.eff.org   # an Electronic Frontier Foundation tool
 ########## graph.* domains ##########
 
 graph.rockstargames.com   # required for browse rockstargames.com
-
-
-########## (others) domains ##########
-
-bibliogram.*      # an alternative front-end for Instagram
-ilcorsaronero.*   # an Italian torrent website
-invidious.*       # an alternative front-end for YouTube
-libreddit.*       # an alternative front-end for Reddit
-searx.*           # a privacy-respecting metasearch engine
-teddit.*          # an alternative front-end for Reddit
