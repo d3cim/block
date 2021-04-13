@@ -18,7 +18,7 @@ Updated sources from the following locations are always merged and included.
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
 OISD: Domains (full) | sjhgvr | A merged domain list from a variety of other lists  | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/) | All Rights Reserved |
- domains-blocklist-local-additions.txt | quindecim | Domains, wildcards and substrings collection | [LINK](https://git.nixnet.services/quindecim/block) | [RAW](https://git.nixnet.services/quindecim/block/raw/branch/master/config/domains-blocklist-local-additions.txt) | GPLv3 |
+ domains-blocklist-local-additions.txt | quindecim | Domains, wildcards and substrings collection | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-blocklist-local-additions.txt) | GPLv3 |
  domains-allowlist.txt | quindecim | Legit domains collection | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-allowlist.txt) | GPLv3 |
 
 #### blocked-ips.txt
