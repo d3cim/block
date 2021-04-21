@@ -68,7 +68,6 @@
 *.bitiba.*
 *.bonprix.*
 *.bounceme.*
-*.bplaced.*
 *.cafe24.*
 *.cfapps.*
 *.chat.ru
