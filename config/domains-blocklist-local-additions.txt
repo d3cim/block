@@ -466,7 +466,6 @@
 *log7*
 *log8*
 *log9*
-*logger*
 *logging*
 *loggly*
 *logon*
