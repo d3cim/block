@@ -165,7 +165,6 @@
 *.sandai.*
 *.sapo.*
 *.sc.*
-*.sentry.*
 *.sfr.*
 *.sharepoint.*
 *.shnpoc.*
@@ -622,6 +621,7 @@
 *scribd*
 *secondhandhomeappliances*
 *seitensprung*
+*sentry*
 *servconfig*
 *serving-sys*
 *settingsppup*
