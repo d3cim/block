@@ -48,6 +48,11 @@
 *.a-cast.*
 *.activity.windows.*
 *.actonsoftware.*
+*.ad-*
+*.ad.*
+*.adc.*
+*.adf.*
+*.adv.*
 *.ahacdn.*
 *.amp.*
 *.appboy.*
@@ -160,7 +165,7 @@
 *.sandai.*
 *.sapo.*
 *.sc.*
-*sentry*
+*.sentry.*
 *.sfr.*
 *.sharepoint.*
 *.shnpoc.*
@@ -859,6 +864,7 @@ yi.org
 
 ########## TLD (Top-Level Domains) ##########
 
+*.ad
 *.lan
 *.local
 *.localdomain
@@ -868,7 +874,7 @@ yi.org
 
 ########## TLD (Top-Level Domains) + substrings ##########
 
-*.ad*
+*.ads*
 *.aos*
 *.ddns*
 *.click*
