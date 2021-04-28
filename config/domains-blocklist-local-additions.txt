@@ -501,6 +501,7 @@
 *minergate*
 *minerva.*
 *miningpool*
+*mistat*
 *mkt0*
 *mkt1*
 *mkt2*
