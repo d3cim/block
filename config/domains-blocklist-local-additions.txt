@@ -255,6 +255,7 @@
 *adsys*
 *adtiger*
 *adtiming*
+*adtool*
 *adtriba*
 *adv-*
 *adv.*
