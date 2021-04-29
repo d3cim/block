@@ -49,10 +49,7 @@
 *.activity.windows.*
 *.actonsoftware.*
 *.ad-*
-*.ad.*
-*.adc.*
 *.adf.*
-*.adv.*
 *.ahacdn.*
 *.amp.*
 *.appboy.*
@@ -85,7 +82,6 @@
 *.dynu.*
 *.dynv6.*
 *.ebayrtm.*
-*.ebis.*
 *.esy.*
 *.etr.im
 *.euweb.*
@@ -120,14 +116,11 @@
 *.kit.*
 *.krxd.*
 *.log-*
-*.log.*
-*.logs.*
 *.mateti.*
 *.mixh.*
 *.mobify.*
 *.mperf.*
 *.msecnd.*
-*.msn.*
 *.my1.*
 *.mybb.*
 *.myftp.*
@@ -151,7 +144,6 @@
 *.pen.*
 *.pendo.*
 *.pila.*
-*.promo.*
 *.prv.*
 *.pub.*
 *.pun.*
@@ -164,7 +156,6 @@
 *.run.app
 *.sandai.*
 *.sapo.*
-*.sc.*
 *.sfr.*
 *.sharepoint.*
 *.shnpoc.*
@@ -722,6 +713,7 @@
 a8.*
 ac.id
 acv.*
+ad.*
 ad01.*
 ad02.*
 ad03.*
@@ -802,6 +794,9 @@ omt.*
 omtr.*
 omtr1.*
 omtr2.*
+*.ad.xiaomi.com
+*.ad.intl.xiaomi.com
+aan.*
 pix.*
 pixels.*
 promo.*
