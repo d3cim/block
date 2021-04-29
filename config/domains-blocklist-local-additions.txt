@@ -49,6 +49,8 @@
 *.activity.windows.*
 *.actonsoftware.*
 *.ad-*
+*.ad.intl.xiaomi.com
+*.ad.xiaomi.com
 *.adf.*
 *.ahacdn.*
 *.amp.*
@@ -711,6 +713,7 @@
 22web.org
 2o7.net
 a8.*
+aan.*
 ac.id
 acv.*
 ad.*
@@ -794,9 +797,6 @@ omt.*
 omtr.*
 omtr1.*
 omtr2.*
-*.ad.xiaomi.com
-*.ad.intl.xiaomi.com
-aan.*
 pix.*
 pixels.*
 promo.*
