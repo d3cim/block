@@ -237,11 +237,6 @@ literotica.com   # erotic stories
 feedback.ebay.*   # eBay customers reviews
 
 
-########## *https* domains ##########
-
-=www.https-rulesets.org   # HTTPS Everywhere ruleset database
-
-
 ########## *sponsor* domains ##########
 
 sponsor.ajay.app   # a browser extension for skipping sponsor on YouTube
