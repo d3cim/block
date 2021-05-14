@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-04-13
+## Generated   : 2021-05-14
 
 
 ########## Torrent trackers ##########
@@ -250,6 +250,11 @@ sponsor.ajay.app   # a browser extension for skipping sponsor on YouTube
 ########## *track* domains ##########
 
 coveryourtracks.eff.org   # an Electronic Frontier Foundation tool
+
+
+########## *yandex* domains ##########
+
+=disk.yandex.com   # a cloud service created by Yandex
 
 
 ########## graph.* domains ##########
