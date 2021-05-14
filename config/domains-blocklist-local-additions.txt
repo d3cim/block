@@ -424,7 +424,6 @@
 *htmlcomponentservice*
 *htmlpasta*
 *htps*
-*https*
 *icscard*
 *inmobi*
 *insight*
@@ -704,7 +703,6 @@
 *yoyohost*
 *zap-webspace*
 *zarabot*
-*zendesk*
 *zeroredirect*
 *zpool*
 *zybang*
