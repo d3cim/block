@@ -759,7 +759,6 @@ centde.com
 click.*
 compare.*
 content22.*
-core.windows.net
 count.*
 cz.cc
 dii2.*
