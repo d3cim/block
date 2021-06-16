@@ -39,10 +39,7 @@
 *.163.com
 *.16mb.*
 *.1e100.*
-*.207.*
 *.24mx.*
-*.2cnt.*
-*.2mdn.*
 *.2u.*
 *.500mb.*
 *.a-cast.*
@@ -52,7 +49,6 @@
 *.ad.intl.xiaomi.com
 *.ad.xiaomi.com
 *.adf.*
-*.ahacdn.*
 *.amp.*
 *.appboy.*
 *.applause.com
