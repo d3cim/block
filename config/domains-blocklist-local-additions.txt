@@ -707,7 +707,6 @@
 *zpool*
 *zybang*
 22web.org
-2o7.net
 a8.*
 aan.*
 ac.id
