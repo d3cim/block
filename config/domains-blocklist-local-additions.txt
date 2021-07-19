@@ -757,6 +757,7 @@ content22.*
 count.*
 cz.cc
 dii2.*
+doh.dns.apple.com
 ebis.*
 ejtm.com
 eth0.me
@@ -771,6 +772,9 @@ infos.*
 log.*
 logs.*
 logstat.*
+mask-api.icloud.com
+mask.apple-dns.net
+mask.icloud.com
 meds.*
 motd.ubuntu.com
 msn.*
