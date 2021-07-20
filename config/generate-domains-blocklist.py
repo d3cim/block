@@ -81,6 +81,12 @@ def parse_list(content, trusted=False):
                 continue
             name = matches.group(1)
             names.add(name)
+            try:
+                time_restriction = matches.group(2)
+                if time_restriction:
+                    time_restrictions[name] = time_restriction
+            except IndexError as e:
+                pass
     return names, time_restrictions
 
 
