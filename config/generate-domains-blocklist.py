@@ -20,7 +20,7 @@ except (ImportError, ModuleNotFoundError):
 def parse_time_restricted_list(content):
     rx_comment = re.compile(r"^(#|$)")
     rx_inline_comment = re.compile(r"\s*#\s*[a-z0-9-].*$")
-    rx_trusted = re.compile(r"^([*a-z0-9.-]+)\s*(@\S+)?$")
+    rx_trusted = re.compile(r"^(=?[*a-z0-9.\-\[\]\?\:]+)\s*(@\S+)?$")
     rx_timed = re.compile(r".+\s*(@\S+)?$")
 
     names = set()
@@ -61,13 +61,15 @@ def parse_list(content, trusted=False):
     rx_mdl = re.compile(r'^"[^"]+","([a-z0-9][a-z0-9.-]*[.][a-z]{2,})",')
     rx_b = re.compile(r"^([a-z0-9][a-z0-9.-]*[.][a-z]{2,}),.+,[0-9: /-]+,")
     rx_dq = re.compile(r"^address=/([a-z0-9][a-z0-9.-]*[.][a-z]{2,})/.")
+    rx_trusted = re.compile(r"^(=?[*a-z0-9.\-\[\]\?\:]+)\s*(@\S+)?$")
+
 
     if trusted:
         return parse_trusted_list(content)
 
     names = set()
     time_restrictions = {}
-    rx_set = [rx_u, rx_l, rx_h, rx_mdl, rx_b, rx_dq]
+    rx_set = [rx_u, rx_l, rx_h, rx_mdl, rx_b, rx_dq, rx_trusted]
     for line in content.splitlines():
         line = str.lower(str.strip(line))
         if rx_comment.match(line):
@@ -79,6 +81,12 @@ def parse_list(content, trusted=False):
                 continue
             name = matches.group(1)
             names.add(name)
+            try:
+                time_restriction = matches.group(2)
+                if time_restriction:
+                    time_restrictions[name] = time_restriction
+            except IndexError as e:
+                pass
     return names, time_restrictions
 
 
