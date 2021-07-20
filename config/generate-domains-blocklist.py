@@ -20,7 +20,7 @@ except (ImportError, ModuleNotFoundError):
 def parse_time_restricted_list(content):
     rx_comment = re.compile(r"^(#|$)")
     rx_inline_comment = re.compile(r"\s*#\s*[a-z0-9-].*$")
-    rx_trusted = re.compile(r"^([*a-z0-9.-]+)\s*(@\S+)?$")
+    rx_trusted = re.compile(r"^(=?[*a-z0-9.\-\[\]\?\:]+)\s*(@\S+)?$")
     rx_timed = re.compile(r".+\s*(@\S+)?$")
 
     names = set()
@@ -61,7 +61,7 @@ def parse_list(content, trusted=False):
     rx_mdl = re.compile(r'^"[^"]+","([a-z0-9][a-z0-9.-]*[.][a-z]{2,})",')
     rx_b = re.compile(r"^([a-z0-9][a-z0-9.-]*[.][a-z]{2,}),.+,[0-9: /-]+,")
     rx_dq = re.compile(r"^address=/([a-z0-9][a-z0-9.-]*[.][a-z]{2,})/.")
-    rx_trusted = re.compile(r"^([*a-z0-9.-]+)\s*(@\S+)?$")
+    rx_trusted = re.compile(r"^(=?[*a-z0-9.\-\[\]\?\:]+)\s*(@\S+)?$")
 
 
     if trusted:
