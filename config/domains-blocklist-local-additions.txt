@@ -403,7 +403,6 @@
 *froogle*
 *gameplansession*
 *getenjoyment*
-*getresponse*
 *gigazu*
 *gigya*
 *giize*
@@ -441,7 +440,6 @@
 *levitra*
 *list-manage*
 *livejournal*
-*lnstagram*
 *log0*
 *log1*
 *log2*
@@ -642,7 +640,6 @@
 *syndication*
 *tagcommander*
 *tagmanager*
-*tags*
 *talktalk*
 *taobao*
 *tastyarabicacoffee*
@@ -655,7 +652,6 @@
 *trade*
 *trading*
 *traffic-c*
-*traffic.*
 *trafficj*
 *traffics*
 *traffik*
@@ -822,7 +818,6 @@ supl.*
 sw88.*
 swa.*
 t-s.*
-tag.*
 tck.*
 tdep.*
 tdf1.*
