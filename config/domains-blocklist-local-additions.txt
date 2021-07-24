@@ -647,6 +647,7 @@
 *teamgroovy*
 *telemetry*
 *tmx*
+*today.info*
 *traceur*
 *track*
 *trade*
@@ -837,7 +838,6 @@ tr7.*
 tr8.*
 tr9.*
 trc.*
-vk.com
 vvvvvv.*
 web.app
 wixsite.com
@@ -850,6 +850,7 @@ yi.org
 ########## TLD (Top-Level Domains) ##########
 
 *.ad
+*.icu
 *.lan
 *.local
 *.localdomain
