@@ -602,7 +602,6 @@
 *salemove*
 *samsungcloud*
 *scorecardresearch*
-*scribd*
 *secondhandhomeappliances*
 *seitensprung*
 *sentry*
@@ -647,7 +646,6 @@
 *teamgroovy*
 *telemetry*
 *tmx*
-*today.info*
 *traceur*
 *track*
 *trade*
@@ -850,7 +848,6 @@ yi.org
 ########## TLD (Top-Level Domains) ##########
 
 *.ad
-*.icu
 *.lan
 *.local
 *.localdomain
