@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-05-14
+## Generated   : 2021-07-29
 
 
 ########## Torrent trackers ##########
@@ -95,6 +95,7 @@
 =tracker.coalition.space
 =tracker.coppersurfer.tk
 =tracker.corpscorp.online
+=tracker.cyber-hub.net
 =tracker.cyberia.is
 =tracker.cypherpunks.ru
 =tracker.dler.org
@@ -119,6 +120,7 @@
 =tracker.gbitt.info
 =tracker.gcvchp.com
 =tracker.gigatorrents.ws
+=tracker.glotorrents.com
 =tracker.grepler.com
 =tracker.halfchub.club
 =tracker.hama3.net
@@ -181,6 +183,7 @@
 =tracker.tasvideos.org
 =tracker.teambelgium.net
 =tracker.tfile.co
+=tracker.tfile.me
 =tracker.theoks.net
 =tracker.tiny-vps.com
 =tracker.tntvillage.scambioetico.org
