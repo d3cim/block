@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-07-29
+## Generated   : 2021-07-31
 
 
 ########## Torrent trackers ##########
@@ -35,9 +35,11 @@
 =ipv6.tracker.zerobytes.xyz
 =mgtracker.org
 =milanesitracker.tekcities.com
+=mytracker.fly.dev
 =nyaa.tracker.wf
 =open.acgnxtracker.com
 =open.acgtracker.com
+=open.kickasstracker.com
 =open.miotracker.com
 =open.publictracker.xyz
 =open.tracker.thepiratebay.org
@@ -67,6 +69,7 @@
 =thetracker.org
 =torrenttracker.nwc.acsalaska.net
 =tracker-cdn.moeking.me
+=tracker-de.ololosh.space
 =tracker-udp.gbitt.info
 =tracker.0o.is
 =tracker.0x.tf
@@ -85,6 +88,7 @@
 =tracker.bittor.pw
 =tracker.blacksparrowmedia.net
 =tracker.blazing.de
+=tracker.breizh.pm
 =tracker.bt-hash.com
 =tracker.bt4g.com
 =tracker.btorrent.xyz
@@ -98,6 +102,7 @@
 =tracker.cyber-hub.net
 =tracker.cyberia.is
 =tracker.cypherpunks.ru
+=tracker.dler.com
 =tracker.dler.org
 =tracker.ds.is
 =tracker.dutchtracking.nl
@@ -105,6 +110,7 @@
 =tracker.eddie4.nl
 =tracker.edkj.club
 =tracker.empire-js.us
+=tracker.etree.org
 =tracker.ex.ua
 =tracker.fastcast.nz
 =tracker.fdn.fr
@@ -128,13 +134,16 @@
 =tracker.ilibr.org
 =tracker.imgoingto.icu
 =tracker.internetwarriors.net
+=tracker.ipv6tracker.org
 =tracker.ipv6tracker.ru
 =tracker.iriseden.eu
+=tracker.iriseden.fr
 =tracker.istole.it
 =tracker.justseed.it
 =tracker.kali.org
 =tracker.kamigami.org
 =tracker.kuroy.me
+=tracker.leech.ie
 =tracker.leechers-paradise.org
 =tracker.lelux.fi
 =tracker.lilithraws.cf
@@ -203,6 +212,7 @@
 =tracker.ygsub.com
 =tracker.yify-torrents.com
 =tracker.yoshi210.com
+=tracker.yowe.net
 =tracker.zemoj.com
 =tracker.zer0day.to
 =tracker.zerobytes.xyz
@@ -212,6 +222,7 @@
 =tracker1.itzmx.com
 =tracker1.itzmx.com80
 =tracker2.christianbro.pw
+=tracker2.dler.com
 =tracker2.dler.org
 =tracker2.indowebster.com
 =tracker2.itzmx.com
