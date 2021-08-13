@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-07-31
+## Generated   : 2021-08-13
 
 
 ########## Torrent trackers ##########
@@ -21,7 +21,6 @@
 =3.tracker.eu.org
 =atrack.pow7.com
 =big-boss-tracker.net
-=big-boss-tracker.net.php
 =bt-tracker.gamexp.ru
 =bt.xxx-tracker.com
 =bttracker.debian.org
@@ -48,6 +47,7 @@
 =opentracker.xyz
 =opentrackr.org
 =public-tracker.zooki.xyz
+=public.paradise-tracker.com
 =public.popcorn-tracker.org
 =public.publictracker.xyz
 =public.tracker.vraphim.com
@@ -87,6 +87,7 @@
 =tracker.birkenwald.de
 =tracker.bittor.pw
 =tracker.blacksparrowmedia.net
+=tracker.blackunicorn.xyz
 =tracker.blazing.de
 =tracker.breizh.pm
 =tracker.bt-hash.com
@@ -121,7 +122,6 @@
 =tracker.foreverpirates.co
 =tracker.fortu.io
 =tracker.frozen-layer.net
-=tracker.frozen-layer.net.php
 =tracker.gazellegames.net
 =tracker.gbitt.info
 =tracker.gcvchp.com
@@ -187,18 +187,20 @@
 =tracker.skyts.net
 =tracker.sloppyta.co
 =tracker.swateam.org.uk
-=tracker.tambovnet.org.php
+=tracker.tambovnet.org
 =tracker.tamersunion.org
 =tracker.tasvideos.org
 =tracker.teambelgium.net
 =tracker.tfile.co
 =tracker.tfile.me
 =tracker.theoks.net
+=tracker.thepiratebay.org
 =tracker.tiny-vps.com
 =tracker.tntvillage.scambioetico.org
 =tracker.torrent.eu.org
 =tracker.torrent.to
 =tracker.torrentbay.to
+=tracker.torrentbox.com
 =tracker.trackerfix.com
 =tracker.tricitytorrents.com
 =tracker.tvunderground.org.ru
