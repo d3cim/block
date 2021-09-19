@@ -638,6 +638,7 @@
 *syndication*
 *tagcommander*
 *tagmanager*
+*tagserv*
 *talktalk*
 *taobao*
 *tastyarabicacoffee*
@@ -786,6 +787,7 @@ omt.*
 omtr.*
 omtr1.*
 omtr2.*
+page.link
 pix.*
 pixels.*
 promo.*
