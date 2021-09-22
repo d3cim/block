@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-08-13
+## Generated   : 2021-09-22
 
 
 ########## Torrent trackers ##########
@@ -85,6 +85,7 @@
 =tracker.army
 =tracker.beeimg.com
 =tracker.birkenwald.de
+=tracker.bitsearch.to
 =tracker.bittor.pw
 =tracker.blacksparrowmedia.net
 =tracker.blackunicorn.xyz
@@ -99,6 +100,7 @@
 =tracker.ccc.de
 =tracker.coalition.space
 =tracker.coppersurfer.tk
+=tracker.coppersurfer.tkg
 =tracker.corpscorp.online
 =tracker.cyber-hub.net
 =tracker.cyberia.is
