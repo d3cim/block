@@ -17,16 +17,20 @@ Updated sources from the following locations are always merged and included.
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
-OISD: Domains (full) | sjhgvr | A merged domains list from a variety of other lists  | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/) | All Rights Reserved |
-OISD: Domains (extra) | sjhgvr | OISD's controversial domains list  | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/extra/) | All Rights Reserved |
- domains-blocklist-local-additions.txt | quindecim | Domains, wildcards and substrings collection | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-blocklist-local-additions.txt) | GPLv3 |
- domains-allowlist.txt | quindecim | Legit domains collection | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-allowlist.txt) | GPLv3 |
+1Hosts: Domains (Xtra - Level 4) | badmojr | DNS filter-/blocklists for privacy, security and clean browsing. | [LINK](https://github.com/badmojr/1Hosts) | [RAW](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.wildcards) | [MPL-2.0](https://github.com/badmojr/1Hosts/blob/master/LICENSE) |
+domains-blocklist-local-additions.txt | quindecim | Domains, wildcards and substrings collection. | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-blocklist-local-additions.txt) | [GPLv3](https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md) |
+domains-allowlist.txt | quindecim | Legit domains collection. | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-allowlist.txt) | [GPLv3](https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md) |
+GoodbyeAds: Hosts | jerryn70 | Block ads, trackers, analytics, malware. (Included Xiaomi Adblock & Samsung Adblock list) | [LINK](https://github.com/jerryn70/GoodbyeAds) | [RAW](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt) | [MIT](https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE) |
+GoodbyeAds: Hosts (YouTube Adblock) | jerryn70 | Special List to block YouTube ads, trackers and analytics. | [LINK](https://github.com/jerryn70/GoodbyeAds) | [RAW](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt) | [MIT](https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE) |
+GoodbyeAds: Hosts (LeEco Adblock) | jerryn70 | Special List to block LeEco ads, trackers and analytics. | [LINK](https://github.com/jerryn70/GoodbyeAds) | [RAW](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt) | [MIT](https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE) |
+OISD: Domains (full) | Stephan (sjhgvr) | A merged domains list from a variety of other lists. | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/) | All Rights Reserved |
+OISD: Domains (extra) | Stephan (sjhgvr) | OISD's controversial domains list. | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/extra/) | All Rights Reserved |
 
 #### blocked-ips.txt
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
-DNSCrypt: Rebind Protection | jedisct1 | DNS rebinding protection | [LINK](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Filters#dns-rebinding-protection) | - | ISC |
+DNSCrypt: Rebind Protection | jedisct1 | DNS rebinding protection | [LINK](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Filters#dns-rebinding-protection) | - | [ISC](https://github.com/DNSCrypt/dnscrypt-proxy/blob/master/LICENSE) |
 
 ## Build
 
