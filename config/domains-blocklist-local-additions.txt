@@ -774,8 +774,6 @@ meds.*
 motd.ubuntu.com
 msn.*
 mtc.*
-my.id
-ne.jp
 neliver.com
 oas.*
 omn.*
