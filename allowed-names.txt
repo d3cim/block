@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-09-22
+## Generated   : 2021-10-12
 
 
 ########## Torrent trackers ##########
@@ -243,11 +243,6 @@
 ########## *connectivitycheck* domains ##########
 
 =connectivitycheck.android.com   # required for Aurora Store v4
-
-
-########## *erotic* / *erotik* domains ##########
-
-literotica.com   # erotic stories
 
 
 ########## *feedback* domains ##########
