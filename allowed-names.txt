@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-10-12
+## Generated   : 2021-10-14
 
 
 ########## Torrent trackers ##########
@@ -250,6 +250,11 @@
 feedback.ebay.*   # eBay customers reviews
 
 
+########## *metric* domains ##########
+
+=metrics.torproject.org   # Tor Browser metrics
+
+
 ########## *sponsor* domains ##########
 
 sponsor.ajay.app   # a browser extension for skipping sponsor on YouTube
@@ -257,7 +262,7 @@ sponsor.ajay.app   # a browser extension for skipping sponsor on YouTube
 
 ########## *track* domains ##########
 
-coveryourtracks.eff.org   # an Electronic Frontier Foundation tool
+=coveryourtracks.eff.org   # an Electronic Frontier Foundation tool
 
 
 ########## *yandex* domains ##########
@@ -267,4 +272,4 @@ coveryourtracks.eff.org   # an Electronic Frontier Foundation tool
 
 ########## graph.* domains ##########
 
-graph.rockstargames.com   # required for browse rockstargames.com
+=graph.rockstargames.com   # required for browse rockstargames.com
