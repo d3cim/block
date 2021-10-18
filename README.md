@@ -26,6 +26,7 @@ domains-blocklist-local-additions.txt | quindecim | Domains, wildcards and subst
 domains-allowlist.txt | quindecim | Legit domains collection. | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-allowlist.txt) | [GPLv3](https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md) |
 Frogeye: Domains (multi-party trackers) | Geoffrey Frogeye | Multi-party trackers blocklist | [LINK](https://hostfiles.frogeye.fr/) | [RAW](https://hostfiles.frogeye.fr/multiparty-trackers.txt) | [MIT](https://git.frogeye.fr/geoffrey/eulaurarien/src/branch/master/LICENSE) |
 GoodbyeAds: Hosts | jerryn70 | Block ads, trackers, analytics, malware. (Included Xiaomi Adblock & Samsung Adblock list) | [LINK](https://github.com/jerryn70/GoodbyeAds) | [RAW](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt) | [MIT](https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE) |
+hBlock: Domains | Héctor Molinero Fernández (hectorm) | Block ads, trackers and malware domains. | [LINK](https://github.com/hectorm/hblock) | [RAW](https://hblock.molinero.dev/hosts_domains.txt) | [MIT](https://github.com/hectorm/hblock/blob/master/LICENSE.md) |
 OISD: Domains (full) | Stephan (sjhgvr) | A merged domains list from a variety of other lists. | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/) | All Rights Reserved |
 OISD: Domains (extra) | Stephan (sjhgvr) | OISD's controversial domains list. | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/extra/) | All Rights Reserved |
 
