@@ -17,6 +17,7 @@ Updated sources from the following locations are always merged and included.
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
+1Hosts: Domains (Pro - Level 3) | badmojr | DNS filter-/blocklists for privacy, security and clean browsing. | [LINK](https://github.com/badmojr/1Hosts) | [RAW](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.wildcards) | [MPL-2.0](https://github.com/badmojr/1Hosts/blob/master/LICENSE) |
 Developer Dan: Hosts (Ads & Tracking) | Daniel (lightswitch05) | Block advertisements and tracking. | [LINK](https://github.com/lightswitch05/hosts) | [RAW](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) | [Apache-2.0](https://github.com/lightswitch05/hosts/blob/master/LICENSE) |
 Developer Dan: Hosts (AMP Hosts) | Daniel (lightswitch05) | Block Google's Accelerated Mobile Pages (AMP). | [LINK](https://github.com/lightswitch05/hosts) | [RAW](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt) | [Apache-2.0](https://github.com/lightswitch05/hosts/blob/master/LICENSE) |
 Developer Dan: Hosts (Dating Services) | Daniel (lightswitch05) | Block all dating services. | [LINK](https://github.com/lightswitch05/hosts) | [RAW](https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt) | [Apache-2.0](https://github.com/lightswitch05/hosts/blob/master/LICENSE) |
