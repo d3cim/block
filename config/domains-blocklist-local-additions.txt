@@ -156,8 +156,6 @@
 22web.org
 aan.*
 ad.*
-ad.intl.xiaomi.com
-ad.xiaomi.com
 ads.*
 aliyuncs.com
 awaykart.com
