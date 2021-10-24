@@ -156,6 +156,8 @@
 22web.org
 aan.*
 ad.*
+ad.intl.xiaomi.com
+ad.xiaomi.com
 ads.*
 aliyuncs.com
 awaykart.com
@@ -173,6 +175,7 @@ ejtm.com
 event.*
 events.*
 focus-outdoors.com
+fonts.gstatic.com
 gameplansession.com
 gamingweb.de
 glitch.me
@@ -192,6 +195,7 @@ mask-api.icloud.com
 mask.apple-dns.net
 mask.icloud.com
 mdws.*
+min.js
 moonfruit.com
 motd.ubuntu.com
 mozilla.cloudflare-dns.com
@@ -256,6 +260,7 @@ zap-webspace.com
 ########## TLD (Top-Level Domains) ##########
 
 *.ad
+*.bazar
 *.lan
 *.local
 *.localdomain
