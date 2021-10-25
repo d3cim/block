@@ -194,9 +194,9 @@ mask.apple-dns.net
 mask.icloud.com
 mdws.*
 min.js
+miui.com
 moonfruit.com
 motd.ubuntu.com
-mozilla.cloudflare-dns.com
 myfw.us
 nazwa.pl
 oas.*
@@ -250,6 +250,8 @@ vvvvvv.*
 web.app
 wixsite.com
 wvvw.*
+xiaomi.com
+xiaomi.net
 ydns.eu
 yolasite.com
 zap-webspace.com
