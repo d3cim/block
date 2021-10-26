@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-10-14
+## Generated   : 2021-10-26
 
 
 ########## Torrent trackers ##########
@@ -273,3 +273,8 @@ sponsor.ajay.app   # a browser extension for skipping sponsor on YouTube
 ########## graph.* domains ##########
 
 =graph.rockstargames.com   # required for browse rockstargames.com
+
+
+########## other domains ##########
+
+=open.spotify.com   # needed for Spotify songs preview and for use SpotiFlyer app
