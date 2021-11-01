@@ -110,6 +110,7 @@
 *mkto-*
 *mobileoffer*
 *myddns*
+*olx*
 *omnistat*
 *omniture*
 *omtrdc*
@@ -160,7 +161,7 @@ ads.*
 aliyuncs.com
 awaykart.com
 b-graph.*
-binance.com
+bh-mail.com
 click.*
 codesandbox.io
 count.*
