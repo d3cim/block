@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-10-26
+## Generated   : 2021-11-01
 
 
 ########## Torrent trackers ##########
@@ -31,6 +31,7 @@
 =free.publictracker.xyz
 =ipv4.tracker.harry.lu
 =ipv6.tracker.harry.lu
+=ipv6.tracker.monitorit4.me
 =ipv6.tracker.zerobytes.xyz
 =mgtracker.org
 =milanesitracker.tekcities.com
@@ -41,6 +42,7 @@
 =open.kickasstracker.com
 =open.miotracker.com
 =open.publictracker.xyz
+=open.tracker.cl
 =open.tracker.thepiratebay.org
 =opentracker.acgnx.se
 =opentracker.i2p.rocks
@@ -116,6 +118,7 @@
 =tracker.etree.org
 =tracker.ex.ua
 =tracker.fastcast.nz
+=tracker.fatkhoala.org
 =tracker.fdn.fr
 =tracker.filemail.com
 =tracker.filepit.to
@@ -132,6 +135,7 @@
 =tracker.grepler.com
 =tracker.halfchub.club
 =tracker.hama3.net
+=tracker.haynet.io
 =tracker.iamhansen.xyz
 =tracker.ilibr.org
 =tracker.imgoingto.icu
@@ -141,6 +145,7 @@
 =tracker.iriseden.eu
 =tracker.iriseden.fr
 =tracker.istole.it
+=tracker.jordan.im
 =tracker.justseed.it
 =tracker.kali.org
 =tracker.kamigami.org
@@ -154,6 +159,7 @@
 =tracker.mgtracker.org
 =tracker.minglong.org
 =tracker.minglong.org80
+=tracker.moeking.eu.org
 =tracker.moeking.me
 =tracker.monitorit4.me
 =tracker.msm8916.com
@@ -189,6 +195,7 @@
 =tracker.skyts.net
 =tracker.sloppyta.co
 =tracker.swateam.org.uk
+=tracker.tallpenguin.org
 =tracker.tambovnet.org
 =tracker.tamersunion.org
 =tracker.tasvideos.org
@@ -203,6 +210,7 @@
 =tracker.torrent.to
 =tracker.torrentbay.to
 =tracker.torrentbox.com
+=tracker.torrentyorg.pl
 =tracker.trackerfix.com
 =tracker.tricitytorrents.com
 =tracker.tvunderground.org.ru
