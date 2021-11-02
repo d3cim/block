@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-11-01
+## Generated   : 2021-11-02
 
 
 ########## Torrent trackers ##########
@@ -248,12 +248,12 @@
 =us-tracker.publictracker.xyz
 
 
-########## *connectivitycheck* domains ##########
+########## Blocked by [*connectivitycheck*] ##########
 
 =connectivitycheck.android.com   # required for Aurora Store v4
 
 
-########## *feedback* domains ##########
+########## Blocked by [*feedback*] ##########
 
 feedback.ebay.*   # eBay customers reviews
 
@@ -263,26 +263,39 @@ feedback.ebay.*   # eBay customers reviews
 =metrics.torproject.org   # Tor Browser metrics
 
 
-########## *sponsor* domains ##########
+########## Blocked by [*sponsor*] ##########
 
-sponsor.ajay.app   # a browser extension for skipping sponsor on YouTube
+=sponsor.ajay.app   # a browser extension for skipping sponsor on YouTube
 
 
-########## *track* domains ##########
+########## Blocked by [*track*] ##########
 
 =coveryourtracks.eff.org   # an Electronic Frontier Foundation tool
+=track.aliexpress.com      # Aliexpress order and package tracking
+=console.17track.net       # a global all-in-one package tracking platform
+=msg.17track.net           # a global all-in-one package tracking platform
+=pay.17track.net           # a global all-in-one package tracking platform
+=res.17track.net           # a global all-in-one package tracking platform
+=t.17track.net             # a global all-in-one package tracking platform
+=user.17track.net          # a global all-in-one package tracking platform
+=www.17track.net           # a global all-in-one package tracking platform
 
 
-########## *yandex* domains ##########
+########## Blocked by [*trade*] ##########
+
+=trade.aliexpress.com   # Aliexpress order and package tracking
+
+
+########## Blocked by [*yandex*] ##########
 
 =disk.yandex.com   # a cloud service created by Yandex
 
 
-########## graph.* domains ##########
+########## Blocked by [graph.*] ##########
 
 =graph.rockstargames.com   # required for browse rockstargames.com
 
 
-########## other domains ##########
+########## Blocked by [other domains] ##########
 
 =open.spotify.com   # needed for Spotify songs preview and for use SpotiFlyer app
