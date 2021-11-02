@@ -288,7 +288,8 @@ feedback.ebay.*   # eBay customers reviews
 
 ########## Blocked by [*yandex*] ##########
 
-=disk.yandex.com   # a cloud service created by Yandex
+=api-maps.yandex.ru   # a Yandex maps service
+=disk.yandex.com      # a Yandex service that lets you store files on their servers
 
 
 ########## Blocked by [graph.*] ##########
