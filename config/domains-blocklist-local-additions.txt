@@ -160,6 +160,7 @@ aan.*
 ad.*
 ads.*
 aliyuncs.com
+amp.*
 awaykart.com
 b-graph.*
 bh-mail.com
