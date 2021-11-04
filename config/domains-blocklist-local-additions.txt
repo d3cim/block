@@ -154,7 +154,6 @@
 *trk*
 *voucher*
 *yandex*
-22web.org
 aan.*
 ad.*
 ads.*
@@ -176,14 +175,10 @@ events.*
 focus-outdoors.com
 fonts.gstatic.com
 gameplansession.com
-gamingweb.de
 glitch.me
 gmz.cc
-gotdns.ch
 graph.*
-home.pl
 hop.ru
-hopto.me
 hopto.org
 htmlpasta.com
 id.google.*
@@ -210,13 +205,11 @@ omns.*
 oms.*
 omt.*
 omtr.*
-page.link
 pixels.*
 promo.*
 r.appspot.com
 regruhosting.ru
 rr.nu
-settingsppup.com
 som.*
 somn.*
 somni.*
@@ -228,7 +221,6 @@ sw88.*
 swa.*
 sytes.net
 t-s.*
-taobao.com
 tck.*
 tdep.*
 tdf1.*
@@ -245,7 +237,6 @@ tr7.*
 tr8.*
 tr9.*
 truecaller.com
-vidible.tv
 viewdns.net
 vvvvvv.*
 web.app
@@ -255,7 +246,6 @@ xiaomi.com
 xiaomi.net
 ydns.eu
 yolasite.com
-zap-webspace.com
 
 
 ########## TLD (Top-Level Domains) ##########
