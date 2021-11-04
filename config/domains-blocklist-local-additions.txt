@@ -30,6 +30,7 @@
 *.adtech.*
 *.myftp.*
 *.onion.*
+*.pl-*
 *.sina.*
 *.webnode.*
 *.website.*
@@ -91,6 +92,7 @@
 *insight*
 *izatcloud*
 *kingsoft*
+*lnstagram*
 *logg*
 *lytic*
 *marketing*
@@ -224,6 +226,7 @@ t-s.*
 tck.*
 tdep.*
 tdf1.*
+teradatadmc.com
 tk.*
 tmweb.ru
 tr.*
