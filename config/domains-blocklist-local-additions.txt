@@ -24,8 +24,6 @@
 *-promo*
 *-report*
 *.ad-*
-*.adtech.*
-*.myftp.*
 *.onion.*
 *.pl-*
 *.sina.*
@@ -46,6 +44,7 @@
 *adserv*
 *adsrv*
 *adsys*
+*adtech*
 *adv-*
 *adv.*
 *adver*
@@ -159,9 +158,9 @@ mask-api.icloud.com
 mask.apple-dns.net
 mask.icloud.com
 mdws.*
+mi.com
 min.js
 miui.com
-mi.com
 motd.ubuntu.com
 oas.*
 oascentral.*
