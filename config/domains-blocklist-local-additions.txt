@@ -135,6 +135,7 @@
 *trck*
 *trk*
 *yandex*
+000webhostapp.com
 aan.*
 ad.*
 ads.*
