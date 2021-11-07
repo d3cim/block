@@ -145,6 +145,7 @@ click.*
 count.*
 detectportal.firefox.com
 doh.dns.apple.com
+duckdns.org
 ebayrtm.com
 ebis.*
 event.*
