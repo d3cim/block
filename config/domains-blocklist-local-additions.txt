@@ -135,16 +135,13 @@
 *trck*
 *trk*
 *yandex*
-000webhostapp.com
 aan.*
 ad.*
 ads.*
-amp.*
 b-graph.*
 bh-mail.com
 click.*
 count.*
-detectportal.firefox.com
 doh.dns.apple.com
 duckdns.org
 ebayrtm.com
@@ -188,7 +185,6 @@ t-s.*
 tck.*
 tdep.*
 tdf1.*
-teradatadmc.com
 tk.*
 tr.*
 tr1.*
