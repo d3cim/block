@@ -37,7 +37,6 @@
 =milanesitracker.tekcities.com
 =mytracker.fly.dev
 =nyaa.tracker.wf
-=nyaa.tracker.wf
 =open.acgnxtracker.com
 =open.acgtracker.com
 =open.kickasstracker.com
@@ -69,7 +68,6 @@
 =rutracker.nl
 =rutracker.org
 =thetracker.org
-=t.nyaatracker.com
 =t.nyaatracker.com
 =torrenttracker.nwc.acsalaska.net
 =tracker.0o.is
@@ -153,7 +151,6 @@
 =tracker.haynet.io
 =tracker.iamhansen.xyz
 =tracker.ilibr.org
-=tracker.ilovetorrents.com
 =tracker.ilovetorrents.com
 =tracker.imgoingto.icu
 =tracker.internetwarriors.net
