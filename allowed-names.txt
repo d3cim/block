@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-12-03
+## Generated   : 2021-12-11
 
 
 ########## Torrent trackers ##########
@@ -195,6 +195,7 @@
 =tracker.sktorrent.net
 =tracker.skyts.net
 =tracker.sloppyta.co
+=tracker.srv00.com
 =tracker.swateam.org.uk
 =tracker.tallpenguin.org
 =tracker.tambovnet.org
@@ -280,11 +281,6 @@ feedback.ebay.*   # eBay customers reviews
 =t.17track.net             # a global all-in-one package tracking platform
 =user.17track.net          # a global all-in-one package tracking platform
 =www.17track.net           # a global all-in-one package tracking platform
-
-
-########## Blocked by [*trade*] ##########
-
-=trade.aliexpress.com   # Aliexpress order and package tracking
 
 
 ########## Blocked by [*yandex*] ##########
