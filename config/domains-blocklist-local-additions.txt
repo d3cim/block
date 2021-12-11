@@ -128,7 +128,6 @@
 *tagserv*
 *telemetry*
 *track*
-*trade*
 *trading*
 *trck*
 *trk*
