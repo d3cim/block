@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-12-11
+## Generated   : 2021-12-13
 
 
 ########## Torrent trackers ##########
@@ -260,14 +260,9 @@
 feedback.ebay.*   # eBay customers reviews
 
 
-########## *metric* domains ##########
+########## Blocked by [*metric*] ##########
 
 =metrics.torproject.org   # Tor Browser metrics
-
-
-########## Blocked by [*sponsor*] ##########
-
-=sponsor.ajay.app   # a browser extension for skipping sponsor on YouTube
 
 
 ########## Blocked by [*track*] ##########
