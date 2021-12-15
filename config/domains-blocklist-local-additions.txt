@@ -84,7 +84,7 @@
 *izatcloud*
 *kingsoft*
 *lnstagram*
-*logg*
+*logger-*
 *lytic*
 *marketing*
 *measure*
@@ -107,7 +107,6 @@
 *omtrdc*
 *partner*
 *pixel-*
-*pixel.*
 *popup*
 *promo-*
 *promoti*
@@ -149,6 +148,7 @@ fonts.gstatic.com
 graph.*
 id.google.*
 log.*
+logger.*
 logs.*
 mask-api.icloud.com
 mask.apple-dns.net
@@ -168,6 +168,7 @@ omns.*
 oms.*
 omt.*
 omtr.*
+pixel.*
 pixels.*
 promo.*
 r.appspot.com
