@@ -152,7 +152,6 @@ logger.*
 logs.*
 mask-api.icloud.com
 mask.apple-dns.net
-mask.icloud.com
 mdws.*
 mi.com
 min.js
