@@ -10,8 +10,7 @@ A collection of domains, wildcards and substrings designed for [`dnscrypt-proxy`
 
 ## Sources
 
-Updated sources from the following locations are always merged and included.
-The [domains-blocklist.conf](https://codeberg.org/quindecim/block/src/branch/master/config/domains-blocklist.conf#L9) file is set to the `extreme` variant of these following lists. 
+The [domains-blocklist.conf](https://codeberg.org/quindecim/block/src/branch/master/config/domains-blocklist.conf) file is set to the `extreme` variant of the following lists.
 
 ### blocked-names.txt | regular
 
