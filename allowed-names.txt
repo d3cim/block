@@ -12,7 +12,7 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Generated   : 2021-12-13
+## Version     : 2021.12.20
 
 
 ########## Torrent trackers ##########
@@ -23,6 +23,7 @@
 =big-boss-tracker.net
 =bt-tracker.gamexp.ru
 =bt.xxx-tracker.com
+=bttracker.crunchbanglinux.org
 =bttracker.debian.org
 =fasttracker.foreverpirates.co
 =filetracker.xyz
@@ -185,6 +186,7 @@
 =tracker.prq.to
 =tracker.publicbt.com
 =tracker.publichd.eu
+=tracker.pubt.net
 =tracker.pussytorrents.org
 =tracker.qt.is
 =tracker.renfei.net
@@ -245,6 +247,7 @@
 =tracker3.itzmx.com
 =tracker4.itzmx.com
 =tracker4.piratux.com
+=trackme.theom.nz
 =trk.publictracker.xyz
 =udp-tracker.shittyurl.org
 =us-tracker.publictracker.xyz
