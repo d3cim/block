@@ -106,7 +106,6 @@
 *omniture*
 *omtrdc*
 *partner*
-*pixel-*
 *popup*
 *promo-*
 *promoti*
