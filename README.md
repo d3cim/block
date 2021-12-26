@@ -1,4 +1,4 @@
-https://codeberg.org/quindecim/block/commit/e7c93125f8594d7621dd43b26752853346dc0dea# block
+# block
 
 A collection of domains, wildcards and substrings designed for [`dnscrypt-proxy`](https://github.com/DNSCrypt/dnscrypt-proxy) filter method.
 
