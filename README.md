@@ -10,24 +10,7 @@ A collection of domains, wildcards and substrings designed for [`dnscrypt-proxy`
 
 ## Sources
 
-The [domains-blocklist.conf](https://codeberg.org/quindecim/block/src/branch/master/config/domains-blocklist.conf) file is set to the `extreme` variant of the following lists.
-
-### blocked-names.txt | regular
-
-| Source | Maintainer(s) | Description | Home Page | RAW Source | License |
-|--------|:-------------:|-------------|:---------:|:----------:|:-------:|
-Developer Dan: Ads & Tracking | Daniel (lightswitch05) | Block advertisements and tracking. | [LINK](https://github.com/lightswitch05/hosts) | [RAW](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) | [Apache-2.0](https://github.com/lightswitch05/hosts/blob/master/LICENSE) |
-Developer Dan: AMP Hosts | Daniel (lightswitch05) | Block Google's Accelerated Mobile Pages (AMP). | [LINK](https://github.com/lightswitch05/hosts) | [RAW](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt) | [Apache-2.0](https://github.com/lightswitch05/hosts/blob/master/LICENSE) |
-Energized Protection: Core Hosts | Team Boltz | Core of the Energized Proterction lists. | [LINK](https://energized.pro/) | [RAW](https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts) | [MIT](https://github.com/EnergizedProtection/block/blob/master/LICENSE) |
-Energized Protection: Regional Extension | Team Boltz | Regional annoyance blocking. | [LINK](https://energized.pro/) | [RAW](https://block.energized.pro/extensions/regional/formats/domains.txt) | [MIT](https://github.com/EnergizedProtection/block/blob/master/LICENSE) |
-NoTracking | notracking | A merged list from a variety of other lists. | [LINK](https://github.com/notracking/hosts-blocklists) | [RAW](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt) | All Rights Reserved |
-OISD: full | Stephan (sjhgvr) | A merged list from a variety of other lists. | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/) | All Rights Reserved |
-OISD: extra | Stephan (sjhgvr) | OISD's controversial domains list. | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/extra/) | All Rights Reserved |
-quindecim: domains-blocklist-local-additions.txt | quindecim | Domains, wildcards and substrings collection. | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-blocklist-local-additions.txt) | [GPLv3](https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md) |
-quindecim: domains-allowlist.txt | quindecim | Legit domains collection. | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-allowlist.txt) | [GPLv3](https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md) |
-Zelo72: Multi | Gerd Zelo | A merged list from a variety of other lists. | [LINK](https://github.com/Zelo72/rpi) | [RAW](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt) | [The Unlicense](https://github.com/Zelo72/rpi/blob/master/LICENSE.md) |
-
-### blocked-names.txt | extreme
+### blocked-names.txt
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
@@ -37,15 +20,11 @@ Developer Dan: Tracking Aggressive | Daniel (lightswitch05) | A very aggressive 
 Energized Protection: Core Hosts | Team Boltz | Core of the Energized Proterction lists. | [LINK](https://energized.pro/) | [RAW](https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts) | [MIT](https://github.com/EnergizedProtection/block/blob/master/LICENSE) |
 Energized Protection: Regional Extension | Team Boltz | Regional annoyance blocking. | [LINK](https://energized.pro/) | [RAW](https://block.energized.pro/extensions/regional/formats/domains.txt) | [MIT](https://github.com/EnergizedProtection/block/blob/master/LICENSE) |
 Energized Protection: Xtreme Extension | Team Boltz | Privacy protection at its best. | [LINK](https://energized.pro/) | [RAW](https://block.energized.pro/extensions/xtreme/formats/domains.txt) | [MIT](https://github.com/EnergizedProtection/block/blob/master/LICENSE) |
-NoTracking | notracking | A merged list from a variety of other lists. | [LINK](https://github.com/notracking/hosts-blocklists) | [RAW](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt) | All Rights Reserved |
-OISD: full | Stephan (sjhgvr) | A merged list from a variety of other lists. | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/) | All Rights Reserved |
 OISD: extra | Stephan (sjhgvr) | OISD's controversial domains list. | [LINK](https://oisd.nl/) | [RAW](https://dbl.oisd.nl/extra/) | All Rights Reserved |
 Oneoffdallas: DoH Servers List | oneoffdallas | A list of publicly available DNS over HTTPS (DoH) servers. | [LINK](https://github.com/oneoffdallas/dohservers) | [RAW](https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt) | [MIT](https://github.com/oneoffdallas/dohservers/blob/master/LICENSE) |
 quindecim: domains-blocklist-local-additions.txt | quindecim | Domains, wildcards and substrings collection. | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-blocklist-local-additions.txt) | [GPLv3](https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md) |
 quindecim: domains-allowlist.txt | quindecim | Legit domains collection. | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-allowlist.txt) | [GPLv3](https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md) |
-Zelo72: Big | Gerd Zelo | A merged list from a variety of other lists. | [LINK](https://github.com/Zelo72/rpi) | [RAW](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/big.txt) | [The Unlicense](https://github.com/Zelo72/rpi/blob/master/LICENSE.md) |
-Zelo72: Affiliate&Tracking | Gerd Zelo | A merged list from a variety of other lists. | [LINK](https://github.com/Zelo72/rpi) | [RAW](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/affiliatetracking.txt) | [The Unlicense](https://github.com/Zelo72/rpi/blob/master/LICENSE.md) |
-Zelo72: ThreatIntelligenceFeeds | Gerd Zelo | A merged list from a variety of other lists. | [LINK](https://github.com/Zelo72/rpi) | [RAW](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/threat-intelligence.txt) | [The Unlicense](https://github.com/Zelo72/rpi/blob/master/LICENSE.md) |
+Zelo72: Experimental | Gerd Zelo | A merged list from a variety of other lists. | [LINK](https://github.com/Zelo72/rpi) | [RAW](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/build/experimental/out/experimental.domains) | [The Unlicense](https://github.com/Zelo72/rpi/blob/master/LICENSE.md) |
 
 ### blocked-ips.txt
 
