@@ -21,7 +21,7 @@ Energized Protection: Xtreme Extension | Team Boltz | Privacy protection at its 
 Oneoffdallas: DoH Servers List | oneoffdallas | A list of publicly available DNS over HTTPS (DoH) servers. | [LINK](https://github.com/oneoffdallas/dohservers) | [RAW](https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt) | [MIT](https://github.com/oneoffdallas/dohservers/blob/master/LICENSE) |
 quindecim: domains-blocklist-local-additions.txt | quindecim | Domains, wildcards and substrings collection. | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-blocklist-local-additions.txt) | [GPLv3](https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md) |
 quindecim: domains-allowlist.txt | quindecim | Legit domains collection. | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-allowlist.txt) | [GPLv3](https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md) |
-Zelo72: Experimental | Gerd Zelo | A merged list from a variety of other lists. | [LINK](https://github.com/Zelo72/rpi) | [RAW](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/build/experimental/out/experimental.domains) | [The Unlicense](https://github.com/Zelo72/rpi/blob/master/LICENSE.md) |
+Zelo72: Hard | Gerd Zelo | A merged list from a variety of other lists, without whitelists. | [LINK](https://github.com/Zelo72/rpi) | [RAW](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/build/hard/out/hard.domains) | [The Unlicense](https://github.com/Zelo72/rpi/blob/master/LICENSE.md) |
 
 ### blocked-ips.txt
 
