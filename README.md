@@ -14,14 +14,13 @@ A collection of domains, wildcards and substrings designed for [`dnscrypt-proxy`
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
-Developer Dan: Ads & Tracking | Daniel (lightswitch05) | Block advertisements and tracking. | [LINK](https://github.com/lightswitch05/hosts) | [RAW](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) | [Apache-2.0](https://github.com/lightswitch05/hosts/blob/master/LICENSE) |
 Developer Dan: AMP Hosts | Daniel (lightswitch05) | Block Google's Accelerated Mobile Pages (AMP). | [LINK](https://github.com/lightswitch05/hosts) | [RAW](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt) | [Apache-2.0](https://github.com/lightswitch05/hosts/blob/master/LICENSE) |
 Developer Dan: Tracking Aggressive | Daniel (lightswitch05) | A very aggressive block list for tracking, geo-targeting and ads. | [LINK](https://github.com/lightswitch05/hosts) | [RAW](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt) | [Apache-2.0](https://github.com/lightswitch05/hosts/blob/master/LICENSE) |
 Energized Protection: Xtreme Extension | Team Boltz | Privacy protection at its best. | [LINK](https://energized.pro/) | [RAW](https://block.energized.pro/extensions/xtreme/formats/domains.txt) | [MIT](https://github.com/EnergizedProtection/block/blob/master/LICENSE) |
 Oneoffdallas: DoH Servers List | oneoffdallas | A list of publicly available DNS over HTTPS (DoH) servers. | [LINK](https://github.com/oneoffdallas/dohservers) | [RAW](https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt) | [MIT](https://github.com/oneoffdallas/dohservers/blob/master/LICENSE) |
 quindecim: domains-blocklist-local-additions.txt | quindecim | Domains, wildcards and substrings collection. | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-blocklist-local-additions.txt) | [GPLv3](https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md) |
 quindecim: domains-allowlist.txt | quindecim | Legit domains collection. | [LINK](https://codeberg.org/quindecim/block) | [RAW](https://codeberg.org/quindecim/block/raw/branch/master/config/domains-allowlist.txt) | [GPLv3](https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md) |
-Zelo72: Hard | Gerd Zelo | A merged list from a variety of other lists, without whitelists. | [LINK](https://github.com/Zelo72/rpi) | [RAW](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/build/hard/out/hard.domains) | [The Unlicense](https://github.com/Zelo72/rpi/blob/master/LICENSE.md) |
+Zelo72: Hard | Gerd Zelo | A merged list from a variety of other lists, without public whitelists. | [LINK](https://github.com/Zelo72/rpi) | [RAW](https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/build/hard/out/hard.domains) | [The Unlicense](https://github.com/Zelo72/rpi/blob/master/LICENSE.md) |
 
 ### blocked-ips.txt
 
