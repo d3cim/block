@@ -13,7 +13,6 @@
 
 ########## Domains, substrings, wildcards ##########
 
-*-ad-*
 *-ad.*
 *-ads*
 *-click*
