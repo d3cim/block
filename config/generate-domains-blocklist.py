@@ -55,6 +55,7 @@ def parse_list(content, trusted=False):
     rx_u = re.compile(
         r"^@*\|\|([a-z0-9][a-z0-9.-]*[.][a-z]{2,})\^?(\$(popup|third-party))?$")
     rx_l = re.compile(r"^([a-z0-9][a-z0-9.-]*[.][a-z]{2,})$")
+    rx_lw = re.compile(r"^[*][.]([a-z0-9][a-z0-9.-]*[.][a-z]{2,})$")
     rx_h = re.compile(
         r"^[0-9]{1,3}[.][0-9]{1,3}[.][0-9]{1,3}[.][0-9]{1,3}\s+([a-z0-9][a-z0-9.-]*[.][a-z]{2,})$"
     )
@@ -67,7 +68,7 @@ def parse_list(content, trusted=False):
 
     names = set()
     time_restrictions = {}
-    rx_set = [rx_u, rx_l, rx_h, rx_mdl, rx_b, rx_dq]
+    rx_set = [rx_u, rx_l, rx_lw, rx_h, rx_mdl, rx_b, rx_dq]
     for line in content.splitlines():
         line = str.lower(str.strip(line))
         if rx_comment.match(line):
@@ -305,4 +306,3 @@ ignore_retrieval_failure = args.ignore_retrieval_failure
 
 blocklists_from_config_file(
     conf, allowlist, time_restricted, ignore_retrieval_failure)
-
