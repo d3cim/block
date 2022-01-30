@@ -12,11 +12,10 @@
 ## License     : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
 ##
 ##
-## Version     : 2022.01.26
+## Version     : 2022.01.31
 
 
-########## Torrent trackers ##########
-
+# Torrent trackers
 =2.tracker.eu.org
 =3.tracker.eu.org
 =atrack.pow7.com
@@ -252,31 +251,19 @@
 =udp-tracker.shittyurl.org
 =us-tracker.publictracker.xyz
 
-
-########## Blocked by [*connectivitycheck*] ##########
-
+# [*connectivitycheck*]
 =connectivitycheck.android.com   # required for Aurora Store v4
 
-
-########## Blocked by [*feedback*] ##########
-
+# [*feedback*]
 feedback.ebay.*   # eBay customers reviews
 
-
-########## Blocked by [*metric*] ##########
-
+# [*metric*]
 =metrics.torproject.org   # Tor Browser metrics
 
-
-########## Blocked by [*sex*] ##########
-
+# [*sex*]
 =privacy.sexy   # website of a tool that enforce privacy & security on Windows and macOS
 
-
-########## Blocked by [*track*] ##########
-
-=coveryourtracks.eff.org   # an Electronic Frontier Foundation tool
-=track.aliexpress.com      # Aliexpress order and package tracking
+# [*track*]
 =console.17track.net       # a global all-in-one package tracking platform
 =msg.17track.net           # a global all-in-one package tracking platform
 =pay.17track.net           # a global all-in-one package tracking platform
@@ -284,19 +271,13 @@ feedback.ebay.*   # eBay customers reviews
 =t.17track.net             # a global all-in-one package tracking platform
 =user.17track.net          # a global all-in-one package tracking platform
 =www.17track.net           # a global all-in-one package tracking platform
+=track.aliexpress.com      # Aliexpress order and package tracking
+=coveryourtracks.eff.org   # an Electronic Frontier Foundation tool
+=entrackr.com              # an Indian technology news website
 
-
-########## Blocked by [*yandex*] ##########
-
+# [*yandex*]
 =api-maps.yandex.ru   # a Yandex maps service
 =disk.yandex.com      # a Yandex service that lets you store files on their servers
 
-
-########## Blocked by [graph.*] ##########
-
+# [graph.*]
 =graph.rockstargames.com   # required for browse rockstargames.com
-
-
-########## Blocked by [other domains] ##########
-
-=open.spotify.com   # needed for Spotify songs preview and for use SpotiFlyer app
