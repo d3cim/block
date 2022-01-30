@@ -12,7 +12,6 @@
 
 
 # DNS servers list
-
 applied-privacy.net
 appliedprivacy.net
 censurfridns.dk
@@ -40,5 +39,4 @@ uncensoreddns.org
 
 
 # Spotify
-
 open.spotify.com

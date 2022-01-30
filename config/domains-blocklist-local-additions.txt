@@ -11,8 +11,7 @@
 ## License   : GPLv3       : https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md
 
 
-########## Domains, substrings, wildcards ##########
-
+# Domains, substrings, wildcards
 *-ad.*
 *-ads*
 *-click*
@@ -156,9 +155,7 @@ web.app
 xiaomi.com
 xiaomi.net
 
-
-########## TLD (Top-Level Domains) ##########
-
+# TLDs (Top-Level Domains)
 *.ad
 *.bazar
 *.lan
@@ -166,8 +163,6 @@ xiaomi.net
 *.localdomain
 *.workgroup
 
-
-########## TLD (Top-Level Domains) + substrings ##########
-
+# TLDs (Top-Level Domains) + substrings
 *.ads*
 *.click*
