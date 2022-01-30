@@ -222,7 +222,7 @@ def blocklists_from_config_file(
         )
 
         if time_restricted_names:
-            print("########## Time-based blocklist ##########\n")
+            print("\n# Time-based blocklist")
             for name in time_restricted_names:
                 print_restricted_name(name, time_restrictions)
 
@@ -237,7 +237,7 @@ def blocklists_from_config_file(
 
     # Process blocklists
     for url, names in blocklists.items():
-        print("\n\n########## Blocklist from {} ##########\n".format(url))
+        print("\n# Blocklist from [{}]".format(url))
         ignored, allowed = 0, 0
         list_names = list()
         for name in names:
@@ -251,9 +251,9 @@ def blocklists_from_config_file(
 
         list_names.sort(key=name_cmp)
         if ignored:
-            print("# Ignored duplicates: {}\n".format(ignored))
+            print("# Ignored duplicates: {}".format(ignored))
         if allowed:
-            print("# Ignored entries due to the allowlist: {}\n".format(allowed))
+            print("# Ignored entries due to the allowlist: {}".format(allowed))
         for name in list_names:
             print(name)
 
@@ -306,3 +306,4 @@ ignore_retrieval_failure = args.ignore_retrieval_failure
 
 blocklists_from_config_file(
     conf, allowlist, time_restricted, ignore_retrieval_failure)
+
