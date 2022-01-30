@@ -9,3 +9,36 @@
 ##                           https://git.nixnet.services/quindecim
 ##
 ## License   : GPLv3       : https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md
+
+
+# DNS servers list
+
+applied-privacy.net
+appliedprivacy.net
+censurfridns.dk
+digitale-gesellschaft.ch
+dnscrypt.ca
+dnsforge.de
+dns.snopyta.org
+dnswarden.com
+faelix.net
+ffmuc.net
+lelux.fi
+libredns.gr
+libredns.gr.com
+libredns.org
+meganerd.nl
+neutopia.org
+nextdns.io
+nixnet.xyz
+opendns.com
+post-factum.tk
+seby.io
+securedns.eu
+tiar.app
+uncensoreddns.org
+
+
+# Spotify
+
+open.spotify.com
