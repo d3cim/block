@@ -306,4 +306,3 @@ ignore_retrieval_failure = args.ignore_retrieval_failure
 
 blocklists_from_config_file(
     conf, allowlist, time_restricted, ignore_retrieval_failure)
-
