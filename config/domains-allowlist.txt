@@ -11,6 +11,12 @@
 ## License   : GPLv3       : https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md
 
 
+# A2Z APK
+a2zapk.com
+
+# archive.today
+archive.fo
+
 # DNS servers list
 applied-privacy.net
 appliedprivacy.net
@@ -36,7 +42,6 @@ seby.io
 securedns.eu
 tiar.app
 uncensoreddns.org
-
 
 # Spotify
 open.spotify.com
