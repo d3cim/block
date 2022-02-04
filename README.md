@@ -27,7 +27,6 @@ NoTracking | notracking | A merged list from a variety of other lists. | [LINK](
 OISD: full | Stephan (sjhgvr) | A merged list from a variety of other lists. | [LINK](https://oisd.nl/) | [RAW](https://dblw.oisd.nl/) | All Rights Reserved |
 OISD: extra | Stephan (sjhgvr) | OISD's controversial domains list. | [LINK](https://oisd.nl/) | [RAW](https://dblw.oisd.nl/extra/) | All Rights Reserved |
 Oneoffdallas: DoH Servers List | oneoffdallas | A list of publicly available DNS over HTTPS (DoH) servers. | [LINK](https://github.com/oneoffdallas/dohservers) | [RAW](https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt) | [MIT](https://github.com/oneoffdallas/dohservers/blob/master/LICENSE) |
-Ultimate Hosts Blacklist | Ultimate Hosts Blacklist | A merged list from a variety of other lists. | [LINK](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) | [RAW](https://hosts.ubuntu101.co.za/domains.list) | [MIT](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/LICENSE.md) |
 
 ### blocked-ips.txt
 
