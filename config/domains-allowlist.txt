@@ -40,8 +40,15 @@ opendns.com
 post-factum.tk
 seby.io
 securedns.eu
+tiarap.org
 tiar.app
 uncensoreddns.org
 
+# Google
+translate.google.com
+
 # Spotify
 open.spotify.com
+
+# TIDAL
+et.tidal.com
