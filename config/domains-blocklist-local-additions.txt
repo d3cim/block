@@ -2,13 +2,14 @@
 ###########################################
 #  domains-blocklist-local-additions.txt  #
 #                                         #
-#  https://codeberg.org/quindecim/block   #
+#   https://github.com/quindecim/block    #
 ###########################################
 
-## Author    : quindecim   : https://codeberg.org/quindecim
+## Author    : quindecim   : https://github.com/quindecim
+##                           https://codeberg.org/quindecim
 ##                           https://git.nixnet.services/quindecim
 ##
-## License   : GPLv3       : https://codeberg.org/quindecim/block/src/branch/master/LICENSE.md
+## License   : GPLv3       : https://github.com/quindecim/block/blob/master/LICENSE.md
 
 
 # Domains, substrings, wildcards
