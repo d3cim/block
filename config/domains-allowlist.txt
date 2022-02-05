@@ -47,6 +47,9 @@ uncensoreddns.org
 # Google
 translate.google.com
 
+# Lucky Patcher
+chelpus.com
+
 # Spotify
 open.spotify.com
 
