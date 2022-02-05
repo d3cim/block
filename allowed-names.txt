@@ -8,9 +8,9 @@
 ##                            https://git.nixnet.services/quindecim
 ##
 ## Based on   : XIU2        : https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt
-##              quindecim   : https://codeberg.org/quindecim/dnscrypt-proxy-android/raw/branch/master/config/allowed-names.txt
+##              quindecim   : https://raw.githubusercontent.com/quindecim/block/master/allowed-names.txt
 ##
-## License    : GPLv3       : https://codeberg.org/quindecim/dnscrypt-proxy-android/src/branch/master/LICENSE.md
+## License    : GPLv3       : https://github.com/quindecim/block/blob/master/LICENSE.md
 ##
 ##
 ## Version    : 2022.01.31
