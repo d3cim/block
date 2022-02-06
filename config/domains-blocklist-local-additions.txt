@@ -48,7 +48,6 @@
 *clicks.*
 *clk*
 *collect.*
-*collector*
 *connectivity-check*
 *connectivitycheck*
 *counter*
@@ -112,6 +111,7 @@ admob.*
 ads.*
 bh-mail.com
 click.*
+collector.*
 count.*
 doh.dns.apple.com
 duckdns.org
