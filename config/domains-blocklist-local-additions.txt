@@ -10,7 +10,6 @@
 ##
 ## License   : GPLv3       : https://github.com/quindecim/block/blob/master/LICENSE.md
 
-
 # Domains, substrings, wildcards
 *-ad.*
 *-ads*
