@@ -1,16 +1,33 @@
 # block
 
-A collection of domains, wildcards and substrings designed for [`dnscrypt-proxy`](https://github.com/DNSCrypt/dnscrypt-proxy) filter method.
+Hardened blocklist project designed for [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) [filter method](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Filters).
 
-- __allowed-names.txt:__ it's the file used to bypass a specific domain blocked by a rule contained in the `blocked-names.txt` file.
-- __domains-blocklist.conf:__ it's used to configure the sources to merge during the build process.
-- __domains-blocklist-local-additions.txt:__ it's used during the generation process to add your own additions and remove duplicates from the sources.
-- __domains-allowlist.txt:__ it's used during the generation process to remove legit domains.
-- __generate-domains-blocklist.py:__ it's the script used to launch the build process.
+## Introduction
+
+- `allowed-names.txt` is the file used to bypass a specific domain blocked by `blocked-names.txt` file.
+- `blocked-names.txt` is the file used to block domains.
+- `domains-blocklist.conf` is used before the generation process to define the sources to merge.
+- `domains-blocklist-local-additions.txt` is used before the generation process to merge your inclusions.
+- `domains-allowlist.txt` is used before the generation process to merge your exclusions.
+- `generate-domains-blocklist.py` is the script used during the build process.
 
 ## Sources
 
+### allowed-names.txt
+
+| Source | Maintainer(s) | Description | Home Page | RAW Source | License |
+|--------|:-------------:|-------------|:---------:|:----------:|:-------:|
+XIU2: TrackersListCollection | XIU2 | Torrent trackers collection. | [LINK](https://github.com/XIU2/TrackersListCollection) | [RAW](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt) | [GPLv3](https://github.com/XIU2/TrackersListCollection/blob/master/LICENSE) |
+
+### blocked-ips.txt
+
+| Source | Maintainer(s) | Description | Home Page | RAW Source | License |
+|--------|:-------------:|-------------|:---------:|:----------:|:-------:|
+DNSCrypt: Rebind Protection | jedisct1 | DNS rebinding protection | [LINK](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Filters#dns-rebinding-protection) | - | [ISC](https://github.com/DNSCrypt/dnscrypt-proxy/blob/master/LICENSE) |
+
 ### blocked-names.txt
+
+#### Inclusions
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
@@ -19,7 +36,6 @@ Developer Dan: Ads & Tracking | Daniel (lightswitch05) | Block advertising, trac
 Developer Dan: AMP Hosts | Daniel (lightswitch05) | Block Google's Accelerated Mobile Pages (AMP). | [LINK](https://github.com/lightswitch05/hosts) | [RAW](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt) | [Apache-2.0](https://github.com/lightswitch05/hosts/blob/master/LICENSE) |
 Developer Dan: Tracking Aggressive | Daniel (lightswitch05) | A very aggressive block list for tracking, geo-targeting and ads. | [LINK](https://github.com/lightswitch05/hosts) | [RAW](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt) | [Apache-2.0](https://github.com/lightswitch05/hosts/blob/master/LICENSE) |
 domains-blocklist-local-additions.txt | quindecim | Domains, wildcards and substrings collection. | [LINK](https://github.com/quindecim) | [RAW](https://raw.githubusercontent.com/quindecim/block/master/config/domains-blocklist-local-additions.txt) | [GPLv3](https://github.com/quindecim/block/blob/master/LICENSE.md) |
-domains-allowlist.txt | quindecim | Legit domains collection. | [LINK](https://github.com/quindecim) | [RAW](https://raw.githubusercontent.com/quindecim/block/master/config/domains-allowlist.txt) | [GPLv3](https://github.com/quindecim/block/blob/master/LICENSE.md) |
 Energized Protection: Core Hosts | Team Boltz | Core of the Energized Protection lists. | [LINK](https://energized.pro/) | [RAW](https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts) | [MIT](https://github.com/EnergizedProtection/block/blob/master/LICENSE) |
 Energized Protection: Regional Extension | Team Boltz | Regional annoyance blocking. | [LINK](https://energized.pro/) | [RAW](https://block.energized.pro/extensions/regional/formats/domains.txt) | [MIT](https://github.com/EnergizedProtection/block/blob/master/LICENSE) |
 Energized Protection: Xtreme Extension | Team Boltz | A very aggressive block list for tracking, geo-targeting and ads. | [LINK](https://energized.pro/) | [RAW](https://block.energized.pro/extensions/xtreme/formats/domains.txt) | [MIT](https://github.com/EnergizedProtection/block/blob/master/LICENSE) |
@@ -30,11 +46,11 @@ OISD: extra | Stephan (sjhgvr) | OISD's controversial domains list. | [LINK](htt
 Oneoffdallas: DoH Servers List | oneoffdallas | A list of publicly available DNS over HTTPS (DoH) servers. | [LINK](https://github.com/oneoffdallas/dohservers) | [RAW](https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt) | [MIT](https://github.com/oneoffdallas/dohservers/blob/master/LICENSE) |
 WindowsSpyBlocker: spy | crazy-max (CrazyMax) | Block spying and tracking on Windows. | [LINK](https://github.com/crazy-max/WindowsSpyBlocker) | [RAW](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt) | [MIT](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/LICENSE) |
 
-### blocked-ips.txt
+#### Exclusions
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
-DNSCrypt: Rebind Protection | jedisct1 | DNS rebinding protection | [LINK](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Filters#dns-rebinding-protection) | - | [ISC](https://github.com/DNSCrypt/dnscrypt-proxy/blob/master/LICENSE) |
+domains-allowlist.txt | quindecim | Legit domains collection. | [LINK](https://github.com/quindecim) | [RAW](https://raw.githubusercontent.com/quindecim/block/master/config/domains-allowlist.txt) | [GPLv3](https://github.com/quindecim/block/blob/master/LICENSE.md) |
 
 ## Build
 
@@ -42,3 +58,4 @@ To generate your own list you can clone this repo, move into the `config` folder
 ```
 python3 generate-domains-blocklist.py > list.txt.tmp && mv -f list.txt.tmp list
 ```
+

@@ -3,16 +3,15 @@
 #        Allowlist        #
 ###########################
 
-## Author     : quindecim   : https://github.com/quindecim
+## Author      : quindecim  : https://github.com/quindecim
 ##                            https://git.nixnet.services/quindecim
 ##
-## Based on   : XIU2        : https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt
-##              quindecim   : https://raw.githubusercontent.com/quindecim/block/master/allowed-names.txt
+## Inclusions  : XIU2       : https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt
 ##
-## License    : GPLv3       : https://github.com/quindecim/block/blob/master/LICENSE.md
+## License     : GPLv3      : https://github.com/quindecim/block/blob/master/LICENSE.md
 ##
 ##
-## Version    : 2022.02.07
+## Version     : 2022.02.07
 
 # Torrent trackers
 =2.tracker.eu.org
