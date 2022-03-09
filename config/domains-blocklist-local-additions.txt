@@ -78,7 +78,6 @@
 *mkt9*
 *mkto-*
 *mobileoffer*
-*olx*
 *omniture*
 *omtrdc*
 *partner*
@@ -91,7 +90,6 @@
 *sentry*
 *sex*
 *statisti*
-*stats*
 *survey*
 *syndication*
 *tagmanager*
