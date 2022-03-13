@@ -44,6 +44,9 @@ translate.google.com
 # Lucky Patcher
 chelpus.com
 
+# Newspaper
+byoblu.com
+
 # Spotify
 open.spotify.com
 
