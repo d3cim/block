@@ -95,8 +95,7 @@
 *tagmanager*
 *tagserv*
 *telemetry*
-*track.*
-*tracking*
+*track*
 *trading*
 *trck*
 *trk*
