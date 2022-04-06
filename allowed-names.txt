@@ -23,9 +23,5 @@ feedback.ebay.*   # eBay customers reviews
 # [*sex*]
 =privacy.sexy   # website of a tool that enforce privacy & security on Windows and macOS
 
-# [*yandex*]
-=api-maps.yandex.ru   # a Yandex maps service
-=disk.yandex.com      # a Yandex service that lets you store files on their servers
-
 # [graph.*]
 =graph.rockstargames.com   # required for browse rockstargames.com
