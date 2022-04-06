@@ -15,10 +15,6 @@ Hardened blocklist project designed for [dnscrypt-proxy](https://github.com/DNSC
 
 ### allowed-names.txt
 
-| Source | Maintainer(s) | Description | Home Page | RAW Source | License |
-|--------|:-------------:|-------------|:---------:|:----------:|:-------:|
-XIU2: TrackersListCollection | XIU2 | Torrent trackers collection. | [LINK](https://github.com/XIU2/TrackersListCollection) | [RAW](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt) | [GPLv3](https://github.com/XIU2/TrackersListCollection/blob/master/LICENSE) |
-
 ### blocked-ips.txt
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
