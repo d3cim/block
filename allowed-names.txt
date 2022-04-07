@@ -9,7 +9,7 @@
 ## License     : GPLv3      : https://github.com/quindecim/block/blob/master/LICENSE.md
 ##
 ##
-## Version     : 2022.04.06
+## Version     : 2022.04.07
 
 # Torrent trackers
 =2.tracker.eu.org
@@ -29,18 +29,22 @@
 =ipv6.tracker.harry.lu
 =ipv6.tracker.monitorit4.me
 =ipv6.tracker.zerobytes.xyz
+=leet-tracker.moe
 =mgtracker.org
 =milanesitracker.tekcities.com
 =mytracker.fly.dev
 =nyaa.tracker.wf
 =open.acgnxtracker.com
 =open.acgtracker.com
+=open.free-tracker.ga
 =open.kickasstracker.com
 =open.miotracker.com
 =open.publictracker.xyz
 =opentracker.acgnx.se
+=opentracker.cc
 =open.tracker.cl
 =opentracker.i2p.rocks
+=open.tracker.ink
 =open.tracker.thepiratebay.org
 =opentracker.xyz
 =opentrackr.org
@@ -53,6 +57,7 @@
 =retracker.akado-ural.ru
 =retracker.baikal-telecom.net
 =retracker.hotplug.ru
+=retracker.joxnet.ru
 =retracker.lanta-net.ru
 =retracker.local
 =retracker.netbynet.ru
@@ -60,6 +65,7 @@
 =retracker.sevstar.net
 =retracker.spark-rostov.ru
 =retracker.spb.ru
+=run.publictracker.xyz
 =rutracker.cr
 =rutracker.net
 =rutracker.nl
@@ -67,6 +73,7 @@
 =thetracker.org
 =t.nyaatracker.com
 =torrenttracker.nwc.acsalaska.net
+=t.publictracker.xyz
 =tracker.0o.is
 =tracker0.ufibox.com
 =tracker.0x.tf
@@ -74,6 +81,7 @@
 =tracker1.bt.moack.co.kr
 =tracker1.itzmx.com
 =tracker1.itzmx.com80
+=tracker1.myporn.club
 =tracker2.christianbro.pw
 =tracker2.dler.com
 =tracker2.dler.org
@@ -95,6 +103,7 @@
 =tracker.anonwebz.xyz
 =tracker.army
 =tracker.auctor.tv
+=tracker.babico.name.tr
 =tracker.beeimg.com
 =tracker.birkenwald.de
 =tracker.bitsearch.to
@@ -172,6 +181,7 @@
 =tracker.lilithraws.cf
 =tracker.lilithraws.org
 =tracker.loadbt.com
+=tracker.merded.xyz
 =tracker.mg64.net
 =tracker.mgtracker.org
 =tracker.mightynova.com
@@ -214,6 +224,7 @@
 =tracker.shkinev.me
 =tracker.sigterm.xyz
 =tracker.sktorrent.net
+=tracker.skynetcloud.site
 =tracker.skyts.net
 =tracker.sloppyta.co
 =tracker.srv00.com
