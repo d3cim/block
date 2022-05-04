@@ -6,10 +6,12 @@
 ## Author      : quindecim  : https://github.com/quindecim
 ##                            https://git.nixnet.services/quindecim
 ##
+## Inclusions  : XIU2       : https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt
+##
 ## License     : GPLv3      : https://github.com/quindecim/block/blob/master/LICENSE.md
 ##
 ##
-## Version     : 2022.04.07
+## Version     : 2022.05.05
 
 # Torrent trackers
 =2.tracker.eu.org
@@ -272,6 +274,9 @@
 =trk.publictracker.xyz
 =udp-tracker.shittyurl.org
 =us-tracker.publictracker.xyz
+
+# [*ads-*]
+=free.downloads-api-prod.androidacy.com   # Androidacy downloads
 
 # [*connectivitycheck*]
 =connectivitycheck.android.com   # required for Aurora Store v4
