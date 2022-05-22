@@ -40,9 +40,6 @@ tiarap.org
 tiar.app
 uncensoreddns.org
 
-# Google
-translate.google.com
-
 # Lucky Patcher
 chelpus.com
 
