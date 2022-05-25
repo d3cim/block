@@ -40,6 +40,9 @@ tiarap.org
 tiar.app
 uncensoreddns.org
 
+# FreeDNS (freedns.afraid.org) subdomain
+soon.it
+
 # Lucky Patcher
 chelpus.com
 
