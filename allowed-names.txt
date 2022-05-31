@@ -11,7 +11,7 @@
 ## License     : GPLv3      : https://github.com/quindecim/block/blob/master/LICENSE.md
 ##
 ##
-## Version     : 2022.05.30
+## Version     : 2022.05.31
 
 # Torrent trackers
 =2.tracker.eu.org
@@ -275,11 +275,15 @@
 =udp-tracker.shittyurl.org
 =us-tracker.publictracker.xyz
 
+# [*.click*]
+=fibra.click         # Italian forum about FTTH deployments
+=forum.fibra.click   # Italian forum about FTTH deployments
+
 # [*ads-*]
 =free.downloads-api-prod.androidacy.com   # Androidacy downloads
 
 # [*connectivitycheck*]
-=connectivitycheck.android.com   # required for Aurora Store v4
+=connectivitycheck.android.com          # required for Aurora Store v4
 =connectivitycheck.grapheneos.network   # GrapheneOS connectivity check
 
 # [*feedback*]
