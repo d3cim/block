@@ -44,6 +44,7 @@ NoTracking | notracking | A merged list from a variety of other lists. | [LINK](
 OISD: full | Stephan (sjhgvr) | A merged list from a variety of other lists. | [LINK](https://oisd.nl/) | [RAW](https://dblw.oisd.nl/) | All Rights Reserved |
 OISD: extra | Stephan (sjhgvr) | OISD's controversial domains list. | [LINK](https://oisd.nl/) | [RAW](https://dblw.oisd.nl/extra/) | All Rights Reserved |
 Oneoffdallas: DoH Servers List | oneoffdallas | A list of publicly available DNS over HTTPS (DoH) servers. | [LINK](https://github.com/oneoffdallas/dohservers) | [RAW](https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt) | [MIT](https://github.com/oneoffdallas/dohservers/blob/master/LICENSE) |
+WindowsSpyBlocker: spy | crazy-max (CrazyMax) | Block spying and tracking on Windows. | [LINK](https://github.com/crazy-max/WindowsSpyBlocker) | [RAW](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt) | [MIT](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/LICENSE) |
 
 #### Exclusions
 
