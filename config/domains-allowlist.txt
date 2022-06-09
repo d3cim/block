@@ -49,6 +49,9 @@ chelpus.com
 # Newspaper
 byoblu.com
 
+# Payments
+includes.ccdc02.com   # PayPal checkouts
+
 # Spotify
 open.spotify.com
 
