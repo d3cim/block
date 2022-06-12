@@ -31,6 +31,7 @@ DNSCrypt: Rebind Protection | jedisct1 | DNS rebinding protection | [LINK](https
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|
+AdroitAdorKhan: antipopads:re | AdroitAdorKhan (Ador) | Block malicious pop ads domains. | [LINK](https://github.com/AdroitAdorKhan/antipopads-re) | [RAW](https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt) | [MIT](https://github.com/AdroitAdorKhan/antipopads-re/blob/master/LICENSE) |
 anudeepND: adservers | anudeepND (Anudeep) | Block advertising, trackers, malwares and other unsafe domains. | [LINK](https://github.com/anudeepND/blacklist) | [RAW](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) | [MIT](https://github.com/anudeepND/blacklist/blob/master/LICENSE) |
 Developer Dan: Ads & Tracking | Daniel (lightswitch05) | Block advertising, trackers, malwares and other unsafe domains. | [LINK](https://github.com/lightswitch05/hosts) | [RAW](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) | [Apache-2.0](https://github.com/lightswitch05/hosts/blob/master/LICENSE) |
 Developer Dan: AMP Hosts | Daniel (lightswitch05) | Block Google's Accelerated Mobile Pages (AMP). | [LINK](https://github.com/lightswitch05/hosts) | [RAW](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt) | [Apache-2.0](https://github.com/lightswitch05/hosts/blob/master/LICENSE) |
