@@ -10,9 +10,6 @@
 ##
 ## License   : GPLv3       : https://github.com/quindecim/block/blob/master/LICENSE.md
 
-# A2Z APK
-a2zapk.com
-
 # DNS servers list
 applied-privacy.net
 appliedprivacy.net
@@ -43,17 +40,11 @@ uncensoreddns.org
 # Google
 translate.google.com
 
-# Lucky Patcher
-chelpus.com
-
 # Newspaper
-byoblu.com
+byoblu.com   # Italian news
 
 # Payments
 includes.ccdc02.com   # PayPal checkouts
-
-# Spotify
-open.spotify.com
 
 # TIDAL
 et.tidal.com
