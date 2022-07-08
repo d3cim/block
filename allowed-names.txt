@@ -11,7 +11,7 @@
 ## License     : GPLv3      : https://github.com/quindecim/block/blob/master/LICENSE.md
 ##
 ##
-## Version     : 2022.05.31
+## Version     : 2022.07.08
 
 # Torrent trackers
 =2.tracker.eu.org
@@ -25,6 +25,7 @@
 =fasttracker.foreverpirates.co
 =filetracker.xyz
 =fr33domtracker.h33t.com
+=free.open.tracker.4.starka.st
 =free.publictracker.xyz
 =free-tracker.zooki.xyz
 =ipv4.tracker.harry.lu
@@ -83,6 +84,7 @@
 =tracker1.bt.moack.co.kr
 =tracker1.itzmx.com
 =tracker1.itzmx.com80
+=tracker1.loli.co.nz
 =tracker1.myporn.club
 =tracker2.christianbro.pw
 =tracker2.dler.com
@@ -90,13 +92,17 @@
 =tracker2.indowebster.com
 =tracker2.itzmx.com
 =tracker2.wasabii.com.tw
+=tracker3.ctix.cn
 =tracker3.dler.org
 =tracker3.itzmx.com
+=tracker.4.babico.name.tr
 =tracker4.itzmx.com
 =tracker4.piratux.com
+=tracker.6.babico.name.tr
 =tracker6.lelux.fi
 =tracker.acg.gg
 =tracker.acgnx.se
+=tracker.aeerso.space
 =tracker.aletorrenty.pl
 =tracker.ali213.net
 =tracker.ali213.net80
@@ -104,6 +110,7 @@
 =tracker.anirena.com
 =tracker.anonwebz.xyz
 =tracker.army
+=tracker.artixlinux.org
 =tracker.auctor.tv
 =tracker.babico.name.tr
 =tracker.beeimg.com
@@ -133,6 +140,7 @@
 =tracker-de.ololosh.space
 =tracker.dler.com
 =tracker.dler.org
+=tracker.dmhy.pw
 =tracker.ds.is
 =tracker.dutchtracking.nl
 =tracker.eddie4.nl
@@ -177,6 +185,7 @@
 =tracker.kali.org
 =tracker.kamigami.org
 =tracker.kuroy.me
+=tracker.k.vu
 =tracker.leechers-paradise.org
 =tracker.leech.ie
 =tracker.lelux.fi
@@ -217,6 +226,7 @@
 =tracker.prq.to
 =tracker.publicbt.com
 =tracker.publichd.eu
+=tracker.publictracker.xyz
 =tracker.pubt.net
 =tracker.pussytorrents.org
 =tracker.qt.is
