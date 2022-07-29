@@ -11,7 +11,7 @@
 ## License     : GPLv3      : https://github.com/quindecim/block/blob/master/LICENSE.md
 ##
 ##
-## Version     : 2022.07.08
+## Version     : 2022.07.29
 
 # Torrent trackers
 =2.tracker.eu.org
@@ -306,7 +306,9 @@ feedback.ebay.*   # eBay customers reviews
 =privacy.sexy   # website of a tool that enforce privacy & security on Windows and macOS
 
 # [*track*]
+=17track.net               # a global all-in-one package tracking platform
 =console.17track.net       # a global all-in-one package tracking platform
+=m.17track.net             # a global all-in-one package tracking platform
 =msg.17track.net           # a global all-in-one package tracking platform
 =pay.17track.net           # a global all-in-one package tracking platform
 =res.17track.net           # a global all-in-one package tracking platform
