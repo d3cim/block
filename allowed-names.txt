@@ -11,13 +11,14 @@
 ## License     : GPLv3      : https://github.com/quindecim/block/blob/master/LICENSE.md
 ##
 ##
-## Version     : 2022.07.29
+## Version     : 2022.09.16
 
 # Torrent trackers
 =2.tracker.eu.org
 =3.tracker.eu.org
 =atrack.pow7.com
 =big-boss-tracker.net
+=bt.ktrackers.com
 =bttracker.crunchbanglinux.org
 =bttracker.debian.org
 =bt-tracker.gamexp.ru
@@ -81,12 +82,14 @@
 =tracker0.ufibox.com
 =tracker.0x.tf
 =tracker.1337x.org
+=tracker1.520.jp
 =tracker1.bt.moack.co.kr
 =tracker1.itzmx.com
 =tracker1.itzmx.com80
 =tracker1.loli.co.nz
 =tracker1.myporn.club
 =tracker2.christianbro.pw
+=tracker2.ctix.cn
 =tracker2.dler.com
 =tracker2.dler.org
 =tracker2.indowebster.com
@@ -113,6 +116,7 @@
 =tracker.artixlinux.org
 =tracker.auctor.tv
 =tracker.babico.name.tr
+=tracker.baka.ink
 =tracker.beeimg.com
 =tracker.birkenwald.de
 =tracker.bitsearch.to
@@ -148,7 +152,9 @@
 =tracker.empire-js.us
 =tracker.etree.org
 =tracker.e-utp.net
+=tracker.expli.top
 =tracker.ex.ua
+=tracker.farted.net
 =tracker.fastcast.nz
 =tracker.fatkhoala.org
 =tracker.fdn.fr
@@ -180,7 +186,10 @@
 =tracker.iriseden.eu
 =tracker.iriseden.fr
 =tracker.istole.it
+=tracker.jiesen.life
+=tracker.jonaslsa.com
 =tracker.jordan.im
+=tracker.joybomb.tw
 =tracker.justseed.it
 =tracker.kali.org
 =tracker.kamigami.org
@@ -246,6 +255,7 @@
 =tracker.tambovnet.org
 =tracker.tamersunion.org
 =tracker.tasvideos.org
+=tracker.tcp.exchange
 =tracker.teambelgium.net
 =tracker.tfile.co
 =tracker.tfile.me
@@ -267,6 +277,7 @@
 =tracker.vanitycore.co
 =tracker.vectahosting.eu
 =tracker.vraphim.com
+=tracker.vrpnet.org
 =tracker.windsormetalbattery.com
 =tracker.winglai.com
 =tracker.x4w.co
