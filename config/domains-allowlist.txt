@@ -17,6 +17,7 @@ a2zapk.com
 applied-privacy.net
 appliedprivacy.net
 censurfridns.dk
+dandelionsprout.asuscomm.com
 digitale-gesellschaft.ch
 dnscrypt.ca
 dnsforge.de
@@ -30,10 +31,10 @@ libredns.gr.com
 libredns.org
 meganerd.nl
 neutopia.org
-nextdns.io
 nixnet.xyz
 opendns.com
 post-factum.tk
+rethinkdns.com
 seby.io
 securedns.eu
 tiarap.org
