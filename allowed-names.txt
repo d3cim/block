@@ -11,7 +11,7 @@
 ## License     : GPLv3      : https://github.com/quindecim/block/blob/master/LICENSE.md
 ##
 ##
-## Version     : 2022.09.16
+## Version     : 2022.10.08
 
 # Torrent trackers
 =2.tracker.eu.org
@@ -295,6 +295,9 @@
 =trk.publictracker.xyz
 =udp-tracker.shittyurl.org
 =us-tracker.publictracker.xyz
+
+# [*.ads*]
+=www.adsuaq.org   # Italian university website
 
 # [*.click*]
 =fibra.click         # Italian forum about FTTH deployments
