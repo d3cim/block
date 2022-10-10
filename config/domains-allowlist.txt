@@ -25,6 +25,7 @@ dns.snopyta.org
 dnswarden.com
 faelix.net
 ffmuc.net
+getdnsapi.net
 lelux.fi
 libredns.gr
 libredns.gr.com
