@@ -21,6 +21,7 @@ dandelionsprout.asuscomm.com
 digitale-gesellschaft.ch
 dnscrypt.ca
 dnsforge.de
+dns.sb
 dns.snopyta.org
 dnswarden.com
 faelix.net
