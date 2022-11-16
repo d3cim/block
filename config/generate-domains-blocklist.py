@@ -1,6 +1,7 @@
 #! /usr/bin/env python3
 
-# run with python3 generate-domains-blocklist.py > list.txt.tmp && mv -f list.txt.tmp list
+# Linux, run with: python3 generate-domains-blocklist.py > list.txt.tmp && mv -f list.txt.tmp list
+# Windows, run with: py generate-domains-blocklist.py > list.txt
 
 import argparse
 import re

@@ -52,7 +52,13 @@ domains-allowlist.txt | quindecim | Legit domains collection. | [LINK](https://g
 ## Build
 
 To generate your own list you can clone this repo, move into the `config` folder, edit files according to your needs and run this command:
+
+#### Linux
 ```
 python3 generate-domains-blocklist.py > list.txt.tmp && mv -f list.txt.tmp list
+```
+#### Windows
+```
+py generate-domains-blocklist.py > list.txt
 ```
 
