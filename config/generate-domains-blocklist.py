@@ -255,6 +255,7 @@ def blocklists_from_config_file(
             print("# Ignored duplicates: {}".format(ignored))
         if allowed:
             print("# Ignored entries due to the allowlist: {}".format(allowed))
+        list_names = sorted(set(list_names))  
         for name in list_names:
             print(name)
 
