@@ -7,6 +7,8 @@ import argparse
 import re
 import sys
 
+domain_list = []
+
 try:
     import urllib2 as urllib
 
@@ -257,7 +259,8 @@ def blocklists_from_config_file(
             print("# Ignored entries due to the allowlist: {}".format(allowed))
         list_names = sorted(set(list_names))  
         for name in list_names:
-            print(name)
+            domain_list.append(name)            
+        for y in sorted([x.strip().split('.')[::-1] for x in domain_list]): print('.'.join(y[::-1]))    
 
 
 argp = argparse.ArgumentParser(
