@@ -7,6 +7,9 @@ import argparse
 import re
 import sys
 
+#added domain_list variable
+domain_list = []
+
 try:
     import urllib2 as urllib
 
@@ -183,9 +186,9 @@ def allowlist_from_url(url):
     names, _time_restrictions = parse_list(content, trusted)
     return names
 
-
+#added sort arg
 def blocklists_from_config_file(
-    file, allowlist, time_restricted_url, ignore_retrieval_failure
+    file, allowlist, time_restricted_url, ignore_retrieval_failure, sort
 ):
     blocklists = {}
     allowed_names = set()
@@ -241,6 +244,7 @@ def blocklists_from_config_file(
         print("\n# Blocklist from [{}]".format(url))
         ignored, allowed = 0, 0
         list_names = list()
+        
         for name in names:
             if has_suffix(all_names, name) or name in unique_names or covered_by_regex(name, all_regexes):
                 ignored = ignored + 1
@@ -255,8 +259,29 @@ def blocklists_from_config_file(
             print("# Ignored duplicates: {}".format(ignored))
         if allowed:
             print("# Ignored entries due to the allowlist: {}".format(allowed))
+        # added list_names = sorted(set(list_names)) to sort domains
+        list_names = sorted(set(list_names))    
         for name in list_names:
-            print(name)
+            #commented out print(name) below
+            #print(name)
+            #added domain_list.append(name) below
+            domain_list.append(name)
+
+    #added domain/tld sorting function below
+    data = []
+    for x in domain_list:
+        d = x.strip().split('.')
+        d.reverse()
+        data.append(d)
+    #if -s tld / --sort tld commandline arg used then sort via tld   
+    if args.sort == 'tld':
+        data.sort()
+    #otherwise sort via domain     
+    else:
+        data.sort(key=lambda x: x[1:])
+    for y in data:
+        y.reverse()
+        print('.'.join(y))
 
 
 argp = argparse.ArgumentParser(
@@ -293,6 +318,15 @@ argp.add_argument(
 )
 argp.add_argument("-t", "--timeout", default=30, help="URL open timeout")
 
+#added argp.add_argument for sort commandline option
+argp.add_argument(
+    "-s",
+    "--sort",
+    default="domain",
+    help="sort method, either: none = domain (default) or tld",
+)
+
+
 args = argp.parse_args()
 
 whitelist = args.whitelist
@@ -305,5 +339,9 @@ allowlist = args.allowlist
 time_restricted = args.time_restricted
 ignore_retrieval_failure = args.ignore_retrieval_failure
 
+#added sort to arg list
+sort = args.sort
+
+#added sort to arg list
 blocklists_from_config_file(
-    conf, allowlist, time_restricted, ignore_retrieval_failure)
+    conf, allowlist, time_restricted, ignore_retrieval_failure, sort)
