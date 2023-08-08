@@ -24,7 +24,6 @@
 *adebis*
 *adimg*
 *adlog*
-*ads-*
 *adsense*
 *adserv*
 *adsrv*
