@@ -2,13 +2,13 @@
 ########################################
 #         domains-allowlist.txt        #
 #                                      #
-#  https://github.com/quindecim/block  #
+#    https://github.com/d3cim/block    #
 ########################################
 
-## Author    : quindecim   : https://github.com/quindecim
-##                           https://git.nixnet.services/quindecim
+## Author    : d3cim  : https://github.com/d3cim
+##                      https://git.nixnet.services/d3cim
 ##
-## License   : GPLv3       : https://github.com/quindecim/block/blob/master/LICENSE.md
+## License   : GPLv3  : https://github.com/d3cim/block/blob/master/LICENSE.md
 
 # A2Z APK
 a2zapk.com

@@ -3,12 +3,12 @@
 #        Allowlist        #
 ###########################
 
-## Author      : quindecim  : https://github.com/quindecim
-##                            https://git.nixnet.services/quindecim
+## Author      : d3cim  : https://github.com/d3cim
+##                        https://git.nixnet.services/d3cim
 ##
-## Inclusions  : XIU2       : https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt
+## Inclusions  : XIU2   : https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt
 ##
-## License     : GPLv3      : https://github.com/quindecim/block/blob/master/LICENSE.md
+## License     : GPLv3  : https://github.com/d3cim/block/blob/master/LICENSE.md
 ##
 ##
 ## Version     : 2023.08.08
