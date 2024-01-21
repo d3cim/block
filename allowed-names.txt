@@ -9,7 +9,7 @@
 ## License     : GPLv3  : https://github.com/d3cim/block/blob/master/LICENSE.md
 ##
 ##
-## Version     : 2023.08.08
+## Version     : 2024.01.21
 
 # [*.ads*]
 =www.adsuaq.org   # Italian university website
