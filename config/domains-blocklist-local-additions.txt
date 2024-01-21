@@ -49,11 +49,9 @@
 *connectivitycheck*
 *counter*
 *criteo*
-*dating*
 *doubleclick*
 *ebis.*
 *eulerian*
-*feedback*
 *firebase*
 *free-*
 *izatcloud*
@@ -79,7 +77,6 @@
 *mobileoffer*
 *omniture*
 *omtrdc*
-*partner*
 *popup*
 *promo-*
 *promoti*
@@ -94,7 +91,6 @@
 *tagmanager*
 *tagserv*
 *telemetry*
-*track*
 *trading*
 *trck*
 *trk*
