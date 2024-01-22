@@ -36,7 +36,6 @@ hBlock | Héctor Molinero Fernández (hectorm) | A merged list from a variety of
 hagezi: DoH Bypass | hagezi (Gerd) | A merged list from a variety of other lists. | [LINK](https://github.com/hagezi/dns-blocklists) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-onlydomains.txt) | [GPLv3](https://github.com/hagezi/dns-blocklists/blob/main/LICENSE) |
 hagezi: Threat Intelligence Feeds | hagezi (Gerd) | A merged list from a variety of other lists. | [LINK](https://github.com/hagezi/dns-blocklists) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt) | [GPLv3](https://github.com/hagezi/dns-blocklists/blob/main/LICENSE) |
 hagezi: Ultimate | hagezi (Gerd) | A merged list from a variety of other lists. | [LINK](https://github.com/hagezi/dns-blocklists) | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate-onlydomains.txt) | [GPLv3](https://github.com/hagezi/dns-blocklists/blob/main/LICENSE) |
-NoTracking | notracking | A merged list from a variety of other lists. | [LINK](https://github.com/notracking/hosts-blocklists) | [RAW](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt) | All Rights Reserved |
 OISD: big | Stephan (sjhgvr) | A merged list from a variety of other lists. | [LINK](https://oisd.nl/) | [RAW](https://big.oisd.nl/domainswild) | All Rights Reserved |
 
 #### Exclusions
