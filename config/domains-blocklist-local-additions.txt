@@ -110,6 +110,7 @@ ebayrtm.com
 event.*
 events.*
 fonts.gstatic.com
+graph.*
 id.google.*
 log.*
 logger.*
