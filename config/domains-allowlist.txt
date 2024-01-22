@@ -19,10 +19,11 @@ appliedprivacy.net
 censurfridns.dk
 dandelionsprout.asuscomm.com
 digitale-gesellschaft.ch
-dnscrypt.ca
-dnsforge.de
 dns.sb
 dns.snopyta.org
+dnscry.pt
+dnscrypt.ca
+dnsforge.de
 dnswarden.com
 faelix.net
 ffmuc.net
@@ -39,8 +40,8 @@ post-factum.tk
 rethinkdns.com
 seby.io
 securedns.eu
-tiarap.org
 tiar.app
+tiarap.org
 uncensoreddns.org
 
 # Google
